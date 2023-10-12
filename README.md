@@ -5,5 +5,7 @@ lo adecue para uso en Latam
 traducidos y totalmente consumibles...
 
 
-si te gustó... 🍺🍻 invitame una chela
+Si te gustó... 🍺🍻 invitame una chela
 ebrio me salen mejor las cosas!!
+
+paypal / ajhuneorvm
