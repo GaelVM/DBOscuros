@@ -39,6 +39,10 @@ jobs:
       - name: Commit files to gh-pages 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: artifacts
+          folder: folder
           branch: gh-pages
-          
+
+      - name: Verificar credenciales de Git
+          run: |
+            git config --global --get user.name
+            git config --global --get user.email

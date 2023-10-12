@@ -4,7 +4,7 @@ import { mkdirp, writeFile } from 'fs-extra';
 import { getRocketInvasions } from './rocketInvasions';
 
 const main = async () => {
-  const outputPath = './artifacts';
+  const outputPath = './folder';
   await mkdirp(outputPath);
 
   // community days.
