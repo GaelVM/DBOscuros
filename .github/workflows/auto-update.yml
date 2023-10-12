@@ -36,7 +36,7 @@ jobs:
         with:
           args: yarn start
 
-      - name: Commit files to gh-pages 🚀
+      - name: Commit files to gh-pages 🚀🍺
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: folder
