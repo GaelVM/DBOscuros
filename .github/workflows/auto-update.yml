@@ -41,8 +41,3 @@ jobs:
         with:
           folder: folder
           branch: gh-pages
-
-      - name: Verificar credenciales de Git
-        run: |
-          git config --global --get user.name
-          git config --global --get user.email
