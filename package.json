@@ -1,9 +1,9 @@
 {
-  "name": "data-pokemongohub",
+  "name": "dboscuros",
   "version": "0.1.0",
   "description": "Get Pokemon GO information from pokemon GO Hub website.",
   "main": "dist/index.js",
-  "repository": "https://github.com/pmgo-professor-willow/data-pokemongohub",
+  "repository": "https://github.com/GaelVM/DBOscuros",
   "author": "Ze-Hao Wang",
   "license": "MIT",
   "scripts": {
