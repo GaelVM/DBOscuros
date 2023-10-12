@@ -37,7 +37,7 @@ jobs:
           args: yarn start
 
       - name: Commit files to gh-pages 🚀
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: aJamesIves/github-pages-deploy-action@v4
         with:
           folder: artifacts
           branch: gh-pages
