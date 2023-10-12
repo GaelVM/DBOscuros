@@ -30,7 +30,7 @@ interface LineupPokemon {
   imageUrl: string;
 }
 
-const pokedex = new Pokedex();
+const pokedex = new Pokedex('en-US');
 
 const translateDescription = (description: string) => {
   const matchedRule = descriptionDict.find((rule) => (new RegExp(rule.pattern, 'i')).test(description));
@@ -110,7 +110,8 @@ const getGruntRocketInvasions = async () => {
         const pokemon = pokedex.getPokemonByFuzzyName(originalName);
         const imageUrl = lineupPokemonItem.querySelector('img')?.getAttribute('data-lazy-src') ?? '';
         const shinyAvailable = lineupPokemonItem.classNames.includes('shiny');
-
+        
+         
         all.push({
           slotNo: i + 1,
           no: pokemon.no,
