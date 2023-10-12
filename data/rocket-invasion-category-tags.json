@@ -1,137 +1,137 @@
 [
     {
         "text": "Normal",
-        "displayText": "一般",
+        "displayText": "Normal",
         "priority": 1
     },
     {
         "text": "Fire",
-        "displayText": "火",
+        "displayText": "Fuego",
         "priority": 2
     },
     {
         "text": "Water",
-        "displayText": "水",
+        "displayText": "Agua",
         "priority": 3
     },
     {
         "text": "Grass",
-        "displayText": "草",
+        "displayText": "Planta",
         "priority": 4
     },
     {
         "text": "Electric",
-        "displayText": "電",
+        "displayText": "Eléctrico",
         "priority": 5
     },
     {
         "text": "Fighting",
-        "displayText": "格鬥",
+        "displayText": "Lucha",
         "priority": 6
     },
     {
         "text": "Poison",
-        "displayText": "毒",
+        "displayText": "Veneno",
         "priority": 7
     },
     {
         "text": "Ground",
-        "displayText": "地面",
+        "displayText": "Tierra",
         "priority": 8
     },
     {
         "text": "Flying",
-        "displayText": "飛行",
+        "displayText": "Volador",
         "priority": 9
     },
     {
         "text": "Psychic",
-        "displayText": "超能力",
+        "displayText": "Psíquico",
         "priority": 10
     },
     {
         "text": "Bug",
-        "displayText": "蟲",
+        "displayText": "Bicho",
         "priority": 11
     },
     {
         "text": "Rock",
-        "displayText": "岩石",
+        "displayText": "Roca",
         "priority": 12
     },
     {
         "text": "Ghost",
-        "displayText": "幽靈",
+        "displayText": "Fantasma",
         "priority": 13
     },
     {
         "text": "Ice",
-        "displayText": "冰",
+        "displayText": "Hielo",
         "priority": 14
     },
     {
         "text": "Dragon",
-        "displayText": "龍",
+        "displayText": "Dragón",
         "priority": 15
     },
     {
         "text": "Dark",
-        "displayText": "惡",
+        "displayText": "Siniestro",
         "priority": 16
     },
     {
         "text": "Steel",
-        "displayText": "鋼",
+        "displayText": "Acero",
         "priority": 17
     },
     {
         "text": "Fairy",
-        "displayText": "妖精",
+        "displayText": "Hada",
         "priority": 18
     },
     {
         "text": "Typeless",
-        "displayText": "無法判斷",
+        "displayText": "No Identificado",
         "priority": 21
     },
     {
         "text": "Magikarp",
-        "displayText": "鯉魚王",
+        "displayText": "Magikarp",
         "priority": 31
     },
     {
         "text": "Leader Sierra",
-        "displayText": "幹部 希爾拉",
+        "displayText": "Sierra",
         "priority": 51
     },
     {
         "text": "Leader Arlo",
-        "displayText": "幹部 亞洛",
+        "displayText": "Arlo",
         "priority": 52
     },
     {
         "text": "Leader Cliff",
-        "displayText": "幹部 克里夫",
+        "displayText": "Cliff",
         "priority": 53
     },
     {
         "text": "Decoy Grunt",
-        "displayText": "冒牌手下",
+        "displayText": "Señuelo",
         "priority": 53
     },
     {
         "text": "Boss Giovanni",
-        "displayText": "阪木老大",
+        "displayText": "Giovanni",
         "priority": 54
     },
     {
         "text": "James",
-        "displayText": "小次郎",
+        "displayText": "James",
         "priority": 71
     },
     {
         "text": "Jessie",
-        "displayText": "武藏",
+        "displayText": "Jessie",
         "priority": 72
     }
 ]

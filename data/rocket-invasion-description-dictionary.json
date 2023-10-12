@@ -1,78 +1,78 @@
 [
     {
         "pattern": "Normal doesn’t mean weak.",
-        "displayText": "你以為一般屬性很弱嗎？"
+        "displayText": "Normal no significa débil."
     },
     {
         "pattern": "Do you know how hot Pokémon fire breath can get?",
-        "displayText": "你知道寶可夢吐出的火焰有多熱嗎？"
+        "displayText": "¿Sabes lo caliente que puede llegar a ser el aliento de fuego de Pokémon?"
     },
     {
         "pattern": "These waters are treacherous",
-        "displayText": "這片海域很危險！"
+        "displayText": "Estas aguas son traicioneras."
     },
     {
         "pattern": "Get ready to be shocked!",
-        "displayText": "你就等著被電吧！"
+        "displayText": "¡Prepárate para sorprenderte!"
     },
     {
         "pattern": "Don’t tangle with us!",
-        "displayText": "我們可是野火燒不盡，春風吹又生！"
+        "displayText": "¡No te metas con nosotros!"
     },
     {
         "pattern": "You’re gonna be frozen in your tracks.",
-        "displayText": "我要把你們全部凍僵！"
+        "displayText": "Te quedarás congelado en seco."
     },
     {
         "pattern": "This buff physique isn’t just for show!",
-        "displayText": "這飽滿的肌肉可不是擺著好看的！"
+        "displayText": "¡Este físico musculoso no es sólo para lucirse!"
     },
     {
         "pattern": "Coiled and ready to strike!",
-        "displayText": "好好嚐嚐著猛毒吧！"
+        "displayText": "¡Enrollado y listo para atacar!"
     },
     {
         "pattern": "You’ll be defeated into the ground!",
-        "displayText": "我會把你重重摔到地面上！"
+        "displayText": "¡Serás derrotado hasta el suelo!"
     },
     {
         "pattern": "Battle against my Flying-type Pokémon!",
-        "displayText": "讓你見識見識我華麗的飛行屬性寶可夢！"
+        "displayText": "¡Lucha contra mis Pokémon de tipo Volador!"
     },
     {
         "pattern": "Are you scared of psychics that use unseen power?",
-        "displayText": "使用看不見力量的超能力者是不是讓你很害怕啊？"
+        "displayText": "¿Tienes miedo de los psíquicos que usan poderes invisibles?"
     },
     {
         "pattern": "Go, my super bug Pokémon!",
-        "displayText": "我可愛的昆蟲寶可夢，上吧！"
+        "displayText": "¡Vamos, mi Pokémon súper bicho!"
     },
     {
         "pattern": "Let’s rock and roll!",
-        "displayText": "Let's rock and roll！"
+        "displayText": "¡Vamos a rockanrolear!"
     },
     {
         "pattern": "Ke…ke…ke…ke…ke…ke!",
-        "displayText": "科、科科、科科科！"
+        "displayText": "Ke…ke…ke…ke…ke…ke!！"
     },
     {
         "pattern": "ROAR! … How’d that sound?",
-        "displayText": "吼喔喔喔喔！怎樣，嚇到了吧！"
+        "displayText": "¡RUGIDO! … ¿Qué te parece?"
     },
     {
         "pattern": "Wherever there is light, there is also shadow.",
-        "displayText": "有光的地方，就會有影子！"
+        "displayText": "Donde hay luz, también hay sombra."
     },
     {
         "pattern": "You’re no match for my iron will!",
-        "displayText": "我的意志跟鋼鐵一樣強韌！"
+        "displayText": "¡No eres rival para mi voluntad de hierro!！"
     },
     {
         "pattern": "Check out my cute Pokémon!",
-        "displayText": "看看我這可愛的寶可夢！"
+        "displayText": "¡Mira mi lindo Pokémon!！"
     },
     {
         "pattern": "Don’t bother – I’ve already won.&nbsp;\nGet ready to be defeated!\nWinning is for winners!",
-        "displayText": "你怎麼可能打得過我呢。\n你就等著打輸吧！\n只有贏家才能贏！"
+        "displayText": "No te molestes, ya gané.&nbsp;\n¡Prepárate para ser derrotado!\n¡Ganar es para los ganadores!"
     }
 ]
