@@ -1,5 +1,5 @@
 # DBOscuros
-Data Oscuros, como el corazón de ella &lt;3
+Oscuros, como el corazón de ella &lt;3
 
 # Bienvenido
 
