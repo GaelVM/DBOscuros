@@ -370,7 +370,7 @@
     "quote": "¡No te metas con nosotros!",
     "orignialQuote": "Don’t tangle with us!",
     "category": "Planta",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -479,7 +479,7 @@
     "quote": "¡Prepárate para sorprenderte!",
     "orignialQuote": "Get ready to be shocked!",
     "category": "Eléctrico",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1177,7 +1177,7 @@
     "quote": "¿Tienes miedo de los psíquicos que usan poderes invisibles?",
     "orignialQuote": "Are you scared of psychics that use unseen power?",
     "category": "Psíquico",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1411,7 +1411,7 @@
     "quote": "¡Vamos a rockanrolear!",
     "orignialQuote": "Let’s rock and roll!",
     "category": "Roca",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1644,7 +1644,7 @@
     "quote": "Te quedarás congelado en seco.",
     "orignialQuote": "You’re gonna be frozen in your tracks.",
     "category": "Hielo",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1756,7 +1756,7 @@
     "quote": "¡RUGIDO! … ¿Qué te parece?",
     "orignialQuote": "ROAR! … How’d that sound?",
     "category": "Dragón",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -2040,7 +2040,7 @@
     "quote": "¡Mira mi lindo Pokémon!！",
     "orignialQuote": "Check out my cute Pokémon!",
     "category": "Hada",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
