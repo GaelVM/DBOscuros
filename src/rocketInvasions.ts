@@ -54,7 +54,7 @@ const categoryMapping = (categoryTag: string) => {
 };
 
 const characterImageUrlMapping = (characterName?: string) => {
-  const baseUrl = 'https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/';
+  const baseUrl = 'https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/';
 
   switch (characterName) {
     case 'Cliff':
