@@ -3,7 +3,7 @@
     "quote": "Normal no significa débil.",
     "orignialQuote": "Normal doesn’t mean weak.",
     "category": "Normal",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -886,7 +886,7 @@
     "quote": "¡Enrollado y listo para atacar!",
     "orignialQuote": "Coiled and ready to strike!",
     "category": "Veneno",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1524,7 +1524,7 @@
     "quote": "Ke…ke…ke…ke…ke…ke!！",
     "orignialQuote": "Ke…ke…ke…ke…ke…ke!",
     "category": "Fantasma",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1644,7 +1644,7 @@
     "quote": "Te quedarás congelado en seco.",
     "orignialQuote": "You’re gonna be frozen in your tracks.",
     "category": "Hielo",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1756,7 +1756,7 @@
     "quote": "¡RUGIDO! … ¿Qué te parece?",
     "orignialQuote": "ROAR! … How’d that sound?",
     "category": "Dragón",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
