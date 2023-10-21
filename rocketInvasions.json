@@ -3,7 +3,7 @@
     "quote": "Normal no significa débil.",
     "orignialQuote": "Normal doesn’t mean weak.",
     "category": "Normal",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -585,7 +585,7 @@
     "quote": "¡Este físico musculoso no es sólo para lucirse!",
     "orignialQuote": "This buff physique isn’t just for show!",
     "category": "Lucha",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -678,7 +678,7 @@
     "quote": "No te molestes, ya gané.&nbsp;\n¡Prepárate para ser derrotado!\n¡Ganar es para los ganadores!",
     "orignialQuote": "Don’t bother – I’ve already won.&nbsp;\nGet ready to be defeated!\nWinning is for winners!",
     "category": "Lucha",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1051,7 +1051,7 @@
     "quote": "¡Lucha contra mis Pokémon de tipo Volador!",
     "orignialQuote": "Battle against my Flying-type Pokémon!",
     "category": "Volador",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1411,7 +1411,7 @@
     "quote": "¡Vamos a rockanrolear!",
     "orignialQuote": "Let’s rock and roll!",
     "category": "Roca",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
