@@ -109,7 +109,7 @@
     "quote": "¿Sabes lo caliente que puede llegar a ser el aliento de fuego de Pokémon?",
     "orignialQuote": "Do you know how hot Pokémon fire breath can get?",
     "category": "Fuego",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -216,7 +216,7 @@
     "quote": "Estas aguas son traicioneras.",
     "orignialQuote": "These waters are treacherous",
     "category": "Agua",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -370,7 +370,7 @@
     "quote": "¡No te metas con nosotros!",
     "orignialQuote": "Don’t tangle with us!",
     "category": "Planta",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -585,7 +585,7 @@
     "quote": "¡Este físico musculoso no es sólo para lucirse!",
     "orignialQuote": "This buff physique isn’t just for show!",
     "category": "Lucha",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -678,7 +678,7 @@
     "quote": "No te molestes, ya gané.&nbsp;\n¡Prepárate para ser derrotado!\n¡Ganar es para los ganadores!",
     "orignialQuote": "Don’t bother – I’ve already won.&nbsp;\nGet ready to be defeated!\nWinning is for winners!",
     "category": "Lucha",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1177,7 +1177,7 @@
     "quote": "¿Tienes miedo de los psíquicos que usan poderes invisibles?",
     "orignialQuote": "Are you scared of psychics that use unseen power?",
     "category": "Psíquico",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1756,7 +1756,7 @@
     "quote": "¡RUGIDO! … ¿Qué te parece?",
     "orignialQuote": "ROAR! … How’d that sound?",
     "category": "Dragón",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1854,7 +1854,7 @@
     "quote": "Donde hay luz, también hay sombra.",
     "orignialQuote": "Wherever there is light, there is also shadow.",
     "category": "Siniestro",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
