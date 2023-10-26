@@ -1,7 +1,7 @@
 [
   {
-    "quote": "Normal no significa débil.",
-    "orignialQuote": "Normal doesn’t mean weak.",
+    "quote": "",
+    "orignialQuote": "",
     "category": "Normal",
     "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
@@ -10,7 +10,7 @@
         "slotNo": 1,
         "no": 52,
         "name": "Meowth",
-        "originalName": "Meowth",
+        "originalName": "Meowth (Shadow)",
         "types": [
           "Normal"
         ],
@@ -22,7 +22,7 @@
         "slotNo": 1,
         "no": 431,
         "name": "Glameow",
-        "originalName": "Glameow",
+        "originalName": "Glameow (Shadow)",
         "types": [
           "Normal"
         ],
@@ -34,7 +34,7 @@
         "slotNo": 2,
         "no": 19,
         "name": "Rattata",
-        "originalName": "Rattata",
+        "originalName": "Rattata (Shadow)",
         "types": [
           "Normal"
         ],
@@ -46,7 +46,7 @@
         "slotNo": 2,
         "no": 20,
         "name": "Raticate",
-        "originalName": "Raticate",
+        "originalName": "Raticate (Shadow)",
         "types": [
           "Normal"
         ],
@@ -58,7 +58,7 @@
         "slotNo": 2,
         "no": 432,
         "name": "Purugly",
-        "originalName": "Purugly",
+        "originalName": "Purugly (Shadow)",
         "types": [
           "Normal"
         ],
@@ -70,7 +70,7 @@
         "slotNo": 3,
         "no": 217,
         "name": "Ursaring",
-        "originalName": "Ursaring",
+        "originalName": "Ursaring (Shadow)",
         "types": [
           "Normal"
         ],
@@ -82,7 +82,7 @@
         "slotNo": 3,
         "no": 20,
         "name": "Raticate",
-        "originalName": "Raticate",
+        "originalName": "Raticate (Shadow)",
         "types": [
           "Normal"
         ],
@@ -94,7 +94,7 @@
         "slotNo": 3,
         "no": 400,
         "name": "Bibarel",
-        "originalName": "Bibarel",
+        "originalName": "Bibarel (Shadow)",
         "types": [
           "Normal",
           "Water"
@@ -106,8 +106,8 @@
     ]
   },
   {
-    "quote": "¿Sabes lo caliente que puede llegar a ser el aliento de fuego de Pokémon?",
-    "orignialQuote": "Do you know how hot Pokémon fire breath can get?",
+    "quote": "",
+    "orignialQuote": "",
     "category": "Fuego",
     "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
     "isSpecial": false,
@@ -116,7 +116,7 @@
         "slotNo": 1,
         "no": 255,
         "name": "Torchic",
-        "originalName": "Torchic",
+        "originalName": "Torchic (Shadow)",
         "types": [
           "Fire"
         ],
@@ -126,22 +126,22 @@
       },
       {
         "slotNo": 1,
-        "no": 322,
-        "name": "Numel",
-        "originalName": "Numel",
+        "no": 607,
+        "name": "Litwick",
+        "originalName": "Litwick (Shadow)",
         "types": [
-          "Fire",
-          "Ground"
+          "Ghost",
+          "Fire"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/322.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/607.png"
       },
       {
         "slotNo": 1,
         "no": 37,
         "name": "Vulpix",
-        "originalName": "Vulpix",
+        "originalName": "Vulpix (Shadow)",
         "types": [
           "Fire"
         ],
@@ -153,7 +153,7 @@
         "slotNo": 2,
         "no": 156,
         "name": "Quilava",
-        "originalName": "Quilava",
+        "originalName": "Quilava (Shadow)",
         "types": [
           "Fire"
         ],
@@ -163,11 +163,12 @@
       },
       {
         "slotNo": 2,
-        "no": 126,
-        "name": "Magmar",
-        "originalName": "Magmar",
+        "no": 802,
+        "name": "Marshadow",
+        "originalName": "Magmar (Shadow)",
         "types": [
-          "Fire"
+          "Fighting",
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -177,7 +178,7 @@
         "slotNo": 3,
         "no": 157,
         "name": "Typhlosion",
-        "originalName": "Typhlosion",
+        "originalName": "Typhlosion (Shadow)",
         "types": [
           "Fire"
         ],
@@ -189,7 +190,7 @@
         "slotNo": 3,
         "no": 323,
         "name": "Camerupt",
-        "originalName": "Camerupt",
+        "originalName": "Camerupt (Shadow)",
         "types": [
           "Fire",
           "Ground"
@@ -202,7 +203,7 @@
         "slotNo": 3,
         "no": 38,
         "name": "Ninetales",
-        "originalName": "Ninetales",
+        "originalName": "Ninetales (Shadow)",
         "types": [
           "Fire"
         ],
@@ -213,29 +214,29 @@
     ]
   },
   {
-    "quote": "Estas aguas son traicioneras.",
-    "orignialQuote": "These waters are treacherous",
+    "quote": "",
+    "orignialQuote": "",
     "category": "Agua",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
         "slotNo": 1,
-        "no": 258,
-        "name": "Mudkip",
-        "originalName": "Mudkip",
+        "no": 90,
+        "name": "Shellder",
+        "originalName": "Shellder (Shadow)",
         "types": [
           "Water"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/258.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/090.png"
       },
       {
         "slotNo": 1,
         "no": 54,
         "name": "Psyduck",
-        "originalName": "Psyduck",
+        "originalName": "Psyduck (Shadow)",
         "types": [
           "Water"
         ],
@@ -245,21 +246,22 @@
       },
       {
         "slotNo": 1,
-        "no": 320,
-        "name": "Wailmer",
-        "originalName": "Wailmer",
+        "no": 339,
+        "name": "Barboach",
+        "originalName": "Barboach (Shadow)",
         "types": [
-          "Water"
+          "Water",
+          "Ground"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/320.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/339.png"
       },
       {
         "slotNo": 2,
         "no": 159,
         "name": "Croconaw",
-        "originalName": "Croconaw",
+        "originalName": "Croconaw (Shadow)",
         "types": [
           "Water"
         ],
@@ -271,7 +273,7 @@
         "slotNo": 2,
         "no": 55,
         "name": "Golduck",
-        "originalName": "Golduck",
+        "originalName": "Golduck (Shadow)",
         "types": [
           "Water"
         ],
@@ -283,7 +285,7 @@
         "slotNo": 3,
         "no": 160,
         "name": "Feraligatr",
-        "originalName": "Feraligatr",
+        "originalName": "Feraligatr (Shadow)",
         "types": [
           "Water"
         ],
@@ -295,7 +297,7 @@
         "slotNo": 3,
         "no": 55,
         "name": "Golduck",
-        "originalName": "Golduck",
+        "originalName": "Golduck (Shadow)",
         "types": [
           "Water"
         ],
@@ -307,7 +309,7 @@
         "slotNo": 3,
         "no": 321,
         "name": "Wailord",
-        "originalName": "Wailord",
+        "originalName": "Wailord (Shadow)",
         "types": [
           "Water"
         ],
@@ -319,7 +321,7 @@
         "slotNo": 4,
         "no": 129,
         "name": "Magikarp",
-        "originalName": "Magikarp",
+        "originalName": "Magikarp (Shadow)",
         "types": [
           "Water"
         ],
@@ -331,7 +333,7 @@
         "slotNo": 5,
         "no": 129,
         "name": "Magikarp",
-        "originalName": "Magikarp",
+        "originalName": "Magikarp (Shadow)",
         "types": [
           "Water"
         ],
@@ -343,7 +345,7 @@
         "slotNo": 6,
         "no": 129,
         "name": "Magikarp",
-        "originalName": "Magikarp",
+        "originalName": "Magikarp (Shadow)",
         "types": [
           "Water"
         ],
@@ -355,7 +357,7 @@
         "slotNo": 6,
         "no": 130,
         "name": "Gyarados",
-        "originalName": "Gyarados",
+        "originalName": "Gyarados (Shadow)",
         "types": [
           "Water",
           "Flying"
@@ -367,17 +369,17 @@
     ]
   },
   {
-    "quote": "¡No te metas con nosotros!",
-    "orignialQuote": "Don’t tangle with us!",
+    "quote": "",
+    "orignialQuote": "",
     "category": "Planta",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
         "slotNo": 1,
         "no": 331,
         "name": "Cacnea",
-        "originalName": "Cacnea",
+        "originalName": "Cacnea (Shadow)",
         "types": [
           "Grass"
         ],
@@ -389,7 +391,7 @@
         "slotNo": 1,
         "no": 252,
         "name": "Treecko",
-        "originalName": "Treecko",
+        "originalName": "Treecko (Shadow)",
         "types": [
           "Grass"
         ],
@@ -401,7 +403,7 @@
         "slotNo": 1,
         "no": 43,
         "name": "Oddish",
-        "originalName": "Oddish",
+        "originalName": "Oddish (Shadow)",
         "types": [
           "Grass",
           "Poison"
@@ -414,7 +416,7 @@
         "slotNo": 2,
         "no": 153,
         "name": "Bayleef",
-        "originalName": "Bayleef",
+        "originalName": "Bayleef (Shadow)",
         "types": [
           "Grass"
         ],
@@ -426,7 +428,7 @@
         "slotNo": 2,
         "no": 44,
         "name": "Gloom",
-        "originalName": "Gloom",
+        "originalName": "Gloom (Shadow)",
         "types": [
           "Grass",
           "Poison"
@@ -439,7 +441,7 @@
         "slotNo": 3,
         "no": 332,
         "name": "Cacturne",
-        "originalName": "Cacturne",
+        "originalName": "Cacturne (Shadow)",
         "types": [
           "Grass",
           "Dark"
@@ -452,7 +454,7 @@
         "slotNo": 3,
         "no": 154,
         "name": "Meganium",
-        "originalName": "Meganium",
+        "originalName": "Meganium (Shadow)",
         "types": [
           "Grass"
         ],
@@ -464,7 +466,7 @@
         "slotNo": 3,
         "no": 591,
         "name": "Amoonguss",
-        "originalName": "Amoonguss",
+        "originalName": "Amoonguss (Shadow)",
         "types": [
           "Grass",
           "Poison"
@@ -476,8 +478,8 @@
     ]
   },
   {
-    "quote": "¡Prepárate para sorprenderte!",
-    "orignialQuote": "Get ready to be shocked!",
+    "quote": "",
+    "orignialQuote": "",
     "category": "Eléctrico",
     "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
@@ -486,7 +488,7 @@
         "slotNo": 1,
         "no": 403,
         "name": "Shinx",
-        "originalName": "Shinx",
+        "originalName": "Shinx (Shadow)",
         "types": [
           "Electric"
         ],
@@ -496,11 +498,12 @@
       },
       {
         "slotNo": 1,
-        "no": 179,
-        "name": "Mareep",
-        "originalName": "Mareep",
+        "no": 802,
+        "name": "Marshadow",
+        "originalName": "Mareep (Shadow)",
         "types": [
-          "Electric"
+          "Fighting",
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -510,7 +513,7 @@
         "slotNo": 1,
         "no": 522,
         "name": "Blitzle",
-        "originalName": "Blitzle",
+        "originalName": "Blitzle (Shadow)",
         "types": [
           "Electric"
         ],
@@ -522,7 +525,7 @@
         "slotNo": 2,
         "no": 100,
         "name": "Voltorb",
-        "originalName": "Voltorb",
+        "originalName": "Voltorb (Shadow)",
         "types": [
           "Electric"
         ],
@@ -534,7 +537,7 @@
         "slotNo": 2,
         "no": 74,
         "name": "Geodude",
-        "originalName": "Geodude (Alola)",
+        "originalName": "Geodude (Alola Shadow)",
         "types": [
           "Rock",
           "Electric"
@@ -547,7 +550,7 @@
         "slotNo": 3,
         "no": 405,
         "name": "Luxray",
-        "originalName": "Luxray",
+        "originalName": "Luxray (Shadow)",
         "types": [
           "Electric"
         ],
@@ -559,7 +562,7 @@
         "slotNo": 3,
         "no": 181,
         "name": "Ampharos",
-        "originalName": "Ampharos",
+        "originalName": "Ampharos (Shadow)",
         "types": [
           "Electric"
         ],
@@ -571,7 +574,7 @@
         "slotNo": 3,
         "no": 523,
         "name": "Zebstrika",
-        "originalName": "Zebstrika",
+        "originalName": "Zebstrika (Shadow)",
         "types": [
           "Electric"
         ],
@@ -582,8 +585,8 @@
     ]
   },
   {
-    "quote": "¡Este físico musculoso no es sólo para lucirse!",
-    "orignialQuote": "This buff physique isn’t just for show!",
+    "quote": "",
+    "orignialQuote": "",
     "category": "Lucha",
     "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
     "isSpecial": false,
@@ -592,7 +595,7 @@
         "slotNo": 1,
         "no": 237,
         "name": "Hitmontop",
-        "originalName": "Hitmontop",
+        "originalName": "Hitmontop (Shadow)",
         "types": [
           "Fighting"
         ],
@@ -604,7 +607,7 @@
         "slotNo": 1,
         "no": 106,
         "name": "Hitmonlee",
-        "originalName": "Hitmonlee",
+        "originalName": "Hitmonlee (Shadow)",
         "types": [
           "Fighting"
         ],
@@ -616,7 +619,7 @@
         "slotNo": 1,
         "no": 107,
         "name": "Hitmonchan",
-        "originalName": "Hitmonchan",
+        "originalName": "Hitmonchan (Shadow)",
         "types": [
           "Fighting"
         ],
@@ -628,7 +631,7 @@
         "slotNo": 2,
         "no": 237,
         "name": "Hitmontop",
-        "originalName": "Hitmontop",
+        "originalName": "Hitmontop (Shadow)",
         "types": [
           "Fighting"
         ],
@@ -640,7 +643,7 @@
         "slotNo": 2,
         "no": 106,
         "name": "Hitmonlee",
-        "originalName": "Hitmonlee",
+        "originalName": "Hitmonlee (Shadow)",
         "types": [
           "Fighting"
         ],
@@ -652,7 +655,7 @@
         "slotNo": 2,
         "no": 107,
         "name": "Hitmonchan",
-        "originalName": "Hitmonchan",
+        "originalName": "Hitmonchan (Shadow)",
         "types": [
           "Fighting"
         ],
@@ -664,7 +667,7 @@
         "slotNo": 3,
         "no": 237,
         "name": "Hitmontop",
-        "originalName": "Hitmontop",
+        "originalName": "Hitmontop (Shadow)",
         "types": [
           "Fighting"
         ],
@@ -675,8 +678,8 @@
     ]
   },
   {
-    "quote": "No te molestes, ya gané.&nbsp;\n¡Prepárate para ser derrotado!\n¡Ganar es para los ganadores!",
-    "orignialQuote": "Don’t bother – I’ve already won.&nbsp;\nGet ready to be defeated!\nWinning is for winners!",
+    "quote": "",
+    "orignialQuote": "",
     "category": "Lucha",
     "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
@@ -685,7 +688,7 @@
         "slotNo": 1,
         "no": 143,
         "name": "Snorlax",
-        "originalName": "Snorlax",
+        "originalName": "Snorlax (Shadow)",
         "types": [
           "Normal"
         ],
@@ -697,7 +700,7 @@
         "slotNo": 2,
         "no": 143,
         "name": "Snorlax",
-        "originalName": "Snorlax",
+        "originalName": "Snorlax (Shadow)",
         "types": [
           "Normal"
         ],
@@ -709,7 +712,7 @@
         "slotNo": 2,
         "no": 62,
         "name": "Poliwrath",
-        "originalName": "Poliwrath",
+        "originalName": "Poliwrath (Shadow)",
         "types": [
           "Water",
           "Fighting"
@@ -722,7 +725,7 @@
         "slotNo": 2,
         "no": 282,
         "name": "Gardevoir",
-        "originalName": "Gardevoir",
+        "originalName": "Gardevoir (Shadow)",
         "types": [
           "Psychic",
           "Fairy"
@@ -735,7 +738,7 @@
         "slotNo": 3,
         "no": 143,
         "name": "Snorlax",
-        "originalName": "Snorlax",
+        "originalName": "Snorlax (Shadow)",
         "types": [
           "Normal"
         ],
@@ -747,7 +750,7 @@
         "slotNo": 3,
         "no": 130,
         "name": "Gyarados",
-        "originalName": "Gyarados",
+        "originalName": "Gyarados (Shadow)",
         "types": [
           "Water",
           "Flying"
@@ -760,7 +763,7 @@
         "slotNo": 3,
         "no": 149,
         "name": "Dragonite",
-        "originalName": "Dragonite",
+        "originalName": "Dragonite (Shadow)",
         "types": [
           "Dragon",
           "Flying"
@@ -770,10 +773,10 @@
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/149.png"
       },
       {
-        "slotNo": 6,
+        "slotNo": 4,
         "no": 4,
         "name": "Charmander",
-        "originalName": "Charmander",
+        "originalName": "Charmander (Shadow)",
         "types": [
           "Fire"
         ],
@@ -782,10 +785,10 @@
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/004.png"
       },
       {
-        "slotNo": 6,
+        "slotNo": 4,
         "no": 7,
         "name": "Squirtle",
-        "originalName": "Squirtle",
+        "originalName": "Squirtle (Shadow)",
         "types": [
           "Water"
         ],
@@ -794,10 +797,10 @@
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/007.png"
       },
       {
-        "slotNo": 6,
+        "slotNo": 4,
         "no": 1,
         "name": "Bulbasaur",
-        "originalName": "Bulbasaur",
+        "originalName": "Bulbasaur (Shadow)",
         "types": [
           "Grass",
           "Poison"
@@ -807,10 +810,10 @@
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/001.png"
       },
       {
-        "slotNo": 7,
+        "slotNo": 5,
         "no": 159,
         "name": "Croconaw",
-        "originalName": "Croconaw",
+        "originalName": "Croconaw (Shadow)",
         "types": [
           "Water"
         ],
@@ -819,10 +822,10 @@
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/159.png"
       },
       {
-        "slotNo": 7,
+        "slotNo": 5,
         "no": 156,
         "name": "Quilava",
-        "originalName": "Quilava",
+        "originalName": "Quilava (Shadow)",
         "types": [
           "Fire"
         ],
@@ -831,10 +834,10 @@
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/156.png"
       },
       {
-        "slotNo": 7,
+        "slotNo": 5,
         "no": 153,
         "name": "Bayleef",
-        "originalName": "Bayleef",
+        "originalName": "Bayleef (Shadow)",
         "types": [
           "Grass"
         ],
@@ -843,10 +846,10 @@
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/153.png"
       },
       {
-        "slotNo": 8,
+        "slotNo": 6,
         "no": 254,
         "name": "Sceptile",
-        "originalName": "Sceptile",
+        "originalName": "Sceptile (Shadow)",
         "types": [
           "Grass"
         ],
@@ -855,10 +858,10 @@
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/254.png"
       },
       {
-        "slotNo": 8,
+        "slotNo": 6,
         "no": 260,
         "name": "Swampert",
-        "originalName": "Swampert",
+        "originalName": "Swampert (Shadow)",
         "types": [
           "Water",
           "Ground"
@@ -868,10 +871,10 @@
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/260.png"
       },
       {
-        "slotNo": 8,
+        "slotNo": 6,
         "no": 257,
         "name": "Blaziken",
-        "originalName": "Blaziken",
+        "originalName": "Blaziken (Shadow)",
         "types": [
           "Fire",
           "Fighting"
@@ -883,8 +886,8 @@
     ]
   },
   {
-    "quote": "¡Enrollado y listo para atacar!",
-    "orignialQuote": "Coiled and ready to strike!",
+    "quote": "",
+    "orignialQuote": "",
     "category": "Veneno",
     "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
@@ -893,7 +896,7 @@
         "slotNo": 1,
         "no": 88,
         "name": "Grimer",
-        "originalName": "Grimer",
+        "originalName": "Grimer (Shadow)",
         "types": [
           "Poison"
         ],
@@ -905,7 +908,7 @@
         "slotNo": 1,
         "no": 590,
         "name": "Foongus",
-        "originalName": "Foongus",
+        "originalName": "Foongus (Shadow)",
         "types": [
           "Grass",
           "Poison"
@@ -918,7 +921,7 @@
         "slotNo": 2,
         "no": 30,
         "name": "Nidorina",
-        "originalName": "Nidorina",
+        "originalName": "Nidorina (Shadow)",
         "types": [
           "Poison"
         ],
@@ -930,7 +933,7 @@
         "slotNo": 2,
         "no": 33,
         "name": "Nidorino",
-        "originalName": "Nidorino",
+        "originalName": "Nidorino (Shadow)",
         "types": [
           "Poison"
         ],
@@ -942,7 +945,7 @@
         "slotNo": 3,
         "no": 110,
         "name": "Weezing",
-        "originalName": "Weezing",
+        "originalName": "Weezing (Shadow)",
         "types": [
           "Poison"
         ],
@@ -952,11 +955,12 @@
       },
       {
         "slotNo": 3,
-        "no": 89,
-        "name": "Muk",
-        "originalName": "Muk",
+        "no": 802,
+        "name": "Marshadow",
+        "originalName": "Muk (Shadow)",
         "types": [
-          "Poison"
+          "Psychic",
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -965,17 +969,17 @@
     ]
   },
   {
-    "quote": "¡Serás derrotado hasta el suelo!",
-    "orignialQuote": "You’ll be defeated into the ground!",
+    "quote": "",
+    "orignialQuote": "",
     "category": "Tierra",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
         "slotNo": 1,
         "no": 194,
         "name": "Wooper",
-        "originalName": "Wooper",
+        "originalName": "Wooper (Shadow)",
         "types": [
           "Water",
           "Ground"
@@ -986,21 +990,21 @@
       },
       {
         "slotNo": 1,
-        "no": 231,
-        "name": "Phanpy",
-        "originalName": "Phanpy",
+        "no": 529,
+        "name": "Drilbur",
+        "originalName": "Drilbur (Shadow)",
         "types": [
           "Ground"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/231.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/529.png"
       },
       {
         "slotNo": 2,
         "no": 449,
         "name": "Hippopotas",
-        "originalName": "Hippopotas",
+        "originalName": "Hippopotas (Shadow)",
         "types": [
           "Ground"
         ],
@@ -1010,21 +1014,22 @@
       },
       {
         "slotNo": 2,
-        "no": 232,
-        "name": "Donphan",
-        "originalName": "Donphan",
+        "no": 111,
+        "name": "Rhyhorn",
+        "originalName": "Rhyhorn (Shadow)",
         "types": [
-          "Ground"
+          "Ground",
+          "Rock"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/232.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/111.png"
       },
       {
         "slotNo": 3,
         "no": 450,
         "name": "Hippowdon",
-        "originalName": "Hippowdon",
+        "originalName": "Hippowdon (Shadow)",
         "types": [
           "Ground"
         ],
@@ -1036,7 +1041,7 @@
         "slotNo": 3,
         "no": 195,
         "name": "Quagsire",
-        "originalName": "Quagsire",
+        "originalName": "Quagsire (Shadow)",
         "types": [
           "Water",
           "Ground"
@@ -1048,20 +1053,20 @@
     ]
   },
   {
-    "quote": "¡Lucha contra mis Pokémon de tipo Volador!",
-    "orignialQuote": "Battle against my Flying-type Pokémon!",
+    "quote": "",
+    "orignialQuote": "",
     "category": "Volador",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
         "slotNo": 1,
         "no": 177,
         "name": "Natu",
-        "originalName": "Natu",
+        "originalName": "Natu (Shadow)",
         "types": [
           "Psychic",
-          "Flying"
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1071,7 +1076,7 @@
         "slotNo": 1,
         "no": 580,
         "name": "Ducklett",
-        "originalName": "Ducklett",
+        "originalName": "Ducklett (Shadow)",
         "types": [
           "Water",
           "Flying"
@@ -1084,7 +1089,7 @@
         "slotNo": 1,
         "no": 41,
         "name": "Zubat",
-        "originalName": "Zubat",
+        "originalName": "Zubat (Shadow)",
         "types": [
           "Poison",
           "Flying"
@@ -1097,10 +1102,10 @@
         "slotNo": 2,
         "no": 178,
         "name": "Xatu",
-        "originalName": "Xatu",
+        "originalName": "Xatu (Shadow)",
         "types": [
           "Psychic",
-          "Flying"
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1110,7 +1115,7 @@
         "slotNo": 2,
         "no": 397,
         "name": "Staravia",
-        "originalName": "Staravia",
+        "originalName": "Staravia (Shadow)",
         "types": [
           "Normal",
           "Flying"
@@ -1123,7 +1128,7 @@
         "slotNo": 2,
         "no": 42,
         "name": "Golbat",
-        "originalName": "Golbat",
+        "originalName": "Golbat (Shadow)",
         "types": [
           "Poison",
           "Flying"
@@ -1136,7 +1141,7 @@
         "slotNo": 3,
         "no": 149,
         "name": "Dragonite",
-        "originalName": "Dragonite",
+        "originalName": "Dragonite (Shadow)",
         "types": [
           "Dragon",
           "Flying"
@@ -1149,7 +1154,7 @@
         "slotNo": 3,
         "no": 130,
         "name": "Gyarados",
-        "originalName": "Gyarados",
+        "originalName": "Gyarados (Shadow)",
         "types": [
           "Water",
           "Flying"
@@ -1162,7 +1167,7 @@
         "slotNo": 3,
         "no": 169,
         "name": "Crobat",
-        "originalName": "Crobat",
+        "originalName": "Crobat (Shadow)",
         "types": [
           "Poison",
           "Flying"
@@ -1174,8 +1179,8 @@
     ]
   },
   {
-    "quote": "¿Tienes miedo de los psíquicos que usan poderes invisibles?",
-    "orignialQuote": "Are you scared of psychics that use unseen power?",
+    "quote": "",
+    "orignialQuote": "",
     "category": "Psíquico",
     "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
     "isSpecial": false,
@@ -1184,10 +1189,10 @@
         "slotNo": 1,
         "no": 177,
         "name": "Natu",
-        "originalName": "Natu",
+        "originalName": "Natu (Shadow)",
         "types": [
           "Psychic",
-          "Flying"
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1197,7 +1202,7 @@
         "slotNo": 1,
         "no": 325,
         "name": "Spoink",
-        "originalName": "Spoink",
+        "originalName": "Spoink (Shadow)",
         "types": [
           "Psychic"
         ],
@@ -1209,9 +1214,10 @@
         "slotNo": 1,
         "no": 63,
         "name": "Abra",
-        "originalName": "Abra",
+        "originalName": "Abra (Shadow)",
         "types": [
-          "Psychic"
+          "Psychic",
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1221,10 +1227,10 @@
         "slotNo": 2,
         "no": 280,
         "name": "Ralts",
-        "originalName": "Ralts",
+        "originalName": "Ralts (Shadow)",
         "types": [
           "Psychic",
-          "Fairy"
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1234,7 +1240,7 @@
         "slotNo": 2,
         "no": 203,
         "name": "Girafarig",
-        "originalName": "Girafarig",
+        "originalName": "Girafarig (Shadow)",
         "types": [
           "Normal",
           "Psychic"
@@ -1247,7 +1253,7 @@
         "slotNo": 3,
         "no": 375,
         "name": "Metang",
-        "originalName": "Metang",
+        "originalName": "Metang (Shadow)",
         "types": [
           "Steel",
           "Psychic"
@@ -1260,7 +1266,7 @@
         "slotNo": 3,
         "no": 97,
         "name": "Hypno",
-        "originalName": "Hypno",
+        "originalName": "Hypno (Shadow)",
         "types": [
           "Psychic"
         ],
@@ -1272,7 +1278,7 @@
         "slotNo": 3,
         "no": 65,
         "name": "Alakazam",
-        "originalName": "Alakazam",
+        "originalName": "Alakazam (Shadow)",
         "types": [
           "Psychic"
         ],
@@ -1283,17 +1289,17 @@
     ]
   },
   {
-    "quote": "¡Vamos, mi Pokémon súper bicho!",
-    "orignialQuote": "Go, my super bug Pokémon!",
+    "quote": "",
+    "orignialQuote": "",
     "category": "Bicho",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
         "slotNo": 1,
         "no": 204,
         "name": "Pineco",
-        "originalName": "Pineco",
+        "originalName": "Pineco (Shadow)",
         "types": [
           "Bug"
         ],
@@ -1305,7 +1311,7 @@
         "slotNo": 1,
         "no": 165,
         "name": "Ledyba",
-        "originalName": "Ledyba",
+        "originalName": "Ledyba (Shadow)",
         "types": [
           "Bug",
           "Flying"
@@ -1318,7 +1324,7 @@
         "slotNo": 1,
         "no": 595,
         "name": "Joltik",
-        "originalName": "Joltik",
+        "originalName": "Joltik (Shadow)",
         "types": [
           "Bug",
           "Electric"
@@ -1331,7 +1337,7 @@
         "slotNo": 2,
         "no": 13,
         "name": "Weedle",
-        "originalName": "Weedle",
+        "originalName": "Weedle (Shadow)",
         "types": [
           "Bug",
           "Poison"
@@ -1344,7 +1350,7 @@
         "slotNo": 2,
         "no": 14,
         "name": "Kakuna",
-        "originalName": "Kakuna",
+        "originalName": "Kakuna (Shadow)",
         "types": [
           "Bug",
           "Poison"
@@ -1357,7 +1363,7 @@
         "slotNo": 2,
         "no": 15,
         "name": "Beedrill",
-        "originalName": "Beedrill",
+        "originalName": "Beedrill (Shadow)",
         "types": [
           "Bug",
           "Poison"
@@ -1370,7 +1376,7 @@
         "slotNo": 3,
         "no": 205,
         "name": "Forretress",
-        "originalName": "Forretress",
+        "originalName": "Forretress (Shadow)",
         "types": [
           "Bug",
           "Steel"
@@ -1383,7 +1389,7 @@
         "slotNo": 3,
         "no": 212,
         "name": "Scizor",
-        "originalName": "Scizor",
+        "originalName": "Scizor (Shadow)",
         "types": [
           "Bug",
           "Steel"
@@ -1396,7 +1402,7 @@
         "slotNo": 3,
         "no": 15,
         "name": "Beedrill",
-        "originalName": "Beedrill",
+        "originalName": "Beedrill (Shadow)",
         "types": [
           "Bug",
           "Poison"
@@ -1408,8 +1414,8 @@
     ]
   },
   {
-    "quote": "¡Vamos a rockanrolear!",
-    "orignialQuote": "Let’s rock and roll!",
+    "quote": "",
+    "orignialQuote": "",
     "category": "Roca",
     "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
@@ -1418,7 +1424,7 @@
         "slotNo": 1,
         "no": 74,
         "name": "Geodude",
-        "originalName": "Geodude (Alola)",
+        "originalName": "Geodude (Alola Shadow)",
         "types": [
           "Rock",
           "Electric"
@@ -1431,7 +1437,7 @@
         "slotNo": 1,
         "no": 345,
         "name": "Lileep",
-        "originalName": "Lileep",
+        "originalName": "Lileep (Shadow)",
         "types": [
           "Rock",
           "Grass"
@@ -1444,7 +1450,7 @@
         "slotNo": 1,
         "no": 347,
         "name": "Anorith",
-        "originalName": "Anorith",
+        "originalName": "Anorith (Shadow)",
         "types": [
           "Rock",
           "Bug"
@@ -1457,7 +1463,7 @@
         "slotNo": 2,
         "no": 75,
         "name": "Graveler",
-        "originalName": "Graveler",
+        "originalName": "Graveler (Shadow)",
         "types": [
           "Rock",
           "Ground"
@@ -1470,7 +1476,7 @@
         "slotNo": 2,
         "no": 345,
         "name": "Lileep",
-        "originalName": "Lileep",
+        "originalName": "Lileep (Shadow)",
         "types": [
           "Rock",
           "Grass"
@@ -1483,7 +1489,7 @@
         "slotNo": 2,
         "no": 347,
         "name": "Anorith",
-        "originalName": "Anorith",
+        "originalName": "Anorith (Shadow)",
         "types": [
           "Rock",
           "Bug"
@@ -1496,7 +1502,7 @@
         "slotNo": 3,
         "no": 76,
         "name": "Golem",
-        "originalName": "Golem",
+        "originalName": "Golem (Shadow)",
         "types": [
           "Rock",
           "Ground"
@@ -1509,7 +1515,7 @@
         "slotNo": 3,
         "no": 76,
         "name": "Golem",
-        "originalName": "Golem (Alola)",
+        "originalName": "Golem (Alola Shadow)",
         "types": [
           "Rock",
           "Electric"
@@ -1521,17 +1527,30 @@
     ]
   },
   {
-    "quote": "Ke…ke…ke…ke…ke…ke!！",
-    "orignialQuote": "Ke…ke…ke…ke…ke…ke!",
+    "quote": "",
+    "orignialQuote": "",
     "category": "Fantasma",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
         "slotNo": 1,
+        "no": 92,
+        "name": "Gastly",
+        "originalName": "Gastly (Shadow)",
+        "types": [
+          "Ghost",
+          "Poison"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/092.png"
+      },
+      {
+        "slotNo": 1,
         "no": 355,
         "name": "Duskull",
-        "originalName": "Duskull",
+        "originalName": "Duskull (Shadow)",
         "types": [
           "Ghost"
         ],
@@ -1540,35 +1559,22 @@
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/355.png"
       },
       {
-        "slotNo": 1,
-        "no": 353,
-        "name": "Shuppet",
-        "originalName": "Shuppet",
+        "slotNo": 2,
+        "no": 354,
+        "name": "Banette",
+        "originalName": "Banette (Shadow)",
         "types": [
           "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/353.png"
-      },
-      {
-        "slotNo": 1,
-        "no": 425,
-        "name": "Drifloon",
-        "originalName": "Drifloon",
-        "types": [
-          "Ghost",
-          "Flying"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/425.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/354.png"
       },
       {
         "slotNo": 2,
         "no": 356,
         "name": "Dusclops",
-        "originalName": "Dusclops",
+        "originalName": "Dusclops (Shadow)",
         "types": [
           "Ghost"
         ],
@@ -1577,81 +1583,44 @@
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/356.png"
       },
       {
-        "slotNo": 2,
-        "no": 354,
-        "name": "Banette",
-        "originalName": "Banette",
+        "slotNo": 3,
+        "no": 94,
+        "name": "Gengar",
+        "originalName": "Gengar (Shadow)",
         "types": [
-          "Ghost"
+          "Ghost",
+          "Poison"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/354.png"
-      },
-      {
-        "slotNo": 2,
-        "no": 622,
-        "name": "Golett",
-        "originalName": "Golett",
-        "types": [
-          "Ground",
-          "Ghost"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/622.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/094.png"
       },
       {
         "slotNo": 3,
         "no": 477,
         "name": "Dusknoir",
-        "originalName": "Dusknoir",
+        "originalName": "Dusknoir (Shadow)",
         "types": [
           "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/477.png"
-      },
-      {
-        "slotNo": 3,
-        "no": 354,
-        "name": "Banette",
-        "originalName": "Banette",
-        "types": [
-          "Ghost"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/354.png"
-      },
-      {
-        "slotNo": 3,
-        "no": 623,
-        "name": "Golurk",
-        "originalName": "Golurk",
-        "types": [
-          "Ground",
-          "Ghost"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/623.png"
       }
     ]
   },
   {
-    "quote": "Te quedarás congelado en seco.",
-    "orignialQuote": "You’re gonna be frozen in your tracks.",
+    "quote": "",
+    "orignialQuote": "",
     "category": "Hielo",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
         "slotNo": 1,
         "no": 27,
         "name": "Sandshrew",
-        "originalName": "Sandshrew (Alola)",
+        "originalName": "Sandshrew (Alola Shadow)",
         "types": [
           "Ice",
           "Steel"
@@ -1664,7 +1633,7 @@
         "slotNo": 1,
         "no": 37,
         "name": "Vulpix",
-        "originalName": "Vulpix (Alola)",
+        "originalName": "Vulpix (Alola Shadow)",
         "types": [
           "Ice"
         ],
@@ -1676,7 +1645,7 @@
         "slotNo": 1,
         "no": 220,
         "name": "Swinub",
-        "originalName": "Swinub",
+        "originalName": "Swinub (Shadow)",
         "types": [
           "Ice",
           "Ground"
@@ -1689,7 +1658,7 @@
         "slotNo": 2,
         "no": 28,
         "name": "Sandslash",
-        "originalName": "Sandslash (Alola)",
+        "originalName": "Sandslash (Alola Shadow)",
         "types": [
           "Ice",
           "Steel"
@@ -1702,7 +1671,7 @@
         "slotNo": 2,
         "no": 459,
         "name": "Snover",
-        "originalName": "Snover",
+        "originalName": "Snover (Shadow)",
         "types": [
           "Grass",
           "Ice"
@@ -1715,7 +1684,7 @@
         "slotNo": 3,
         "no": 131,
         "name": "Lapras",
-        "originalName": "Lapras",
+        "originalName": "Lapras (Shadow)",
         "types": [
           "Water",
           "Ice"
@@ -1728,7 +1697,7 @@
         "slotNo": 3,
         "no": 91,
         "name": "Cloyster",
-        "originalName": "Cloyster",
+        "originalName": "Cloyster (Shadow)",
         "types": [
           "Water",
           "Ice"
@@ -1741,7 +1710,7 @@
         "slotNo": 3,
         "no": 460,
         "name": "Abomasnow",
-        "originalName": "Abomasnow",
+        "originalName": "Abomasnow (Shadow)",
         "types": [
           "Grass",
           "Ice"
@@ -1753,8 +1722,8 @@
     ]
   },
   {
-    "quote": "¡RUGIDO! … ¿Qué te parece?",
-    "orignialQuote": "ROAR! … How’d that sound?",
+    "quote": "",
+    "orignialQuote": "",
     "category": "Dragón",
     "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
@@ -1763,7 +1732,7 @@
         "slotNo": 1,
         "no": 103,
         "name": "Exeggutor",
-        "originalName": "Exeggutor (Alola)",
+        "originalName": "Exeggutor (Alola Shadow)",
         "types": [
           "Grass",
           "Dragon"
@@ -1774,9 +1743,21 @@
       },
       {
         "slotNo": 1,
+        "no": 147,
+        "name": "Dratini",
+        "originalName": "Dratini (Shadow)",
+        "types": [
+          "Dragon"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/147.png"
+      },
+      {
+        "slotNo": 1,
         "no": 443,
         "name": "Gible",
-        "originalName": "Gible",
+        "originalName": "Gible (Shadow)",
         "types": [
           "Dragon",
           "Ground"
@@ -1789,7 +1770,7 @@
         "slotNo": 2,
         "no": 148,
         "name": "Dragonair",
-        "originalName": "Dragonair",
+        "originalName": "Dragonair (Shadow)",
         "types": [
           "Dragon"
         ],
@@ -1801,7 +1782,7 @@
         "slotNo": 2,
         "no": 103,
         "name": "Exeggutor",
-        "originalName": "Exeggutor (Alola)",
+        "originalName": "Exeggutor (Alola Shadow)",
         "types": [
           "Grass",
           "Dragon"
@@ -1814,7 +1795,7 @@
         "slotNo": 3,
         "no": 148,
         "name": "Dragonair",
-        "originalName": "Dragonair",
+        "originalName": "Dragonair (Shadow)",
         "types": [
           "Dragon"
         ],
@@ -1826,7 +1807,7 @@
         "slotNo": 3,
         "no": 149,
         "name": "Dragonite",
-        "originalName": "Dragonite",
+        "originalName": "Dragonite (Shadow)",
         "types": [
           "Dragon",
           "Flying"
@@ -1837,31 +1818,31 @@
       },
       {
         "slotNo": 3,
-        "no": 444,
-        "name": "Gabite",
-        "originalName": "Gabite",
+        "no": 330,
+        "name": "Flygon",
+        "originalName": "Flygon (Shadow)",
         "types": [
-          "Dragon",
-          "Ground"
+          "Ground",
+          "Dragon"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/444.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/330.png"
       }
     ]
   },
   {
-    "quote": "Donde hay luz, también hay sombra.",
-    "orignialQuote": "Wherever there is light, there is also shadow.",
+    "quote": "",
+    "orignialQuote": "",
     "category": "Siniestro",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
         "slotNo": 1,
         "no": 88,
         "name": "Grimer",
-        "originalName": "Grimer (Alola)",
+        "originalName": "Grimer (Alola Shadow)",
         "types": [
           "Poison",
           "Dark"
@@ -1874,7 +1855,7 @@
         "slotNo": 1,
         "no": 19,
         "name": "Rattata",
-        "originalName": "Rattata (Alola)",
+        "originalName": "Rattata (Alola Shadow)",
         "types": [
           "Dark",
           "Normal"
@@ -1899,7 +1880,7 @@
         "slotNo": 2,
         "no": 20,
         "name": "Raticate",
-        "originalName": "Raticate (Alola)",
+        "originalName": "Raticate (Alola Shadow)",
         "types": [
           "Dark",
           "Normal"
@@ -1912,7 +1893,7 @@
         "slotNo": 3,
         "no": 594,
         "name": "Alomomola",
-        "originalName": "Muk (Alola)",
+        "originalName": "Muk (Alola Shadow)",
         "types": [
           "Poison",
           "Dark"
@@ -1924,20 +1905,20 @@
     ]
   },
   {
-    "quote": "¡No eres rival para mi voluntad de hierro!！",
-    "orignialQuote": "You’re no match for my iron will!",
+    "quote": "",
+    "orignialQuote": "",
     "category": "Acero",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
         "slotNo": 1,
         "no": 304,
         "name": "Aron",
-        "originalName": "Aron",
+        "originalName": "Aron (Shadow)",
         "types": [
-          "Steel",
-          "Rock"
+          "Psychic",
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -1947,7 +1928,7 @@
         "slotNo": 1,
         "no": 50,
         "name": "Diglett",
-        "originalName": "Diglett (Alola)",
+        "originalName": "Diglett (Alola Shadow)",
         "types": [
           "Ground",
           "Steel"
@@ -1960,7 +1941,7 @@
         "slotNo": 1,
         "no": 27,
         "name": "Sandshrew",
-        "originalName": "Sandshrew (Alola)",
+        "originalName": "Sandshrew (Alola Shadow)",
         "types": [
           "Ice",
           "Steel"
@@ -1973,7 +1954,7 @@
         "slotNo": 2,
         "no": 305,
         "name": "Lairon",
-        "originalName": "Lairon",
+        "originalName": "Lairon (Shadow)",
         "types": [
           "Steel",
           "Rock"
@@ -1986,7 +1967,7 @@
         "slotNo": 2,
         "no": 375,
         "name": "Metang",
-        "originalName": "Metang",
+        "originalName": "Metang (Shadow)",
         "types": [
           "Steel",
           "Psychic"
@@ -1999,20 +1980,19 @@
         "slotNo": 2,
         "no": 27,
         "name": "Sandshrew",
-        "originalName": "Sandshrew (Alola)",
+        "originalName": "Sandshrew (Shadow)",
         "types": [
-          "Ice",
-          "Steel"
+          "Ground"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/027_f2.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/027.png"
       },
       {
         "slotNo": 3,
         "no": 306,
         "name": "Aggron",
-        "originalName": "Aggron",
+        "originalName": "Aggron (Shadow)",
         "types": [
           "Steel",
           "Rock"
@@ -2025,7 +2005,7 @@
         "slotNo": 3,
         "no": 212,
         "name": "Scizor",
-        "originalName": "Scizor",
+        "originalName": "Scizor (Shadow)",
         "types": [
           "Bug",
           "Steel"
@@ -2037,8 +2017,8 @@
     ]
   },
   {
-    "quote": "¡Mira mi lindo Pokémon!！",
-    "orignialQuote": "Check out my cute Pokémon!",
+    "quote": "",
+    "orignialQuote": "",
     "category": "Hada",
     "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
     "isSpecial": false,
@@ -2047,10 +2027,10 @@
         "slotNo": 1,
         "no": 280,
         "name": "Ralts",
-        "originalName": "Ralts",
+        "originalName": "Ralts (Shadow)",
         "types": [
           "Psychic",
-          "Fairy"
+          "Ghost"
         ],
         "catchable": false,
         "shinyAvailable": false,
@@ -2060,7 +2040,7 @@
         "slotNo": 1,
         "no": 209,
         "name": "Snubbull",
-        "originalName": "Snubbull",
+        "originalName": "Snubbull (Shadow)",
         "types": [
           "Fairy"
         ],
@@ -2072,7 +2052,7 @@
         "slotNo": 1,
         "no": 303,
         "name": "Mawile",
-        "originalName": "Mawile",
+        "originalName": "Mawile (Shadow)",
         "types": [
           "Steel",
           "Fairy"
@@ -2085,7 +2065,7 @@
         "slotNo": 2,
         "no": 281,
         "name": "Kirlia",
-        "originalName": "Kirlia",
+        "originalName": "Kirlia (Shadow)",
         "types": [
           "Psychic",
           "Fairy"
@@ -2098,7 +2078,7 @@
         "slotNo": 2,
         "no": 209,
         "name": "Snubbull",
-        "originalName": "Snubbull",
+        "originalName": "Snubbull (Shadow)",
         "types": [
           "Fairy"
         ],
@@ -2110,7 +2090,7 @@
         "slotNo": 2,
         "no": 210,
         "name": "Granbull",
-        "originalName": "Granbull",
+        "originalName": "Granbull (Shadow)",
         "types": [
           "Fairy"
         ],
@@ -2122,7 +2102,7 @@
         "slotNo": 3,
         "no": 281,
         "name": "Kirlia",
-        "originalName": "Kirlia",
+        "originalName": "Kirlia (Shadow)",
         "types": [
           "Psychic",
           "Fairy"
@@ -2135,13 +2115,69 @@
         "slotNo": 3,
         "no": 210,
         "name": "Granbull",
-        "originalName": "Granbull",
+        "originalName": "Granbull (Shadow)",
         "types": [
           "Fairy"
         ],
         "catchable": false,
         "shinyAvailable": false,
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/210.png"
+      }
+    ]
+  },
+  {
+    "quote": "About Grunts",
+    "orignialQuote": "About Grunts",
+    "category": "",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
+    "isSpecial": false,
+    "lineupPokemons": []
+  },
+  {
+    "quote": "Recommended team for defeating Team GO Rocket Grunts",
+    "orignialQuote": "Recommended team for defeating Team GO Rocket Grunts",
+    "category": "",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
+    "isSpecial": false,
+    "lineupPokemons": [
+      {
+        "slotNo": 1,
+        "no": 464,
+        "name": "Rhyperior",
+        "originalName": "Rhyperior",
+        "types": [
+          "Ground",
+          "Rock"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/464.png"
+      },
+      {
+        "slotNo": 4,
+        "no": 6,
+        "name": "Charizard",
+        "originalName": "Charizard",
+        "types": [
+          "Fire",
+          "Flying"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/006.png"
+      },
+      {
+        "slotNo": 7,
+        "no": 448,
+        "name": "Lucario",
+        "originalName": "Lucario",
+        "types": [
+          "Fighting",
+          "Steel"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/448.png"
       }
     ]
   },
