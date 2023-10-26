@@ -3,7 +3,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "Normal",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -205,7 +205,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "Agua",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -348,7 +348,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "Planta",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -876,7 +876,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "Tierra",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1746,7 +1746,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "Acero",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
