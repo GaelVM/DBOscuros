@@ -348,7 +348,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "Planta",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -611,7 +611,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "Lucha",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -876,7 +876,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "Tierra",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1157,7 +1157,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "Bicho",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1269,7 +1269,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "Roca",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1476,7 +1476,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "Hielo",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1576,7 +1576,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "Dragón",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1673,7 +1673,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "Siniestro",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1833,7 +1833,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "Hada",
-    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/GaelVM/DBOscuros/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
