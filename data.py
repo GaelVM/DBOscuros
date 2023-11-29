@@ -37,11 +37,11 @@ if response.status_code == 200:
                 data = [cell.text.strip() for cell in cells]
                 # Crear un diccionario con los datos de la fila
                 row_data = {
-                    "Typo": data[0],
-                    "texto": data[1],
-                    "Slot1": data[2],
-                    "Slot2": data[3],
-                    "Slot3": data[4],
+                    "NoDex": data[0],
+                    "Nombre": data[1],
+                    "typo": data[2],
+                    "polvo": data[3],
+                    "Caramelo": data[4],
                 }
 
                 # Obtener o inicializar la lista para este tipo
@@ -50,19 +50,7 @@ if response.status_code == 200:
                 # Actualizar el diccionario con la lista actualizada
                 all_data_dict[data[0]] = type_list
 
-        # Leer el archivo de traducciones
-        with open('datos/oscuros.json', 'r', encoding='utf-8') as translation_file:
-            translations = json.load(translation_file)
-
-        # Agregar traducciones al diccionario original
-        for entry_list in all_data_dict.values():
-            for entry in entry_list:
-                matching_translation = next(
-                    (t["traduccion"] for t in translations if t["texto"] == entry["texto"]),
-                    None
-                )
-                if matching_translation:
-                    entry["traduccion"] = matching_translation
+       
 
         # Define la ruta completa del archivo JSON en la carpeta temporal
         json_file_path = os.path.join(temp_folder, "oscurosdata.json")

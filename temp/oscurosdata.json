@@ -1,0 +1,3275 @@
+{
+  "0001": [
+    {
+      "NoDex": "0001",
+      "Nombre": "Bulbasaur",
+      "typo": "Grass Poison",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0002": [
+    {
+      "NoDex": "0002",
+      "Nombre": "Ivysaur",
+      "typo": "Grass Poison",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0003": [
+    {
+      "NoDex": "0003",
+      "Nombre": "Venusaur",
+      "typo": "Grass Poison",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0004": [
+    {
+      "NoDex": "0004",
+      "Nombre": "Charmander",
+      "typo": "Fire",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0005": [
+    {
+      "NoDex": "0005",
+      "Nombre": "Charmeleon",
+      "typo": "Fire",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0006": [
+    {
+      "NoDex": "0006",
+      "Nombre": "Charizard",
+      "typo": "Fire Flying",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0007": [
+    {
+      "NoDex": "0007",
+      "Nombre": "Squirtle",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0008": [
+    {
+      "NoDex": "0008",
+      "Nombre": "Wartortle",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0009": [
+    {
+      "NoDex": "0009",
+      "Nombre": "Blastoise",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0013": [
+    {
+      "NoDex": "0013",
+      "Nombre": "Weedle",
+      "typo": "Bug Poison",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0014": [
+    {
+      "NoDex": "0014",
+      "Nombre": "Kakuna",
+      "typo": "Bug Poison",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0015": [
+    {
+      "NoDex": "0015",
+      "Nombre": "Beedrill",
+      "typo": "Bug Poison",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0019": [
+    {
+      "NoDex": "0019",
+      "Nombre": "Rattata",
+      "typo": "Normal",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    },
+    {
+      "NoDex": "0019",
+      "Nombre": "Rattata Alolan Rattata",
+      "typo": "Dark Normal",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0020": [
+    {
+      "NoDex": "0020",
+      "Nombre": "Raticate",
+      "typo": "Normal",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    },
+    {
+      "NoDex": "0020",
+      "Nombre": "Raticate Alolan Raticate",
+      "typo": "Dark Normal",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0023": [
+    {
+      "NoDex": "0023",
+      "Nombre": "Ekans",
+      "typo": "Poison",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0024": [
+    {
+      "NoDex": "0024",
+      "Nombre": "Arbok",
+      "typo": "Poison",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0027": [
+    {
+      "NoDex": "0027",
+      "Nombre": "Sandshrew",
+      "typo": "Ground",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    },
+    {
+      "NoDex": "0027",
+      "Nombre": "Sandshrew Alolan Sandshrew",
+      "typo": "Ice Steel",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0028": [
+    {
+      "NoDex": "0028",
+      "Nombre": "Sandslash",
+      "typo": "Ground",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    },
+    {
+      "NoDex": "0028",
+      "Nombre": "Sandslash Alolan Sandslash",
+      "typo": "Ice Steel",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0029": [
+    {
+      "NoDex": "0029",
+      "Nombre": "Nidoran♀",
+      "typo": "Poison",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0030": [
+    {
+      "NoDex": "0030",
+      "Nombre": "Nidorina",
+      "typo": "Poison",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0031": [
+    {
+      "NoDex": "0031",
+      "Nombre": "Nidoqueen",
+      "typo": "Poison Ground",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0032": [
+    {
+      "NoDex": "0032",
+      "Nombre": "Nidoran♂",
+      "typo": "Poison",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0033": [
+    {
+      "NoDex": "0033",
+      "Nombre": "Nidorino",
+      "typo": "Poison",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0034": [
+    {
+      "NoDex": "0034",
+      "Nombre": "Nidoking",
+      "typo": "Poison Ground",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0037": [
+    {
+      "NoDex": "0037",
+      "Nombre": "Vulpix",
+      "typo": "Fire",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    },
+    {
+      "NoDex": "0037",
+      "Nombre": "Vulpix Alolan Vulpix",
+      "typo": "Ice",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0038": [
+    {
+      "NoDex": "0038",
+      "Nombre": "Ninetales",
+      "typo": "Fire",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    },
+    {
+      "NoDex": "0038",
+      "Nombre": "Ninetales Alolan Ninetales",
+      "typo": "Ice Fairy",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0041": [
+    {
+      "NoDex": "0041",
+      "Nombre": "Zubat",
+      "typo": "Poison Flying",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0042": [
+    {
+      "NoDex": "0042",
+      "Nombre": "Golbat",
+      "typo": "Poison Flying",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0043": [
+    {
+      "NoDex": "0043",
+      "Nombre": "Oddish",
+      "typo": "Grass Poison",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0044": [
+    {
+      "NoDex": "0044",
+      "Nombre": "Gloom",
+      "typo": "Grass Poison",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0045": [
+    {
+      "NoDex": "0045",
+      "Nombre": "Vileplume",
+      "typo": "Grass Poison",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0048": [
+    {
+      "NoDex": "0048",
+      "Nombre": "Venonat",
+      "typo": "Bug Poison",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0049": [
+    {
+      "NoDex": "0049",
+      "Nombre": "Venomoth",
+      "typo": "Bug Poison",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0050": [
+    {
+      "NoDex": "0050",
+      "Nombre": "Diglett",
+      "typo": "Ground",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    },
+    {
+      "NoDex": "0050",
+      "Nombre": "Diglett Alolan Diglett",
+      "typo": "Ground Steel",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0051": [
+    {
+      "NoDex": "0051",
+      "Nombre": "Dugtrio",
+      "typo": "Ground",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    },
+    {
+      "NoDex": "0051",
+      "Nombre": "Dugtrio Alolan Dugtrio",
+      "typo": "Ground Steel",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0052": [
+    {
+      "NoDex": "0052",
+      "Nombre": "Meowth",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    },
+    {
+      "NoDex": "0052",
+      "Nombre": "Meowth Alolan Meowth",
+      "typo": "Dark",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    },
+    {
+      "NoDex": "0052",
+      "Nombre": "Meowth Galarian Meowth",
+      "typo": "Steel",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0053": [
+    {
+      "NoDex": "0053",
+      "Nombre": "Persian",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    },
+    {
+      "NoDex": "0053",
+      "Nombre": "Persian Alolan Persian",
+      "typo": "Dark",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0054": [
+    {
+      "NoDex": "0054",
+      "Nombre": "Psyduck",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0055": [
+    {
+      "NoDex": "0055",
+      "Nombre": "Golduck",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0058": [
+    {
+      "NoDex": "0058",
+      "Nombre": "Growlithe",
+      "typo": "Fire",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    },
+    {
+      "NoDex": "0058",
+      "Nombre": "Growlithe Hisuian Growlithe",
+      "typo": "Fire Rock",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0059": [
+    {
+      "NoDex": "0059",
+      "Nombre": "Arcanine",
+      "typo": "Fire",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    },
+    {
+      "NoDex": "0059",
+      "Nombre": "Arcanine Hisuian Arcanine",
+      "typo": "Fire Rock",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0060": [
+    {
+      "NoDex": "0060",
+      "Nombre": "Poliwag",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0061": [
+    {
+      "NoDex": "0061",
+      "Nombre": "Poliwhirl",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0062": [
+    {
+      "NoDex": "0062",
+      "Nombre": "Poliwrath",
+      "typo": "Water Fighting",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0063": [
+    {
+      "NoDex": "0063",
+      "Nombre": "Abra",
+      "typo": "Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0064": [
+    {
+      "NoDex": "0064",
+      "Nombre": "Kadabra",
+      "typo": "Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0065": [
+    {
+      "NoDex": "0065",
+      "Nombre": "Alakazam",
+      "typo": "Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0066": [
+    {
+      "NoDex": "0066",
+      "Nombre": "Machop",
+      "typo": "Fighting",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0067": [
+    {
+      "NoDex": "0067",
+      "Nombre": "Machoke",
+      "typo": "Fighting",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0068": [
+    {
+      "NoDex": "0068",
+      "Nombre": "Machamp",
+      "typo": "Fighting",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0069": [
+    {
+      "NoDex": "0069",
+      "Nombre": "Bellsprout",
+      "typo": "Grass Poison",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0070": [
+    {
+      "NoDex": "0070",
+      "Nombre": "Weepinbell",
+      "typo": "Grass Poison",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0071": [
+    {
+      "NoDex": "0071",
+      "Nombre": "Victreebel",
+      "typo": "Grass Poison",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0074": [
+    {
+      "NoDex": "0074",
+      "Nombre": "Geodude",
+      "typo": "Rock Ground",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    },
+    {
+      "NoDex": "0074",
+      "Nombre": "Geodude Alolan Geodude",
+      "typo": "Rock Electric",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0075": [
+    {
+      "NoDex": "0075",
+      "Nombre": "Graveler",
+      "typo": "Rock Ground",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    },
+    {
+      "NoDex": "0075",
+      "Nombre": "Graveler Alolan Graveler",
+      "typo": "Rock Electric",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0076": [
+    {
+      "NoDex": "0076",
+      "Nombre": "Golem",
+      "typo": "Rock Ground",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    },
+    {
+      "NoDex": "0076",
+      "Nombre": "Golem Alolan Golem",
+      "typo": "Rock Electric",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0077": [
+    {
+      "NoDex": "0077",
+      "Nombre": "Ponyta",
+      "typo": "Fire",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    },
+    {
+      "NoDex": "0077",
+      "Nombre": "Ponyta Galarian Ponyta",
+      "typo": "Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0078": [
+    {
+      "NoDex": "0078",
+      "Nombre": "Rapidash",
+      "typo": "Fire",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    },
+    {
+      "NoDex": "0078",
+      "Nombre": "Rapidash Galarian Rapidash",
+      "typo": "Psychic Fairy",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0079": [
+    {
+      "NoDex": "0079",
+      "Nombre": "Slowpoke",
+      "typo": "Water Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    },
+    {
+      "NoDex": "0079",
+      "Nombre": "Slowpoke Galarian Slowpoke",
+      "typo": "Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0080": [
+    {
+      "NoDex": "0080",
+      "Nombre": "Slowbro",
+      "typo": "Water Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    },
+    {
+      "NoDex": "0080",
+      "Nombre": "Slowbro Galarian Slowbro",
+      "typo": "Poison Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0081": [
+    {
+      "NoDex": "0081",
+      "Nombre": "Magnemite",
+      "typo": "Electric Steel",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0082": [
+    {
+      "NoDex": "0082",
+      "Nombre": "Magneton",
+      "typo": "Electric Steel",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0083": [
+    {
+      "NoDex": "0083",
+      "Nombre": "Farfetch'd",
+      "typo": "Normal Flying",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    },
+    {
+      "NoDex": "0083",
+      "Nombre": "Farfetch'd Galarian Farfetch'd",
+      "typo": "Fighting",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0088": [
+    {
+      "NoDex": "0088",
+      "Nombre": "Grimer",
+      "typo": "Poison",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    },
+    {
+      "NoDex": "0088",
+      "Nombre": "Grimer Alolan Grimer",
+      "typo": "Poison Dark",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0089": [
+    {
+      "NoDex": "0089",
+      "Nombre": "Muk",
+      "typo": "Poison",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    },
+    {
+      "NoDex": "0089",
+      "Nombre": "Muk Alolan Muk",
+      "typo": "Poison Dark",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0090": [
+    {
+      "NoDex": "0090",
+      "Nombre": "Shellder",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0091": [
+    {
+      "NoDex": "0091",
+      "Nombre": "Cloyster",
+      "typo": "Water Ice",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0092": [
+    {
+      "NoDex": "0092",
+      "Nombre": "Gastly",
+      "typo": "Ghost Poison",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0093": [
+    {
+      "NoDex": "0093",
+      "Nombre": "Haunter",
+      "typo": "Ghost Poison",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0094": [
+    {
+      "NoDex": "0094",
+      "Nombre": "Gengar",
+      "typo": "Ghost Poison",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0095": [
+    {
+      "NoDex": "0095",
+      "Nombre": "Onix",
+      "typo": "Rock Ground",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0096": [
+    {
+      "NoDex": "0096",
+      "Nombre": "Drowzee",
+      "typo": "Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0097": [
+    {
+      "NoDex": "0097",
+      "Nombre": "Hypno",
+      "typo": "Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0098": [
+    {
+      "NoDex": "0098",
+      "Nombre": "Krabby",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0099": [
+    {
+      "NoDex": "0099",
+      "Nombre": "Kingler",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0100": [
+    {
+      "NoDex": "0100",
+      "Nombre": "Voltorb",
+      "typo": "Electric",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    },
+    {
+      "NoDex": "0100",
+      "Nombre": "Voltorb Hisuian Voltorb",
+      "typo": "Electric Grass",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0101": [
+    {
+      "NoDex": "0101",
+      "Nombre": "Electrode",
+      "typo": "Electric",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0102": [
+    {
+      "NoDex": "0102",
+      "Nombre": "Exeggcute",
+      "typo": "Grass Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0103": [
+    {
+      "NoDex": "0103",
+      "Nombre": "Exeggutor",
+      "typo": "Grass Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    },
+    {
+      "NoDex": "0103",
+      "Nombre": "Exeggutor Alolan Exeggutor",
+      "typo": "Grass Dragon",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0104": [
+    {
+      "NoDex": "0104",
+      "Nombre": "Cubone",
+      "typo": "Ground",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0105": [
+    {
+      "NoDex": "0105",
+      "Nombre": "Marowak",
+      "typo": "Ground",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    },
+    {
+      "NoDex": "0105",
+      "Nombre": "Marowak Alolan Marowak",
+      "typo": "Fire Ghost",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0106": [
+    {
+      "NoDex": "0106",
+      "Nombre": "Hitmonlee",
+      "typo": "Fighting",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0107": [
+    {
+      "NoDex": "0107",
+      "Nombre": "Hitmonchan",
+      "typo": "Fighting",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0109": [
+    {
+      "NoDex": "0109",
+      "Nombre": "Koffing",
+      "typo": "Poison",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0110": [
+    {
+      "NoDex": "0110",
+      "Nombre": "Weezing",
+      "typo": "Poison",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    },
+    {
+      "NoDex": "0110",
+      "Nombre": "Weezing Galarian Weezing",
+      "typo": "Poison Fairy",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0111": [
+    {
+      "NoDex": "0111",
+      "Nombre": "Rhyhorn",
+      "typo": "Ground Rock",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0112": [
+    {
+      "NoDex": "0112",
+      "Nombre": "Rhydon",
+      "typo": "Ground Rock",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0114": [
+    {
+      "NoDex": "0114",
+      "Nombre": "Tangela",
+      "typo": "Grass",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0115": [
+    {
+      "NoDex": "0115",
+      "Nombre": "Kangaskhan",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0116": [
+    {
+      "NoDex": "0116",
+      "Nombre": "Horsea",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0117": [
+    {
+      "NoDex": "0117",
+      "Nombre": "Seadra",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0122": [
+    {
+      "NoDex": "0122",
+      "Nombre": "Mr. Mime",
+      "typo": "Psychic Fairy",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    },
+    {
+      "NoDex": "0122",
+      "Nombre": "Mr. Mime Galarian Mr. Mime",
+      "typo": "Ice Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0123": [
+    {
+      "NoDex": "0123",
+      "Nombre": "Scyther",
+      "typo": "Bug Flying",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0125": [
+    {
+      "NoDex": "0125",
+      "Nombre": "Electabuzz",
+      "typo": "Electric",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0126": [
+    {
+      "NoDex": "0126",
+      "Nombre": "Magmar",
+      "typo": "Fire",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0127": [
+    {
+      "NoDex": "0127",
+      "Nombre": "Pinsir",
+      "typo": "Bug",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0129": [
+    {
+      "NoDex": "0129",
+      "Nombre": "Magikarp",
+      "typo": "Water",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0130": [
+    {
+      "NoDex": "0130",
+      "Nombre": "Gyarados",
+      "typo": "Water Flying",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0131": [
+    {
+      "NoDex": "0131",
+      "Nombre": "Lapras",
+      "typo": "Water Ice",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0137": [
+    {
+      "NoDex": "0137",
+      "Nombre": "Porygon",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0138": [
+    {
+      "NoDex": "0138",
+      "Nombre": "Omanyte",
+      "typo": "Rock Water",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0139": [
+    {
+      "NoDex": "0139",
+      "Nombre": "Omastar",
+      "typo": "Rock Water",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0140": [
+    {
+      "NoDex": "0140",
+      "Nombre": "Kabuto",
+      "typo": "Rock Water",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0141": [
+    {
+      "NoDex": "0141",
+      "Nombre": "Kabutops",
+      "typo": "Rock Water",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0142": [
+    {
+      "NoDex": "0142",
+      "Nombre": "Aerodactyl",
+      "typo": "Rock Flying",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0143": [
+    {
+      "NoDex": "0143",
+      "Nombre": "Snorlax",
+      "typo": "Normal",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0144": [
+    {
+      "NoDex": "0144",
+      "Nombre": "Articuno",
+      "typo": "Ice Flying",
+      "polvo": "20,000",
+      "Caramelo": "20"
+    },
+    {
+      "NoDex": "0144",
+      "Nombre": "Articuno Galarian Articuno",
+      "typo": "Psychic Flying",
+      "polvo": "20,000",
+      "Caramelo": "20"
+    }
+  ],
+  "0145": [
+    {
+      "NoDex": "0145",
+      "Nombre": "Zapdos",
+      "typo": "Electric Flying",
+      "polvo": "20,000",
+      "Caramelo": "20"
+    },
+    {
+      "NoDex": "0145",
+      "Nombre": "Zapdos Galarian Zapdos",
+      "typo": "Fighting Flying",
+      "polvo": "20,000",
+      "Caramelo": "20"
+    }
+  ],
+  "0146": [
+    {
+      "NoDex": "0146",
+      "Nombre": "Moltres",
+      "typo": "Fire Flying",
+      "polvo": "20,000",
+      "Caramelo": "20"
+    },
+    {
+      "NoDex": "0146",
+      "Nombre": "Moltres Galarian Moltres",
+      "typo": "Dark Flying",
+      "polvo": "20,000",
+      "Caramelo": "20"
+    }
+  ],
+  "0147": [
+    {
+      "NoDex": "0147",
+      "Nombre": "Dratini",
+      "typo": "Dragon",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0148": [
+    {
+      "NoDex": "0148",
+      "Nombre": "Dragonair",
+      "typo": "Dragon",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0149": [
+    {
+      "NoDex": "0149",
+      "Nombre": "Dragonite",
+      "typo": "Dragon Flying",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0150": [
+    {
+      "NoDex": "0150",
+      "Nombre": "Mewtwo",
+      "typo": "Psychic",
+      "polvo": "20,000",
+      "Caramelo": "20"
+    },
+    {
+      "NoDex": "0150",
+      "Nombre": "Mewtwo Armored Mewtwo",
+      "typo": "Psychic",
+      "polvo": "20,000",
+      "Caramelo": "20"
+    }
+  ],
+  "0152": [
+    {
+      "NoDex": "0152",
+      "Nombre": "Chikorita",
+      "typo": "Grass",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0153": [
+    {
+      "NoDex": "0153",
+      "Nombre": "Bayleef",
+      "typo": "Grass",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0154": [
+    {
+      "NoDex": "0154",
+      "Nombre": "Meganium",
+      "typo": "Grass",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0155": [
+    {
+      "NoDex": "0155",
+      "Nombre": "Cyndaquil",
+      "typo": "Fire",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0156": [
+    {
+      "NoDex": "0156",
+      "Nombre": "Quilava",
+      "typo": "Fire",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0157": [
+    {
+      "NoDex": "0157",
+      "Nombre": "Typhlosion",
+      "typo": "Fire",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0158": [
+    {
+      "NoDex": "0158",
+      "Nombre": "Totodile",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0159": [
+    {
+      "NoDex": "0159",
+      "Nombre": "Croconaw",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0160": [
+    {
+      "NoDex": "0160",
+      "Nombre": "Feraligatr",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0165": [
+    {
+      "NoDex": "0165",
+      "Nombre": "Ledyba",
+      "typo": "Bug Flying",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0166": [
+    {
+      "NoDex": "0166",
+      "Nombre": "Ledian",
+      "typo": "Bug Flying",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0169": [
+    {
+      "NoDex": "0169",
+      "Nombre": "Crobat",
+      "typo": "Poison Flying",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0177": [
+    {
+      "NoDex": "0177",
+      "Nombre": "Natu",
+      "typo": "Psychic Flying",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0178": [
+    {
+      "NoDex": "0178",
+      "Nombre": "Xatu",
+      "typo": "Psychic Flying",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0179": [
+    {
+      "NoDex": "0179",
+      "Nombre": "Mareep",
+      "typo": "Electric",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0180": [
+    {
+      "NoDex": "0180",
+      "Nombre": "Flaaffy",
+      "typo": "Electric",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0181": [
+    {
+      "NoDex": "0181",
+      "Nombre": "Ampharos",
+      "typo": "Electric",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0182": [
+    {
+      "NoDex": "0182",
+      "Nombre": "Bellossom",
+      "typo": "Grass",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0185": [
+    {
+      "NoDex": "0185",
+      "Nombre": "Sudowoodo",
+      "typo": "Rock",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0186": [
+    {
+      "NoDex": "0186",
+      "Nombre": "Politoed",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0187": [
+    {
+      "NoDex": "0187",
+      "Nombre": "Hoppip",
+      "typo": "Grass Flying",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0188": [
+    {
+      "NoDex": "0188",
+      "Nombre": "Skiploom",
+      "typo": "Grass Flying",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0189": [
+    {
+      "NoDex": "0189",
+      "Nombre": "Jumpluff",
+      "typo": "Grass Flying",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0190": [
+    {
+      "NoDex": "0190",
+      "Nombre": "Aipom",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0194": [
+    {
+      "NoDex": "0194",
+      "Nombre": "Wooper",
+      "typo": "Water Ground",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    },
+    {
+      "NoDex": "0194",
+      "Nombre": "Wooper Paldean Wooper",
+      "typo": "Poison Ground",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0195": [
+    {
+      "NoDex": "0195",
+      "Nombre": "Quagsire",
+      "typo": "Water Ground",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0198": [
+    {
+      "NoDex": "0198",
+      "Nombre": "Murkrow",
+      "typo": "Dark Flying",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0199": [
+    {
+      "NoDex": "0199",
+      "Nombre": "Slowking",
+      "typo": "Water Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    },
+    {
+      "NoDex": "0199",
+      "Nombre": "Slowking Galarian Slowking",
+      "typo": "Poison Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0200": [
+    {
+      "NoDex": "0200",
+      "Nombre": "Misdreavus",
+      "typo": "Ghost",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0202": [
+    {
+      "NoDex": "0202",
+      "Nombre": "Wobbuffet",
+      "typo": "Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0203": [
+    {
+      "NoDex": "0203",
+      "Nombre": "Girafarig",
+      "typo": "Normal Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0204": [
+    {
+      "NoDex": "0204",
+      "Nombre": "Pineco",
+      "typo": "Bug",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0205": [
+    {
+      "NoDex": "0205",
+      "Nombre": "Forretress",
+      "typo": "Bug Steel",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0207": [
+    {
+      "NoDex": "0207",
+      "Nombre": "Gligar",
+      "typo": "Ground Flying",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0208": [
+    {
+      "NoDex": "0208",
+      "Nombre": "Steelix",
+      "typo": "Steel Ground",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0209": [
+    {
+      "NoDex": "0209",
+      "Nombre": "Snubbull",
+      "typo": "Fairy",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0210": [
+    {
+      "NoDex": "0210",
+      "Nombre": "Granbull",
+      "typo": "Fairy",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0212": [
+    {
+      "NoDex": "0212",
+      "Nombre": "Scizor",
+      "typo": "Bug Steel",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0213": [
+    {
+      "NoDex": "0213",
+      "Nombre": "Shuckle",
+      "typo": "Bug Rock",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0215": [
+    {
+      "NoDex": "0215",
+      "Nombre": "Sneasel",
+      "typo": "Dark Ice",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    },
+    {
+      "NoDex": "0215",
+      "Nombre": "Sneasel Hisuian Sneasel",
+      "typo": "Fighting Poison",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0216": [
+    {
+      "NoDex": "0216",
+      "Nombre": "Teddiursa",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0217": [
+    {
+      "NoDex": "0217",
+      "Nombre": "Ursaring",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0220": [
+    {
+      "NoDex": "0220",
+      "Nombre": "Swinub",
+      "typo": "Ice Ground",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0221": [
+    {
+      "NoDex": "0221",
+      "Nombre": "Piloswine",
+      "typo": "Ice Ground",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0225": [
+    {
+      "NoDex": "0225",
+      "Nombre": "Delibird",
+      "typo": "Ice Flying",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0227": [
+    {
+      "NoDex": "0227",
+      "Nombre": "Skarmory",
+      "typo": "Steel Flying",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0228": [
+    {
+      "NoDex": "0228",
+      "Nombre": "Houndour",
+      "typo": "Dark Fire",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0229": [
+    {
+      "NoDex": "0229",
+      "Nombre": "Houndoom",
+      "typo": "Dark Fire",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0230": [
+    {
+      "NoDex": "0230",
+      "Nombre": "Kingdra",
+      "typo": "Water Dragon",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0231": [
+    {
+      "NoDex": "0231",
+      "Nombre": "Phanpy",
+      "typo": "Ground",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0232": [
+    {
+      "NoDex": "0232",
+      "Nombre": "Donphan",
+      "typo": "Ground",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0233": [
+    {
+      "NoDex": "0233",
+      "Nombre": "Porygon2",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0234": [
+    {
+      "NoDex": "0234",
+      "Nombre": "Stantler",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0237": [
+    {
+      "NoDex": "0237",
+      "Nombre": "Hitmontop",
+      "typo": "Fighting",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0243": [
+    {
+      "NoDex": "0243",
+      "Nombre": "Raikou",
+      "typo": "Electric",
+      "polvo": "20,000",
+      "Caramelo": "20"
+    }
+  ],
+  "0244": [
+    {
+      "NoDex": "0244",
+      "Nombre": "Entei",
+      "typo": "Fire",
+      "polvo": "20,000",
+      "Caramelo": "20"
+    }
+  ],
+  "0245": [
+    {
+      "NoDex": "0245",
+      "Nombre": "Suicune",
+      "typo": "Water",
+      "polvo": "20,000",
+      "Caramelo": "20"
+    }
+  ],
+  "0246": [
+    {
+      "NoDex": "0246",
+      "Nombre": "Larvitar",
+      "typo": "Rock Ground",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0247": [
+    {
+      "NoDex": "0247",
+      "Nombre": "Pupitar",
+      "typo": "Rock Ground",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0248": [
+    {
+      "NoDex": "0248",
+      "Nombre": "Tyranitar",
+      "typo": "Rock Dark",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0249": [
+    {
+      "NoDex": "0249",
+      "Nombre": "Lugia",
+      "typo": "Psychic Flying",
+      "polvo": "20,000",
+      "Caramelo": "20"
+    },
+    {
+      "NoDex": "0249",
+      "Nombre": "Lugia Apex Lugia",
+      "typo": "Psychic Flying",
+      "polvo": "20,000",
+      "Caramelo": "20"
+    }
+  ],
+  "0250": [
+    {
+      "NoDex": "0250",
+      "Nombre": "Ho-oh",
+      "typo": "Fire Flying",
+      "polvo": "20,000",
+      "Caramelo": "20"
+    },
+    {
+      "NoDex": "0250",
+      "Nombre": "Ho-oh Apex Ho-Oh",
+      "typo": "Fire Flying",
+      "polvo": "20,000",
+      "Caramelo": "20"
+    }
+  ],
+  "0252": [
+    {
+      "NoDex": "0252",
+      "Nombre": "Treecko",
+      "typo": "Grass",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0253": [
+    {
+      "NoDex": "0253",
+      "Nombre": "Grovyle",
+      "typo": "Grass",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0254": [
+    {
+      "NoDex": "0254",
+      "Nombre": "Sceptile",
+      "typo": "Grass",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0255": [
+    {
+      "NoDex": "0255",
+      "Nombre": "Torchic",
+      "typo": "Fire",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0256": [
+    {
+      "NoDex": "0256",
+      "Nombre": "Combusken",
+      "typo": "Fire Fighting",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0257": [
+    {
+      "NoDex": "0257",
+      "Nombre": "Blaziken",
+      "typo": "Fire Fighting",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0258": [
+    {
+      "NoDex": "0258",
+      "Nombre": "Mudkip",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0259": [
+    {
+      "NoDex": "0259",
+      "Nombre": "Marshtomp",
+      "typo": "Water Ground",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0260": [
+    {
+      "NoDex": "0260",
+      "Nombre": "Swampert",
+      "typo": "Water Ground",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0261": [
+    {
+      "NoDex": "0261",
+      "Nombre": "Poochyena",
+      "typo": "Dark",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0262": [
+    {
+      "NoDex": "0262",
+      "Nombre": "Mightyena",
+      "typo": "Dark",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0263": [
+    {
+      "NoDex": "0263",
+      "Nombre": "Zigzagoon",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    },
+    {
+      "NoDex": "0263",
+      "Nombre": "Zigzagoon Galarian Zigzagoon",
+      "typo": "Dark Normal",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0264": [
+    {
+      "NoDex": "0264",
+      "Nombre": "Linoone",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    },
+    {
+      "NoDex": "0264",
+      "Nombre": "Linoone Galarian Linoone",
+      "typo": "Dark Normal",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0273": [
+    {
+      "NoDex": "0273",
+      "Nombre": "Seedot",
+      "typo": "Grass",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0274": [
+    {
+      "NoDex": "0274",
+      "Nombre": "Nuzleaf",
+      "typo": "Grass Dark",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0275": [
+    {
+      "NoDex": "0275",
+      "Nombre": "Shiftry",
+      "typo": "Grass Dark",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0280": [
+    {
+      "NoDex": "0280",
+      "Nombre": "Ralts",
+      "typo": "Psychic Fairy",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0281": [
+    {
+      "NoDex": "0281",
+      "Nombre": "Kirlia",
+      "typo": "Psychic Fairy",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0282": [
+    {
+      "NoDex": "0282",
+      "Nombre": "Gardevoir",
+      "typo": "Psychic Fairy",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0293": [
+    {
+      "NoDex": "0293",
+      "Nombre": "Whismur",
+      "typo": "Normal",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0294": [
+    {
+      "NoDex": "0294",
+      "Nombre": "Loudred",
+      "typo": "Normal",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0295": [
+    {
+      "NoDex": "0295",
+      "Nombre": "Exploud",
+      "typo": "Normal",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0296": [
+    {
+      "NoDex": "0296",
+      "Nombre": "Makuhita",
+      "typo": "Fighting",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0297": [
+    {
+      "NoDex": "0297",
+      "Nombre": "Hariyama",
+      "typo": "Fighting",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0299": [
+    {
+      "NoDex": "0299",
+      "Nombre": "Nosepass",
+      "typo": "Rock",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0302": [
+    {
+      "NoDex": "0302",
+      "Nombre": "Sableye",
+      "typo": "Dark Ghost",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0303": [
+    {
+      "NoDex": "0303",
+      "Nombre": "Mawile",
+      "typo": "Steel Fairy",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0304": [
+    {
+      "NoDex": "0304",
+      "Nombre": "Aron",
+      "typo": "Steel Rock",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0305": [
+    {
+      "NoDex": "0305",
+      "Nombre": "Lairon",
+      "typo": "Steel Rock",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0306": [
+    {
+      "NoDex": "0306",
+      "Nombre": "Aggron",
+      "typo": "Steel Rock",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0309": [
+    {
+      "NoDex": "0309",
+      "Nombre": "Electrike",
+      "typo": "Electric",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0310": [
+    {
+      "NoDex": "0310",
+      "Nombre": "Manectric",
+      "typo": "Electric",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0318": [
+    {
+      "NoDex": "0318",
+      "Nombre": "Carvanha",
+      "typo": "Water Dark",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0319": [
+    {
+      "NoDex": "0319",
+      "Nombre": "Sharpedo",
+      "typo": "Water Dark",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0320": [
+    {
+      "NoDex": "0320",
+      "Nombre": "Wailmer",
+      "typo": "Water",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0321": [
+    {
+      "NoDex": "0321",
+      "Nombre": "Wailord",
+      "typo": "Water",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0322": [
+    {
+      "NoDex": "0322",
+      "Nombre": "Numel",
+      "typo": "Fire Ground",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0323": [
+    {
+      "NoDex": "0323",
+      "Nombre": "Camerupt",
+      "typo": "Fire Ground",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0325": [
+    {
+      "NoDex": "0325",
+      "Nombre": "Spoink",
+      "typo": "Psychic",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0326": [
+    {
+      "NoDex": "0326",
+      "Nombre": "Grumpig",
+      "typo": "Psychic",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0328": [
+    {
+      "NoDex": "0328",
+      "Nombre": "Trapinch",
+      "typo": "Ground",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0329": [
+    {
+      "NoDex": "0329",
+      "Nombre": "Vibrava",
+      "typo": "Ground Dragon",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0330": [
+    {
+      "NoDex": "0330",
+      "Nombre": "Flygon",
+      "typo": "Ground Dragon",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0331": [
+    {
+      "NoDex": "0331",
+      "Nombre": "Cacnea",
+      "typo": "Grass",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0332": [
+    {
+      "NoDex": "0332",
+      "Nombre": "Cacturne",
+      "typo": "Grass Dark",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0339": [
+    {
+      "NoDex": "0339",
+      "Nombre": "Barboach",
+      "typo": "Water Ground",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0340": [
+    {
+      "NoDex": "0340",
+      "Nombre": "Whiscash",
+      "typo": "Water Ground",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0345": [
+    {
+      "NoDex": "0345",
+      "Nombre": "Lileep",
+      "typo": "Rock Grass",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0346": [
+    {
+      "NoDex": "0346",
+      "Nombre": "Cradily",
+      "typo": "Rock Grass",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0347": [
+    {
+      "NoDex": "0347",
+      "Nombre": "Anorith",
+      "typo": "Rock Bug",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0348": [
+    {
+      "NoDex": "0348",
+      "Nombre": "Armaldo",
+      "typo": "Rock Bug",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0353": [
+    {
+      "NoDex": "0353",
+      "Nombre": "Shuppet",
+      "typo": "Ghost",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0354": [
+    {
+      "NoDex": "0354",
+      "Nombre": "Banette",
+      "typo": "Ghost",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0355": [
+    {
+      "NoDex": "0355",
+      "Nombre": "Duskull",
+      "typo": "Ghost",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0356": [
+    {
+      "NoDex": "0356",
+      "Nombre": "Dusclops",
+      "typo": "Ghost",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0359": [
+    {
+      "NoDex": "0359",
+      "Nombre": "Absol",
+      "typo": "Dark",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0363": [
+    {
+      "NoDex": "0363",
+      "Nombre": "Spheal",
+      "typo": "Ice Water",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0364": [
+    {
+      "NoDex": "0364",
+      "Nombre": "Sealeo",
+      "typo": "Ice Water",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0365": [
+    {
+      "NoDex": "0365",
+      "Nombre": "Walrein",
+      "typo": "Ice Water",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0371": [
+    {
+      "NoDex": "0371",
+      "Nombre": "Bagon",
+      "typo": "Dragon",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0372": [
+    {
+      "NoDex": "0372",
+      "Nombre": "Shelgon",
+      "typo": "Dragon",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0373": [
+    {
+      "NoDex": "0373",
+      "Nombre": "Salamence",
+      "typo": "Dragon Flying",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0374": [
+    {
+      "NoDex": "0374",
+      "Nombre": "Beldum",
+      "typo": "Steel Psychic",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0375": [
+    {
+      "NoDex": "0375",
+      "Nombre": "Metang",
+      "typo": "Steel Psychic",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0376": [
+    {
+      "NoDex": "0376",
+      "Nombre": "Metagross",
+      "typo": "Steel Psychic",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0377": [
+    {
+      "NoDex": "0377",
+      "Nombre": "Regirock",
+      "typo": "Rock",
+      "polvo": "20,000",
+      "Caramelo": "20"
+    }
+  ],
+  "0378": [
+    {
+      "NoDex": "0378",
+      "Nombre": "Regice",
+      "typo": "Ice",
+      "polvo": "20,000",
+      "Caramelo": "20"
+    }
+  ],
+  "0379": [
+    {
+      "NoDex": "0379",
+      "Nombre": "Registeel",
+      "typo": "Steel",
+      "polvo": "20,000",
+      "Caramelo": "20"
+    }
+  ],
+  "0380": [
+    {
+      "NoDex": "0380",
+      "Nombre": "Latias",
+      "typo": "Dragon Psychic",
+      "polvo": "20,000",
+      "Caramelo": "20"
+    }
+  ],
+  "0381": [
+    {
+      "NoDex": "0381",
+      "Nombre": "Latios",
+      "typo": "Dragon Psychic",
+      "polvo": "20,000",
+      "Caramelo": "20"
+    }
+  ],
+  "0387": [
+    {
+      "NoDex": "0387",
+      "Nombre": "Turtwig",
+      "typo": "Grass",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0388": [
+    {
+      "NoDex": "0388",
+      "Nombre": "Grotle",
+      "typo": "Grass",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0389": [
+    {
+      "NoDex": "0389",
+      "Nombre": "Torterra",
+      "typo": "Grass Ground",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0390": [
+    {
+      "NoDex": "0390",
+      "Nombre": "Chimchar",
+      "typo": "Fire",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0391": [
+    {
+      "NoDex": "0391",
+      "Nombre": "Monferno",
+      "typo": "Fire Fighting",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0392": [
+    {
+      "NoDex": "0392",
+      "Nombre": "Infernape",
+      "typo": "Fire Fighting",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0396": [
+    {
+      "NoDex": "0396",
+      "Nombre": "Starly",
+      "typo": "Normal Flying",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0397": [
+    {
+      "NoDex": "0397",
+      "Nombre": "Staravia",
+      "typo": "Normal Flying",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0398": [
+    {
+      "NoDex": "0398",
+      "Nombre": "Staraptor",
+      "typo": "Normal Flying",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0399": [
+    {
+      "NoDex": "0399",
+      "Nombre": "Bidoof",
+      "typo": "Normal",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0400": [
+    {
+      "NoDex": "0400",
+      "Nombre": "Bibarel",
+      "typo": "Normal Water",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0403": [
+    {
+      "NoDex": "0403",
+      "Nombre": "Shinx",
+      "typo": "Electric",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0404": [
+    {
+      "NoDex": "0404",
+      "Nombre": "Luxio",
+      "typo": "Electric",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0405": [
+    {
+      "NoDex": "0405",
+      "Nombre": "Luxray",
+      "typo": "Electric",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0408": [
+    {
+      "NoDex": "0408",
+      "Nombre": "Cranidos",
+      "typo": "Rock",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0409": [
+    {
+      "NoDex": "0409",
+      "Nombre": "Rampardos",
+      "typo": "Rock",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0410": [
+    {
+      "NoDex": "0410",
+      "Nombre": "Shieldon",
+      "typo": "Rock Steel",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0411": [
+    {
+      "NoDex": "0411",
+      "Nombre": "Bastiodon",
+      "typo": "Rock Steel",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0424": [
+    {
+      "NoDex": "0424",
+      "Nombre": "Ambipom",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0425": [
+    {
+      "NoDex": "0425",
+      "Nombre": "Drifloon",
+      "typo": "Ghost Flying",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0426": [
+    {
+      "NoDex": "0426",
+      "Nombre": "Drifblim",
+      "typo": "Ghost Flying",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0429": [
+    {
+      "NoDex": "0429",
+      "Nombre": "Mismagius",
+      "typo": "Ghost",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0430": [
+    {
+      "NoDex": "0430",
+      "Nombre": "Honchkrow",
+      "typo": "Dark Flying",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0431": [
+    {
+      "NoDex": "0431",
+      "Nombre": "Glameow",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0432": [
+    {
+      "NoDex": "0432",
+      "Nombre": "Purugly",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0434": [
+    {
+      "NoDex": "0434",
+      "Nombre": "Stunky",
+      "typo": "Poison Dark",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0435": [
+    {
+      "NoDex": "0435",
+      "Nombre": "Skuntank",
+      "typo": "Poison Dark",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0443": [
+    {
+      "NoDex": "0443",
+      "Nombre": "Gible",
+      "typo": "Dragon Ground",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0444": [
+    {
+      "NoDex": "0444",
+      "Nombre": "Gabite",
+      "typo": "Dragon Ground",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0445": [
+    {
+      "NoDex": "0445",
+      "Nombre": "Garchomp",
+      "typo": "Dragon Ground",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0449": [
+    {
+      "NoDex": "0449",
+      "Nombre": "Hippopotas",
+      "typo": "Ground",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0450": [
+    {
+      "NoDex": "0450",
+      "Nombre": "Hippowdon",
+      "typo": "Ground",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0451": [
+    {
+      "NoDex": "0451",
+      "Nombre": "Skorupi",
+      "typo": "Poison Bug",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0452": [
+    {
+      "NoDex": "0452",
+      "Nombre": "Drapion",
+      "typo": "Poison Dark",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0459": [
+    {
+      "NoDex": "0459",
+      "Nombre": "Snover",
+      "typo": "Grass Ice",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0460": [
+    {
+      "NoDex": "0460",
+      "Nombre": "Abomasnow",
+      "typo": "Grass Ice",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0461": [
+    {
+      "NoDex": "0461",
+      "Nombre": "Weavile",
+      "typo": "Dark Ice",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0462": [
+    {
+      "NoDex": "0462",
+      "Nombre": "Magnezone",
+      "typo": "Electric Steel",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0464": [
+    {
+      "NoDex": "0464",
+      "Nombre": "Rhyperior",
+      "typo": "Ground Rock",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0465": [
+    {
+      "NoDex": "0465",
+      "Nombre": "Tangrowth",
+      "typo": "Grass",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0466": [
+    {
+      "NoDex": "0466",
+      "Nombre": "Electivire",
+      "typo": "Electric",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0467": [
+    {
+      "NoDex": "0467",
+      "Nombre": "Magmortar",
+      "typo": "Fire",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0472": [
+    {
+      "NoDex": "0472",
+      "Nombre": "Gliscor",
+      "typo": "Ground Flying",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0473": [
+    {
+      "NoDex": "0473",
+      "Nombre": "Mamoswine",
+      "typo": "Ice Ground",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0474": [
+    {
+      "NoDex": "0474",
+      "Nombre": "Porygon-Z",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0475": [
+    {
+      "NoDex": "0475",
+      "Nombre": "Gallade",
+      "typo": "Psychic Fighting",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0476": [
+    {
+      "NoDex": "0476",
+      "Nombre": "Probopass",
+      "typo": "Rock Steel",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0477": [
+    {
+      "NoDex": "0477",
+      "Nombre": "Dusknoir",
+      "typo": "Ghost",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0486": [
+    {
+      "NoDex": "0486",
+      "Nombre": "Regigigas",
+      "typo": "Normal",
+      "polvo": "20,000",
+      "Caramelo": "20"
+    }
+  ],
+  "0504": [
+    {
+      "NoDex": "0504",
+      "Nombre": "Patrat",
+      "typo": "Normal",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0505": [
+    {
+      "NoDex": "0505",
+      "Nombre": "Watchog",
+      "typo": "Normal",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0509": [
+    {
+      "NoDex": "0509",
+      "Nombre": "Purrloin",
+      "typo": "Dark",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0510": [
+    {
+      "NoDex": "0510",
+      "Nombre": "Liepard",
+      "typo": "Dark",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0519": [
+    {
+      "NoDex": "0519",
+      "Nombre": "Pidove",
+      "typo": "Normal Flying",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0520": [
+    {
+      "NoDex": "0520",
+      "Nombre": "Tranquill",
+      "typo": "Normal Flying",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0521": [
+    {
+      "NoDex": "0521",
+      "Nombre": "Unfezant",
+      "typo": "Normal Flying",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0522": [
+    {
+      "NoDex": "0522",
+      "Nombre": "Blitzle",
+      "typo": "Electric",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0523": [
+    {
+      "NoDex": "0523",
+      "Nombre": "Zebstrika",
+      "typo": "Electric",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0529": [
+    {
+      "NoDex": "0529",
+      "Nombre": "Drilbur",
+      "typo": "Ground",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0530": [
+    {
+      "NoDex": "0530",
+      "Nombre": "Excadrill",
+      "typo": "Ground Steel",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0538": [
+    {
+      "NoDex": "0538",
+      "Nombre": "Throh",
+      "typo": "Fighting",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0539": [
+    {
+      "NoDex": "0539",
+      "Nombre": "Sawk",
+      "typo": "Fighting",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0554": [
+    {
+      "NoDex": "0554",
+      "Nombre": "Darumaka Galarian Darumaka",
+      "typo": "Ice",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0562": [
+    {
+      "NoDex": "0562",
+      "Nombre": "Yamask",
+      "typo": "Ghost",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    },
+    {
+      "NoDex": "0562",
+      "Nombre": "Yamask Galarian Yamask",
+      "typo": "Ground Ghost",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0563": [
+    {
+      "NoDex": "0563",
+      "Nombre": "Cofagrigus",
+      "typo": "Ghost",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0580": [
+    {
+      "NoDex": "0580",
+      "Nombre": "Ducklett",
+      "typo": "Water Flying",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0581": [
+    {
+      "NoDex": "0581",
+      "Nombre": "Swanna",
+      "typo": "Water Flying",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0590": [
+    {
+      "NoDex": "0590",
+      "Nombre": "Foongus",
+      "typo": "Grass Poison",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0591": [
+    {
+      "NoDex": "0591",
+      "Nombre": "Amoonguss",
+      "typo": "Grass Poison",
+      "polvo": "1,000",
+      "Caramelo": "1"
+    }
+  ],
+  "0595": [
+    {
+      "NoDex": "0595",
+      "Nombre": "Joltik",
+      "typo": "Bug Electric",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0596": [
+    {
+      "NoDex": "0596",
+      "Nombre": "Galvantula",
+      "typo": "Bug Electric",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0607": [
+    {
+      "NoDex": "0607",
+      "Nombre": "Litwick",
+      "typo": "Ghost Fire",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0608": [
+    {
+      "NoDex": "0608",
+      "Nombre": "Lampent",
+      "typo": "Ghost Fire",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0609": [
+    {
+      "NoDex": "0609",
+      "Nombre": "Chandelure",
+      "typo": "Ghost Fire",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0618": [
+    {
+      "NoDex": "0618",
+      "Nombre": "Stunfisk Galarian Stunfisk",
+      "typo": "Ground Steel",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0622": [
+    {
+      "NoDex": "0622",
+      "Nombre": "Golett",
+      "typo": "Ground Ghost",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0623": [
+    {
+      "NoDex": "0623",
+      "Nombre": "Golurk",
+      "typo": "Ground Ghost",
+      "polvo": "5,000",
+      "Caramelo": "5"
+    }
+  ],
+  "0718": [
+    {
+      "NoDex": "0718",
+      "Nombre": "Zygarde 50% Forme",
+      "typo": "Dragon Ground",
+      "polvo": "100",
+      "Caramelo": "100"
+    },
+    {
+      "NoDex": "0718",
+      "Nombre": "Zygarde 10% Forme",
+      "typo": "Dragon Ground",
+      "polvo": "100",
+      "Caramelo": "100"
+    },
+    {
+      "NoDex": "0718",
+      "Nombre": "Zygarde Complete Forme",
+      "typo": "Dragon Ground",
+      "polvo": "100",
+      "Caramelo": "100"
+    }
+  ],
+  "0862": [
+    {
+      "NoDex": "0862",
+      "Nombre": "Obstagoon",
+      "typo": "Dark Normal",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0864": [
+    {
+      "NoDex": "0864",
+      "Nombre": "Cursola",
+      "typo": "Ghost",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0865": [
+    {
+      "NoDex": "0865",
+      "Nombre": "Sirfetch'd",
+      "typo": "Fighting",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0866": [
+    {
+      "NoDex": "0866",
+      "Nombre": "Mr. Rime",
+      "typo": "Ice Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0867": [
+    {
+      "NoDex": "0867",
+      "Nombre": "Runerigus",
+      "typo": "Ground Ghost",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0901": [
+    {
+      "NoDex": "0901",
+      "Nombre": "Ursaluna",
+      "typo": "Ground Normal",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0903": [
+    {
+      "NoDex": "0903",
+      "Nombre": "Sneasler",
+      "typo": "Fighting Poison",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ],
+  "0980": [
+    {
+      "NoDex": "0980",
+      "Nombre": "Clodsire",
+      "typo": "Poison Ground",
+      "polvo": "3,000",
+      "Caramelo": "3"
+    }
+  ]
+}
