@@ -66,7 +66,7 @@ if response.status_code == 200:
                     entry["traduccion"] = matching_translation
 
         # Define la ruta completa del archivo JSON en la carpeta temporal
-        json_file_path = os.path.join(temp_folder, "oscuros.json")
+        json_file_path = os.path.join(temp_folder, "invasiones.json")
 
         # Guardar el diccionario en un archivo JSON en la carpeta temporal
         with open(json_file_path, "w", encoding="utf-8") as json_file:

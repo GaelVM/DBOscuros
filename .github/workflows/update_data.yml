@@ -26,19 +26,19 @@ jobs:
             pip install beautifulsoup4
     
         - name: Run Python Script
-          run: python oscuros.py
+          run: python invasiones.py
 
         - name: Run Python Script
           run: python jefes.py
     
         - name: Move JSON File to Working Directory
-          run: mv temp/oscuros.json ./
+          run: mv temp/invasiones.json ./
         
         - name: Move JSON File to Working Directory
           run: mv temp/jefes.json ./
          
         - name: Modify JSON File
-          run: echo  >> oscuros.json
+          run: echo  >> invasiones.json
         
         - name: Modify JSON File
           run: echo  >> jefes.json
@@ -48,7 +48,7 @@ jobs:
             git config --local user.email "github-actions[bot]@users.noreply.github.com"
             git config --local user.name "github-actions[bot]"
             git switch --orphan data
-            git add oscuros.json
+            git add invasiones.json
             git add jefes.json
             git commit -m "Datos actualizados 🤖🍺"
     
