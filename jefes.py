@@ -56,8 +56,10 @@ if response.status_code == 200:
         json_file_path = os.path.join(temp_folder, "jefes.json")
 
         # Guardar el diccionario en un archivo JSON en la carpeta temporal
+          # Guardar el diccionario en un archivo JSON en la carpeta temporal
         with open(json_file_path, "w", encoding="utf-8") as json_file:
             json.dump(all_data_dict, json_file, ensure_ascii=False, indent=2)
+            
 
         print(f"Datos de la segunda tabla guardados en {json_file_path}")
 
