@@ -27,12 +27,21 @@ jobs:
     
         - name: Run Python Script
           run: python oscuros.py
+
+        - name: Run Python Script
+          run: python jefes.py
     
         - name: Move JSON File to Working Directory
           run: mv temp/oscuros.json ./
+        
+        - name: Move JSON File to Working Directory
+          run: mv temp/jefes.json ./
          
         - name: Modify JSON File
           run: echo  >> oscuros.json
+        
+        - name: Modify JSON File
+          run: echo  >> jefes.json
     
         - name: Commit JSON Changes
           run: |
@@ -40,6 +49,7 @@ jobs:
             git config --local user.name "github-actions[bot]"
             git switch --orphan data
             git add oscuros.json
+            git add jefes.json
             git commit -m "Datos actualizados 🤖🍺"
     
         - name: Remove Temp Folder
