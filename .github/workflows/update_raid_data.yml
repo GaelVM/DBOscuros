@@ -1,4 +1,4 @@
-name: Update Data
+name: Actualizar Data
 
 on:
   push:
