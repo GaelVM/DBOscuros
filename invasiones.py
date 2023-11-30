@@ -16,6 +16,10 @@ url = "https://pokemondb.net/go/shadow#shadow-grunts"
 # Realizar la solicitud HTTP
 response = requests.get(url)
 
+# Leer el archivo de datos adicionales
+with open('datos/oscurosdata.json', 'r', encoding='utf-8') as additional_data_file:
+            additional_data = json.load(additional_data_file)
+            
 # Verificar si la solicitud fue exitosa (código de estado 200)
 if response.status_code == 200:
     # Analizar el contenido HTML de la página web
@@ -39,17 +43,18 @@ if response.status_code == 200:
                 row_data = {
                     "Typo": data[0],
                     "texto": data[1],
-                    "Slot1": set(data[2].split('\n')),  # Convertir la cadena en un conjunto
-                    "Slot2": set(data[3].split('\n')),  # Convertir la cadena en un conjunto
-                    "Slot3": set(data[4].split('\n')),  # Convertir la cadena en un conjunto
+                    "Slot1": [{"nombre": item.strip(), "img": additional_data.get(item.strip(), [{}])[0].get("img", "")} for item in data[2].split('\n') if item.strip()],
+                    "Slot2": [{"nombre": item.strip(), "img": additional_data.get(item.strip(), [{}])[0].get("img", "")} for item in data[3].split('\n') if item.strip()],
+                    "Slot3": [{"nombre": item.strip(), "img": additional_data.get(item.strip(), [{}])[0].get("img", "")} for item in data[4].split('\n') if item.strip()],
                     "traduccion": ""  # Puedes inicializarlo con una cadena vacía
                 }
 
-                # Obtener o inicializar la lista para este tipo
+                 # Obtener o inicializar la lista para este tipo
                 type_list = all_data_dict.get(data[0], [])
                 type_list.append(row_data)
                 # Actualizar el diccionario con la lista actualizada
                 all_data_dict[data[0]] = type_list
+        
 
         # Leer el archivo de traducciones
         with open('datos/oscuros.json', 'r', encoding='utf-8') as translation_file:
@@ -67,6 +72,13 @@ if response.status_code == 200:
 
         # Define la ruta completa del archivo JSON en la carpeta temporal
         json_file_path = os.path.join(temp_folder, "invasiones.json")
+
+        # Convertir conjuntos a listas antes de la serialización
+        for entry_list in all_data_dict.values():
+            for entry in entry_list:
+                entry["Slot1"] = list(entry["Slot1"])
+                entry["Slot2"] = list(entry["Slot2"])
+                entry["Slot3"] = list(entry["Slot3"])
 
         # Guardar el diccionario en un archivo JSON en la carpeta temporal
         with open(json_file_path, "w", encoding="utf-8") as json_file:
