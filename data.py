@@ -37,20 +37,19 @@ if response.status_code == 200:
                 data = [cell.text.strip() for cell in cells]
                 # Crear un diccionario con los datos de la fila
                 row_data = {
-                    "NoDex": data[0],
+                    "NoDex": str(int(data[0])),  # Convierte a entero y luego a cadena para eliminar ceros
                     "Nombre": data[1],
                     "typo": data[2],
                     "polvo": data[3],
                     "Caramelo": data[4],
+                    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/" + str(int(data[0])) + "_a1" +".png"  # Añade la extensión .png al NoDex
                 }
 
                 # Obtener o inicializar la lista para este tipo
-                type_list = all_data_dict.get(data[0], [])
+                type_list = all_data_dict.get(data[1], [])
                 type_list.append(row_data)
                 # Actualizar el diccionario con la lista actualizada
-                all_data_dict[data[0]] = type_list
-
-       
+                all_data_dict[data[1]] = type_list
 
         # Define la ruta completa del archivo JSON en la carpeta temporal
         json_file_path = os.path.join(temp_folder, "oscurosdata.json")
