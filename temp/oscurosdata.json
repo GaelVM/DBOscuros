@@ -1,0 +1,3732 @@
+{
+  "Bulbasaur": [
+    {
+      "NoDex": "1",
+      "Nombre": "Bulbasaur",
+      "typo": "Grass Poison",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/1_a1.png"
+    }
+  ],
+  "Ivysaur": [
+    {
+      "NoDex": "2",
+      "Nombre": "Ivysaur",
+      "typo": "Grass Poison",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/2_a1.png"
+    }
+  ],
+  "Venusaur": [
+    {
+      "NoDex": "3",
+      "Nombre": "Venusaur",
+      "typo": "Grass Poison",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/3_a1.png"
+    }
+  ],
+  "Charmander": [
+    {
+      "NoDex": "4",
+      "Nombre": "Charmander",
+      "typo": "Fire",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/4_a1.png"
+    }
+  ],
+  "Charmeleon": [
+    {
+      "NoDex": "5",
+      "Nombre": "Charmeleon",
+      "typo": "Fire",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/5_a1.png"
+    }
+  ],
+  "Charizard": [
+    {
+      "NoDex": "6",
+      "Nombre": "Charizard",
+      "typo": "Fire Flying",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/6_a1.png"
+    }
+  ],
+  "Squirtle": [
+    {
+      "NoDex": "7",
+      "Nombre": "Squirtle",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/7_a1.png"
+    }
+  ],
+  "Wartortle": [
+    {
+      "NoDex": "8",
+      "Nombre": "Wartortle",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/8_a1.png"
+    }
+  ],
+  "Blastoise": [
+    {
+      "NoDex": "9",
+      "Nombre": "Blastoise",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/9_a1.png"
+    }
+  ],
+  "Weedle": [
+    {
+      "NoDex": "13",
+      "Nombre": "Weedle",
+      "typo": "Bug Poison",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/13_a1.png"
+    }
+  ],
+  "Kakuna": [
+    {
+      "NoDex": "14",
+      "Nombre": "Kakuna",
+      "typo": "Bug Poison",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/14_a1.png"
+    }
+  ],
+  "Beedrill": [
+    {
+      "NoDex": "15",
+      "Nombre": "Beedrill",
+      "typo": "Bug Poison",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/15_a1.png"
+    }
+  ],
+  "Rattata": [
+    {
+      "NoDex": "19",
+      "Nombre": "Rattata",
+      "typo": "Normal",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/19_a1.png"
+    }
+  ],
+  "Rattata Alolan Rattata": [
+    {
+      "NoDex": "19",
+      "Nombre": "Rattata Alolan Rattata",
+      "typo": "Dark Normal",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/19_a1.png"
+    }
+  ],
+  "Raticate": [
+    {
+      "NoDex": "20",
+      "Nombre": "Raticate",
+      "typo": "Normal",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/20_a1.png"
+    }
+  ],
+  "Raticate Alolan Raticate": [
+    {
+      "NoDex": "20",
+      "Nombre": "Raticate Alolan Raticate",
+      "typo": "Dark Normal",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/20_a1.png"
+    }
+  ],
+  "Ekans": [
+    {
+      "NoDex": "23",
+      "Nombre": "Ekans",
+      "typo": "Poison",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/23_a1.png"
+    }
+  ],
+  "Arbok": [
+    {
+      "NoDex": "24",
+      "Nombre": "Arbok",
+      "typo": "Poison",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/24_a1.png"
+    }
+  ],
+  "Sandshrew": [
+    {
+      "NoDex": "27",
+      "Nombre": "Sandshrew",
+      "typo": "Ground",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/27_a1.png"
+    }
+  ],
+  "Sandshrew Alolan Sandshrew": [
+    {
+      "NoDex": "27",
+      "Nombre": "Sandshrew Alolan Sandshrew",
+      "typo": "Ice Steel",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/27_a1.png"
+    }
+  ],
+  "Sandslash": [
+    {
+      "NoDex": "28",
+      "Nombre": "Sandslash",
+      "typo": "Ground",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/28_a1.png"
+    }
+  ],
+  "Sandslash Alolan Sandslash": [
+    {
+      "NoDex": "28",
+      "Nombre": "Sandslash Alolan Sandslash",
+      "typo": "Ice Steel",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/28_a1.png"
+    }
+  ],
+  "Nidoran♀": [
+    {
+      "NoDex": "29",
+      "Nombre": "Nidoran♀",
+      "typo": "Poison",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/29_a1.png"
+    }
+  ],
+  "Nidorina": [
+    {
+      "NoDex": "30",
+      "Nombre": "Nidorina",
+      "typo": "Poison",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/30_a1.png"
+    }
+  ],
+  "Nidoqueen": [
+    {
+      "NoDex": "31",
+      "Nombre": "Nidoqueen",
+      "typo": "Poison Ground",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/31_a1.png"
+    }
+  ],
+  "Nidoran♂": [
+    {
+      "NoDex": "32",
+      "Nombre": "Nidoran♂",
+      "typo": "Poison",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/32_a1.png"
+    }
+  ],
+  "Nidorino": [
+    {
+      "NoDex": "33",
+      "Nombre": "Nidorino",
+      "typo": "Poison",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/33_a1.png"
+    }
+  ],
+  "Nidoking": [
+    {
+      "NoDex": "34",
+      "Nombre": "Nidoking",
+      "typo": "Poison Ground",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/34_a1.png"
+    }
+  ],
+  "Vulpix": [
+    {
+      "NoDex": "37",
+      "Nombre": "Vulpix",
+      "typo": "Fire",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/37_a1.png"
+    }
+  ],
+  "Vulpix Alolan Vulpix": [
+    {
+      "NoDex": "37",
+      "Nombre": "Vulpix Alolan Vulpix",
+      "typo": "Ice",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/37_a1.png"
+    }
+  ],
+  "Ninetales": [
+    {
+      "NoDex": "38",
+      "Nombre": "Ninetales",
+      "typo": "Fire",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/38_a1.png"
+    }
+  ],
+  "Ninetales Alolan Ninetales": [
+    {
+      "NoDex": "38",
+      "Nombre": "Ninetales Alolan Ninetales",
+      "typo": "Ice Fairy",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/38_a1.png"
+    }
+  ],
+  "Zubat": [
+    {
+      "NoDex": "41",
+      "Nombre": "Zubat",
+      "typo": "Poison Flying",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/41_a1.png"
+    }
+  ],
+  "Golbat": [
+    {
+      "NoDex": "42",
+      "Nombre": "Golbat",
+      "typo": "Poison Flying",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/42_a1.png"
+    }
+  ],
+  "Oddish": [
+    {
+      "NoDex": "43",
+      "Nombre": "Oddish",
+      "typo": "Grass Poison",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/43_a1.png"
+    }
+  ],
+  "Gloom": [
+    {
+      "NoDex": "44",
+      "Nombre": "Gloom",
+      "typo": "Grass Poison",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/44_a1.png"
+    }
+  ],
+  "Vileplume": [
+    {
+      "NoDex": "45",
+      "Nombre": "Vileplume",
+      "typo": "Grass Poison",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/45_a1.png"
+    }
+  ],
+  "Venonat": [
+    {
+      "NoDex": "48",
+      "Nombre": "Venonat",
+      "typo": "Bug Poison",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/48_a1.png"
+    }
+  ],
+  "Venomoth": [
+    {
+      "NoDex": "49",
+      "Nombre": "Venomoth",
+      "typo": "Bug Poison",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/49_a1.png"
+    }
+  ],
+  "Diglett": [
+    {
+      "NoDex": "50",
+      "Nombre": "Diglett",
+      "typo": "Ground",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/50_a1.png"
+    }
+  ],
+  "Diglett Alolan Diglett": [
+    {
+      "NoDex": "50",
+      "Nombre": "Diglett Alolan Diglett",
+      "typo": "Ground Steel",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/50_a1.png"
+    }
+  ],
+  "Dugtrio": [
+    {
+      "NoDex": "51",
+      "Nombre": "Dugtrio",
+      "typo": "Ground",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/51_a1.png"
+    }
+  ],
+  "Dugtrio Alolan Dugtrio": [
+    {
+      "NoDex": "51",
+      "Nombre": "Dugtrio Alolan Dugtrio",
+      "typo": "Ground Steel",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/51_a1.png"
+    }
+  ],
+  "Meowth": [
+    {
+      "NoDex": "52",
+      "Nombre": "Meowth",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/52_a1.png"
+    }
+  ],
+  "Meowth Alolan Meowth": [
+    {
+      "NoDex": "52",
+      "Nombre": "Meowth Alolan Meowth",
+      "typo": "Dark",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/52_a1.png"
+    }
+  ],
+  "Meowth Galarian Meowth": [
+    {
+      "NoDex": "52",
+      "Nombre": "Meowth Galarian Meowth",
+      "typo": "Steel",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/52_a1.png"
+    }
+  ],
+  "Persian": [
+    {
+      "NoDex": "53",
+      "Nombre": "Persian",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/53_a1.png"
+    }
+  ],
+  "Persian Alolan Persian": [
+    {
+      "NoDex": "53",
+      "Nombre": "Persian Alolan Persian",
+      "typo": "Dark",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/53_a1.png"
+    }
+  ],
+  "Psyduck": [
+    {
+      "NoDex": "54",
+      "Nombre": "Psyduck",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/54_a1.png"
+    }
+  ],
+  "Golduck": [
+    {
+      "NoDex": "55",
+      "Nombre": "Golduck",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/55_a1.png"
+    }
+  ],
+  "Growlithe": [
+    {
+      "NoDex": "58",
+      "Nombre": "Growlithe",
+      "typo": "Fire",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/58_a1.png"
+    }
+  ],
+  "Growlithe Hisuian Growlithe": [
+    {
+      "NoDex": "58",
+      "Nombre": "Growlithe Hisuian Growlithe",
+      "typo": "Fire Rock",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/58_a1.png"
+    }
+  ],
+  "Arcanine": [
+    {
+      "NoDex": "59",
+      "Nombre": "Arcanine",
+      "typo": "Fire",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/59_a1.png"
+    }
+  ],
+  "Arcanine Hisuian Arcanine": [
+    {
+      "NoDex": "59",
+      "Nombre": "Arcanine Hisuian Arcanine",
+      "typo": "Fire Rock",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/59_a1.png"
+    }
+  ],
+  "Poliwag": [
+    {
+      "NoDex": "60",
+      "Nombre": "Poliwag",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/60_a1.png"
+    }
+  ],
+  "Poliwhirl": [
+    {
+      "NoDex": "61",
+      "Nombre": "Poliwhirl",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/61_a1.png"
+    }
+  ],
+  "Poliwrath": [
+    {
+      "NoDex": "62",
+      "Nombre": "Poliwrath",
+      "typo": "Water Fighting",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/62_a1.png"
+    }
+  ],
+  "Abra": [
+    {
+      "NoDex": "63",
+      "Nombre": "Abra",
+      "typo": "Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/63_a1.png"
+    }
+  ],
+  "Kadabra": [
+    {
+      "NoDex": "64",
+      "Nombre": "Kadabra",
+      "typo": "Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/64_a1.png"
+    }
+  ],
+  "Alakazam": [
+    {
+      "NoDex": "65",
+      "Nombre": "Alakazam",
+      "typo": "Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/65_a1.png"
+    }
+  ],
+  "Machop": [
+    {
+      "NoDex": "66",
+      "Nombre": "Machop",
+      "typo": "Fighting",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/66_a1.png"
+    }
+  ],
+  "Machoke": [
+    {
+      "NoDex": "67",
+      "Nombre": "Machoke",
+      "typo": "Fighting",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/67_a1.png"
+    }
+  ],
+  "Machamp": [
+    {
+      "NoDex": "68",
+      "Nombre": "Machamp",
+      "typo": "Fighting",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/68_a1.png"
+    }
+  ],
+  "Bellsprout": [
+    {
+      "NoDex": "69",
+      "Nombre": "Bellsprout",
+      "typo": "Grass Poison",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/69_a1.png"
+    }
+  ],
+  "Weepinbell": [
+    {
+      "NoDex": "70",
+      "Nombre": "Weepinbell",
+      "typo": "Grass Poison",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/70_a1.png"
+    }
+  ],
+  "Victreebel": [
+    {
+      "NoDex": "71",
+      "Nombre": "Victreebel",
+      "typo": "Grass Poison",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/71_a1.png"
+    }
+  ],
+  "Geodude": [
+    {
+      "NoDex": "74",
+      "Nombre": "Geodude",
+      "typo": "Rock Ground",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/74_a1.png"
+    }
+  ],
+  "Geodude Alolan Geodude": [
+    {
+      "NoDex": "74",
+      "Nombre": "Geodude Alolan Geodude",
+      "typo": "Rock Electric",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/74_a1.png"
+    }
+  ],
+  "Graveler": [
+    {
+      "NoDex": "75",
+      "Nombre": "Graveler",
+      "typo": "Rock Ground",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/75_a1.png"
+    }
+  ],
+  "Graveler Alolan Graveler": [
+    {
+      "NoDex": "75",
+      "Nombre": "Graveler Alolan Graveler",
+      "typo": "Rock Electric",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/75_a1.png"
+    }
+  ],
+  "Golem": [
+    {
+      "NoDex": "76",
+      "Nombre": "Golem",
+      "typo": "Rock Ground",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/76_a1.png"
+    }
+  ],
+  "Golem Alolan Golem": [
+    {
+      "NoDex": "76",
+      "Nombre": "Golem Alolan Golem",
+      "typo": "Rock Electric",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/76_a1.png"
+    }
+  ],
+  "Ponyta": [
+    {
+      "NoDex": "77",
+      "Nombre": "Ponyta",
+      "typo": "Fire",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/77_a1.png"
+    }
+  ],
+  "Ponyta Galarian Ponyta": [
+    {
+      "NoDex": "77",
+      "Nombre": "Ponyta Galarian Ponyta",
+      "typo": "Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/77_a1.png"
+    }
+  ],
+  "Rapidash": [
+    {
+      "NoDex": "78",
+      "Nombre": "Rapidash",
+      "typo": "Fire",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/78_a1.png"
+    }
+  ],
+  "Rapidash Galarian Rapidash": [
+    {
+      "NoDex": "78",
+      "Nombre": "Rapidash Galarian Rapidash",
+      "typo": "Psychic Fairy",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/78_a1.png"
+    }
+  ],
+  "Slowpoke": [
+    {
+      "NoDex": "79",
+      "Nombre": "Slowpoke",
+      "typo": "Water Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/79_a1.png"
+    }
+  ],
+  "Slowpoke Galarian Slowpoke": [
+    {
+      "NoDex": "79",
+      "Nombre": "Slowpoke Galarian Slowpoke",
+      "typo": "Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/79_a1.png"
+    }
+  ],
+  "Slowbro": [
+    {
+      "NoDex": "80",
+      "Nombre": "Slowbro",
+      "typo": "Water Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/80_a1.png"
+    }
+  ],
+  "Slowbro Galarian Slowbro": [
+    {
+      "NoDex": "80",
+      "Nombre": "Slowbro Galarian Slowbro",
+      "typo": "Poison Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/80_a1.png"
+    }
+  ],
+  "Magnemite": [
+    {
+      "NoDex": "81",
+      "Nombre": "Magnemite",
+      "typo": "Electric Steel",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/81_a1.png"
+    }
+  ],
+  "Magneton": [
+    {
+      "NoDex": "82",
+      "Nombre": "Magneton",
+      "typo": "Electric Steel",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/82_a1.png"
+    }
+  ],
+  "Farfetch'd": [
+    {
+      "NoDex": "83",
+      "Nombre": "Farfetch'd",
+      "typo": "Normal Flying",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/83_a1.png"
+    }
+  ],
+  "Farfetch'd Galarian Farfetch'd": [
+    {
+      "NoDex": "83",
+      "Nombre": "Farfetch'd Galarian Farfetch'd",
+      "typo": "Fighting",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/83_a1.png"
+    }
+  ],
+  "Grimer": [
+    {
+      "NoDex": "88",
+      "Nombre": "Grimer",
+      "typo": "Poison",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/88_a1.png"
+    }
+  ],
+  "Grimer Alolan Grimer": [
+    {
+      "NoDex": "88",
+      "Nombre": "Grimer Alolan Grimer",
+      "typo": "Poison Dark",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/88_a1.png"
+    }
+  ],
+  "Muk": [
+    {
+      "NoDex": "89",
+      "Nombre": "Muk",
+      "typo": "Poison",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/89_a1.png"
+    }
+  ],
+  "Muk Alolan Muk": [
+    {
+      "NoDex": "89",
+      "Nombre": "Muk Alolan Muk",
+      "typo": "Poison Dark",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/89_a1.png"
+    }
+  ],
+  "Shellder": [
+    {
+      "NoDex": "90",
+      "Nombre": "Shellder",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/90_a1.png"
+    }
+  ],
+  "Cloyster": [
+    {
+      "NoDex": "91",
+      "Nombre": "Cloyster",
+      "typo": "Water Ice",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/91_a1.png"
+    }
+  ],
+  "Gastly": [
+    {
+      "NoDex": "92",
+      "Nombre": "Gastly",
+      "typo": "Ghost Poison",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/92_a1.png"
+    }
+  ],
+  "Haunter": [
+    {
+      "NoDex": "93",
+      "Nombre": "Haunter",
+      "typo": "Ghost Poison",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/93_a1.png"
+    }
+  ],
+  "Gengar": [
+    {
+      "NoDex": "94",
+      "Nombre": "Gengar",
+      "typo": "Ghost Poison",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/94_a1.png"
+    }
+  ],
+  "Onix": [
+    {
+      "NoDex": "95",
+      "Nombre": "Onix",
+      "typo": "Rock Ground",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/95_a1.png"
+    }
+  ],
+  "Drowzee": [
+    {
+      "NoDex": "96",
+      "Nombre": "Drowzee",
+      "typo": "Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/96_a1.png"
+    }
+  ],
+  "Hypno": [
+    {
+      "NoDex": "97",
+      "Nombre": "Hypno",
+      "typo": "Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/97_a1.png"
+    }
+  ],
+  "Krabby": [
+    {
+      "NoDex": "98",
+      "Nombre": "Krabby",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/98_a1.png"
+    }
+  ],
+  "Kingler": [
+    {
+      "NoDex": "99",
+      "Nombre": "Kingler",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/99_a1.png"
+    }
+  ],
+  "Voltorb": [
+    {
+      "NoDex": "100",
+      "Nombre": "Voltorb",
+      "typo": "Electric",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/100_a1.png"
+    }
+  ],
+  "Voltorb Hisuian Voltorb": [
+    {
+      "NoDex": "100",
+      "Nombre": "Voltorb Hisuian Voltorb",
+      "typo": "Electric Grass",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/100_a1.png"
+    }
+  ],
+  "Electrode": [
+    {
+      "NoDex": "101",
+      "Nombre": "Electrode",
+      "typo": "Electric",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/101_a1.png"
+    }
+  ],
+  "Exeggcute": [
+    {
+      "NoDex": "102",
+      "Nombre": "Exeggcute",
+      "typo": "Grass Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/102_a1.png"
+    }
+  ],
+  "Exeggutor": [
+    {
+      "NoDex": "103",
+      "Nombre": "Exeggutor",
+      "typo": "Grass Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/103_a1.png"
+    }
+  ],
+  "Exeggutor Alolan Exeggutor": [
+    {
+      "NoDex": "103",
+      "Nombre": "Exeggutor Alolan Exeggutor",
+      "typo": "Grass Dragon",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/103_a1.png"
+    }
+  ],
+  "Cubone": [
+    {
+      "NoDex": "104",
+      "Nombre": "Cubone",
+      "typo": "Ground",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/104_a1.png"
+    }
+  ],
+  "Marowak": [
+    {
+      "NoDex": "105",
+      "Nombre": "Marowak",
+      "typo": "Ground",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/105_a1.png"
+    }
+  ],
+  "Marowak Alolan Marowak": [
+    {
+      "NoDex": "105",
+      "Nombre": "Marowak Alolan Marowak",
+      "typo": "Fire Ghost",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/105_a1.png"
+    }
+  ],
+  "Hitmonlee": [
+    {
+      "NoDex": "106",
+      "Nombre": "Hitmonlee",
+      "typo": "Fighting",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/106_a1.png"
+    }
+  ],
+  "Hitmonchan": [
+    {
+      "NoDex": "107",
+      "Nombre": "Hitmonchan",
+      "typo": "Fighting",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/107_a1.png"
+    }
+  ],
+  "Koffing": [
+    {
+      "NoDex": "109",
+      "Nombre": "Koffing",
+      "typo": "Poison",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/109_a1.png"
+    }
+  ],
+  "Weezing": [
+    {
+      "NoDex": "110",
+      "Nombre": "Weezing",
+      "typo": "Poison",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/110_a1.png"
+    }
+  ],
+  "Weezing Galarian Weezing": [
+    {
+      "NoDex": "110",
+      "Nombre": "Weezing Galarian Weezing",
+      "typo": "Poison Fairy",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/110_a1.png"
+    }
+  ],
+  "Rhyhorn": [
+    {
+      "NoDex": "111",
+      "Nombre": "Rhyhorn",
+      "typo": "Ground Rock",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/111_a1.png"
+    }
+  ],
+  "Rhydon": [
+    {
+      "NoDex": "112",
+      "Nombre": "Rhydon",
+      "typo": "Ground Rock",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/112_a1.png"
+    }
+  ],
+  "Tangela": [
+    {
+      "NoDex": "114",
+      "Nombre": "Tangela",
+      "typo": "Grass",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/114_a1.png"
+    }
+  ],
+  "Kangaskhan": [
+    {
+      "NoDex": "115",
+      "Nombre": "Kangaskhan",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/115_a1.png"
+    }
+  ],
+  "Horsea": [
+    {
+      "NoDex": "116",
+      "Nombre": "Horsea",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/116_a1.png"
+    }
+  ],
+  "Seadra": [
+    {
+      "NoDex": "117",
+      "Nombre": "Seadra",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/117_a1.png"
+    }
+  ],
+  "Mr. Mime": [
+    {
+      "NoDex": "122",
+      "Nombre": "Mr. Mime",
+      "typo": "Psychic Fairy",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/122_a1.png"
+    }
+  ],
+  "Mr. Mime Galarian Mr. Mime": [
+    {
+      "NoDex": "122",
+      "Nombre": "Mr. Mime Galarian Mr. Mime",
+      "typo": "Ice Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/122_a1.png"
+    }
+  ],
+  "Scyther": [
+    {
+      "NoDex": "123",
+      "Nombre": "Scyther",
+      "typo": "Bug Flying",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/123_a1.png"
+    }
+  ],
+  "Electabuzz": [
+    {
+      "NoDex": "125",
+      "Nombre": "Electabuzz",
+      "typo": "Electric",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/125_a1.png"
+    }
+  ],
+  "Magmar": [
+    {
+      "NoDex": "126",
+      "Nombre": "Magmar",
+      "typo": "Fire",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/126_a1.png"
+    }
+  ],
+  "Pinsir": [
+    {
+      "NoDex": "127",
+      "Nombre": "Pinsir",
+      "typo": "Bug",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/127_a1.png"
+    }
+  ],
+  "Magikarp": [
+    {
+      "NoDex": "129",
+      "Nombre": "Magikarp",
+      "typo": "Water",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/129_a1.png"
+    }
+  ],
+  "Gyarados": [
+    {
+      "NoDex": "130",
+      "Nombre": "Gyarados",
+      "typo": "Water Flying",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/130_a1.png"
+    }
+  ],
+  "Lapras": [
+    {
+      "NoDex": "131",
+      "Nombre": "Lapras",
+      "typo": "Water Ice",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/131_a1.png"
+    }
+  ],
+  "Porygon": [
+    {
+      "NoDex": "137",
+      "Nombre": "Porygon",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/137_a1.png"
+    }
+  ],
+  "Omanyte": [
+    {
+      "NoDex": "138",
+      "Nombre": "Omanyte",
+      "typo": "Rock Water",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/138_a1.png"
+    }
+  ],
+  "Omastar": [
+    {
+      "NoDex": "139",
+      "Nombre": "Omastar",
+      "typo": "Rock Water",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/139_a1.png"
+    }
+  ],
+  "Kabuto": [
+    {
+      "NoDex": "140",
+      "Nombre": "Kabuto",
+      "typo": "Rock Water",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/140_a1.png"
+    }
+  ],
+  "Kabutops": [
+    {
+      "NoDex": "141",
+      "Nombre": "Kabutops",
+      "typo": "Rock Water",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/141_a1.png"
+    }
+  ],
+  "Aerodactyl": [
+    {
+      "NoDex": "142",
+      "Nombre": "Aerodactyl",
+      "typo": "Rock Flying",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/142_a1.png"
+    }
+  ],
+  "Snorlax": [
+    {
+      "NoDex": "143",
+      "Nombre": "Snorlax",
+      "typo": "Normal",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/143_a1.png"
+    }
+  ],
+  "Articuno": [
+    {
+      "NoDex": "144",
+      "Nombre": "Articuno",
+      "typo": "Ice Flying",
+      "polvo": "20,000",
+      "Caramelo": "20",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/144_a1.png"
+    }
+  ],
+  "Articuno Galarian Articuno": [
+    {
+      "NoDex": "144",
+      "Nombre": "Articuno Galarian Articuno",
+      "typo": "Psychic Flying",
+      "polvo": "20,000",
+      "Caramelo": "20",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/144_a1.png"
+    }
+  ],
+  "Zapdos": [
+    {
+      "NoDex": "145",
+      "Nombre": "Zapdos",
+      "typo": "Electric Flying",
+      "polvo": "20,000",
+      "Caramelo": "20",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/145_a1.png"
+    }
+  ],
+  "Zapdos Galarian Zapdos": [
+    {
+      "NoDex": "145",
+      "Nombre": "Zapdos Galarian Zapdos",
+      "typo": "Fighting Flying",
+      "polvo": "20,000",
+      "Caramelo": "20",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/145_a1.png"
+    }
+  ],
+  "Moltres": [
+    {
+      "NoDex": "146",
+      "Nombre": "Moltres",
+      "typo": "Fire Flying",
+      "polvo": "20,000",
+      "Caramelo": "20",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/146_a1.png"
+    }
+  ],
+  "Moltres Galarian Moltres": [
+    {
+      "NoDex": "146",
+      "Nombre": "Moltres Galarian Moltres",
+      "typo": "Dark Flying",
+      "polvo": "20,000",
+      "Caramelo": "20",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/146_a1.png"
+    }
+  ],
+  "Dratini": [
+    {
+      "NoDex": "147",
+      "Nombre": "Dratini",
+      "typo": "Dragon",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/147_a1.png"
+    }
+  ],
+  "Dragonair": [
+    {
+      "NoDex": "148",
+      "Nombre": "Dragonair",
+      "typo": "Dragon",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/148_a1.png"
+    }
+  ],
+  "Dragonite": [
+    {
+      "NoDex": "149",
+      "Nombre": "Dragonite",
+      "typo": "Dragon Flying",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/149_a1.png"
+    }
+  ],
+  "Mewtwo": [
+    {
+      "NoDex": "150",
+      "Nombre": "Mewtwo",
+      "typo": "Psychic",
+      "polvo": "20,000",
+      "Caramelo": "20",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/150_a1.png"
+    }
+  ],
+  "Mewtwo Armored Mewtwo": [
+    {
+      "NoDex": "150",
+      "Nombre": "Mewtwo Armored Mewtwo",
+      "typo": "Psychic",
+      "polvo": "20,000",
+      "Caramelo": "20",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/150_a1.png"
+    }
+  ],
+  "Chikorita": [
+    {
+      "NoDex": "152",
+      "Nombre": "Chikorita",
+      "typo": "Grass",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/152_a1.png"
+    }
+  ],
+  "Bayleef": [
+    {
+      "NoDex": "153",
+      "Nombre": "Bayleef",
+      "typo": "Grass",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/153_a1.png"
+    }
+  ],
+  "Meganium": [
+    {
+      "NoDex": "154",
+      "Nombre": "Meganium",
+      "typo": "Grass",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/154_a1.png"
+    }
+  ],
+  "Cyndaquil": [
+    {
+      "NoDex": "155",
+      "Nombre": "Cyndaquil",
+      "typo": "Fire",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/155_a1.png"
+    }
+  ],
+  "Quilava": [
+    {
+      "NoDex": "156",
+      "Nombre": "Quilava",
+      "typo": "Fire",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/156_a1.png"
+    }
+  ],
+  "Typhlosion": [
+    {
+      "NoDex": "157",
+      "Nombre": "Typhlosion",
+      "typo": "Fire",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/157_a1.png"
+    }
+  ],
+  "Totodile": [
+    {
+      "NoDex": "158",
+      "Nombre": "Totodile",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/158_a1.png"
+    }
+  ],
+  "Croconaw": [
+    {
+      "NoDex": "159",
+      "Nombre": "Croconaw",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/159_a1.png"
+    }
+  ],
+  "Feraligatr": [
+    {
+      "NoDex": "160",
+      "Nombre": "Feraligatr",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/160_a1.png"
+    }
+  ],
+  "Ledyba": [
+    {
+      "NoDex": "165",
+      "Nombre": "Ledyba",
+      "typo": "Bug Flying",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/165_a1.png"
+    }
+  ],
+  "Ledian": [
+    {
+      "NoDex": "166",
+      "Nombre": "Ledian",
+      "typo": "Bug Flying",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/166_a1.png"
+    }
+  ],
+  "Crobat": [
+    {
+      "NoDex": "169",
+      "Nombre": "Crobat",
+      "typo": "Poison Flying",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/169_a1.png"
+    }
+  ],
+  "Natu": [
+    {
+      "NoDex": "177",
+      "Nombre": "Natu",
+      "typo": "Psychic Flying",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/177_a1.png"
+    }
+  ],
+  "Xatu": [
+    {
+      "NoDex": "178",
+      "Nombre": "Xatu",
+      "typo": "Psychic Flying",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/178_a1.png"
+    }
+  ],
+  "Mareep": [
+    {
+      "NoDex": "179",
+      "Nombre": "Mareep",
+      "typo": "Electric",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/179_a1.png"
+    }
+  ],
+  "Flaaffy": [
+    {
+      "NoDex": "180",
+      "Nombre": "Flaaffy",
+      "typo": "Electric",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/180_a1.png"
+    }
+  ],
+  "Ampharos": [
+    {
+      "NoDex": "181",
+      "Nombre": "Ampharos",
+      "typo": "Electric",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/181_a1.png"
+    }
+  ],
+  "Bellossom": [
+    {
+      "NoDex": "182",
+      "Nombre": "Bellossom",
+      "typo": "Grass",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/182_a1.png"
+    }
+  ],
+  "Sudowoodo": [
+    {
+      "NoDex": "185",
+      "Nombre": "Sudowoodo",
+      "typo": "Rock",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/185_a1.png"
+    }
+  ],
+  "Politoed": [
+    {
+      "NoDex": "186",
+      "Nombre": "Politoed",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/186_a1.png"
+    }
+  ],
+  "Hoppip": [
+    {
+      "NoDex": "187",
+      "Nombre": "Hoppip",
+      "typo": "Grass Flying",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/187_a1.png"
+    }
+  ],
+  "Skiploom": [
+    {
+      "NoDex": "188",
+      "Nombre": "Skiploom",
+      "typo": "Grass Flying",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/188_a1.png"
+    }
+  ],
+  "Jumpluff": [
+    {
+      "NoDex": "189",
+      "Nombre": "Jumpluff",
+      "typo": "Grass Flying",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/189_a1.png"
+    }
+  ],
+  "Aipom": [
+    {
+      "NoDex": "190",
+      "Nombre": "Aipom",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/190_a1.png"
+    }
+  ],
+  "Wooper": [
+    {
+      "NoDex": "194",
+      "Nombre": "Wooper",
+      "typo": "Water Ground",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/194_a1.png"
+    }
+  ],
+  "Wooper Paldean Wooper": [
+    {
+      "NoDex": "194",
+      "Nombre": "Wooper Paldean Wooper",
+      "typo": "Poison Ground",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/194_a1.png"
+    }
+  ],
+  "Quagsire": [
+    {
+      "NoDex": "195",
+      "Nombre": "Quagsire",
+      "typo": "Water Ground",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/195_a1.png"
+    }
+  ],
+  "Murkrow": [
+    {
+      "NoDex": "198",
+      "Nombre": "Murkrow",
+      "typo": "Dark Flying",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/198_a1.png"
+    }
+  ],
+  "Slowking": [
+    {
+      "NoDex": "199",
+      "Nombre": "Slowking",
+      "typo": "Water Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/199_a1.png"
+    }
+  ],
+  "Slowking Galarian Slowking": [
+    {
+      "NoDex": "199",
+      "Nombre": "Slowking Galarian Slowking",
+      "typo": "Poison Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/199_a1.png"
+    }
+  ],
+  "Misdreavus": [
+    {
+      "NoDex": "200",
+      "Nombre": "Misdreavus",
+      "typo": "Ghost",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/200_a1.png"
+    }
+  ],
+  "Wobbuffet": [
+    {
+      "NoDex": "202",
+      "Nombre": "Wobbuffet",
+      "typo": "Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/202_a1.png"
+    }
+  ],
+  "Girafarig": [
+    {
+      "NoDex": "203",
+      "Nombre": "Girafarig",
+      "typo": "Normal Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/203_a1.png"
+    }
+  ],
+  "Pineco": [
+    {
+      "NoDex": "204",
+      "Nombre": "Pineco",
+      "typo": "Bug",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/204_a1.png"
+    }
+  ],
+  "Forretress": [
+    {
+      "NoDex": "205",
+      "Nombre": "Forretress",
+      "typo": "Bug Steel",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/205_a1.png"
+    }
+  ],
+  "Gligar": [
+    {
+      "NoDex": "207",
+      "Nombre": "Gligar",
+      "typo": "Ground Flying",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/207_a1.png"
+    }
+  ],
+  "Steelix": [
+    {
+      "NoDex": "208",
+      "Nombre": "Steelix",
+      "typo": "Steel Ground",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/208_a1.png"
+    }
+  ],
+  "Snubbull": [
+    {
+      "NoDex": "209",
+      "Nombre": "Snubbull",
+      "typo": "Fairy",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/209_a1.png"
+    }
+  ],
+  "Granbull": [
+    {
+      "NoDex": "210",
+      "Nombre": "Granbull",
+      "typo": "Fairy",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/210_a1.png"
+    }
+  ],
+  "Scizor": [
+    {
+      "NoDex": "212",
+      "Nombre": "Scizor",
+      "typo": "Bug Steel",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/212_a1.png"
+    }
+  ],
+  "Shuckle": [
+    {
+      "NoDex": "213",
+      "Nombre": "Shuckle",
+      "typo": "Bug Rock",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/213_a1.png"
+    }
+  ],
+  "Sneasel": [
+    {
+      "NoDex": "215",
+      "Nombre": "Sneasel",
+      "typo": "Dark Ice",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/215_a1.png"
+    }
+  ],
+  "Sneasel Hisuian Sneasel": [
+    {
+      "NoDex": "215",
+      "Nombre": "Sneasel Hisuian Sneasel",
+      "typo": "Fighting Poison",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/215_a1.png"
+    }
+  ],
+  "Teddiursa": [
+    {
+      "NoDex": "216",
+      "Nombre": "Teddiursa",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/216_a1.png"
+    }
+  ],
+  "Ursaring": [
+    {
+      "NoDex": "217",
+      "Nombre": "Ursaring",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/217_a1.png"
+    }
+  ],
+  "Swinub": [
+    {
+      "NoDex": "220",
+      "Nombre": "Swinub",
+      "typo": "Ice Ground",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/220_a1.png"
+    }
+  ],
+  "Piloswine": [
+    {
+      "NoDex": "221",
+      "Nombre": "Piloswine",
+      "typo": "Ice Ground",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/221_a1.png"
+    }
+  ],
+  "Delibird": [
+    {
+      "NoDex": "225",
+      "Nombre": "Delibird",
+      "typo": "Ice Flying",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/225_a1.png"
+    }
+  ],
+  "Skarmory": [
+    {
+      "NoDex": "227",
+      "Nombre": "Skarmory",
+      "typo": "Steel Flying",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/227_a1.png"
+    }
+  ],
+  "Houndour": [
+    {
+      "NoDex": "228",
+      "Nombre": "Houndour",
+      "typo": "Dark Fire",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/228_a1.png"
+    }
+  ],
+  "Houndoom": [
+    {
+      "NoDex": "229",
+      "Nombre": "Houndoom",
+      "typo": "Dark Fire",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/229_a1.png"
+    }
+  ],
+  "Kingdra": [
+    {
+      "NoDex": "230",
+      "Nombre": "Kingdra",
+      "typo": "Water Dragon",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/230_a1.png"
+    }
+  ],
+  "Phanpy": [
+    {
+      "NoDex": "231",
+      "Nombre": "Phanpy",
+      "typo": "Ground",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/231_a1.png"
+    }
+  ],
+  "Donphan": [
+    {
+      "NoDex": "232",
+      "Nombre": "Donphan",
+      "typo": "Ground",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/232_a1.png"
+    }
+  ],
+  "Porygon2": [
+    {
+      "NoDex": "233",
+      "Nombre": "Porygon2",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/233_a1.png"
+    }
+  ],
+  "Stantler": [
+    {
+      "NoDex": "234",
+      "Nombre": "Stantler",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/234_a1.png"
+    }
+  ],
+  "Hitmontop": [
+    {
+      "NoDex": "237",
+      "Nombre": "Hitmontop",
+      "typo": "Fighting",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/237_a1.png"
+    }
+  ],
+  "Raikou": [
+    {
+      "NoDex": "243",
+      "Nombre": "Raikou",
+      "typo": "Electric",
+      "polvo": "20,000",
+      "Caramelo": "20",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/243_a1.png"
+    }
+  ],
+  "Entei": [
+    {
+      "NoDex": "244",
+      "Nombre": "Entei",
+      "typo": "Fire",
+      "polvo": "20,000",
+      "Caramelo": "20",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/244_a1.png"
+    }
+  ],
+  "Suicune": [
+    {
+      "NoDex": "245",
+      "Nombre": "Suicune",
+      "typo": "Water",
+      "polvo": "20,000",
+      "Caramelo": "20",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/245_a1.png"
+    }
+  ],
+  "Larvitar": [
+    {
+      "NoDex": "246",
+      "Nombre": "Larvitar",
+      "typo": "Rock Ground",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/246_a1.png"
+    }
+  ],
+  "Pupitar": [
+    {
+      "NoDex": "247",
+      "Nombre": "Pupitar",
+      "typo": "Rock Ground",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/247_a1.png"
+    }
+  ],
+  "Tyranitar": [
+    {
+      "NoDex": "248",
+      "Nombre": "Tyranitar",
+      "typo": "Rock Dark",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/248_a1.png"
+    }
+  ],
+  "Lugia": [
+    {
+      "NoDex": "249",
+      "Nombre": "Lugia",
+      "typo": "Psychic Flying",
+      "polvo": "20,000",
+      "Caramelo": "20",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/249_a1.png"
+    }
+  ],
+  "Lugia Apex Lugia": [
+    {
+      "NoDex": "249",
+      "Nombre": "Lugia Apex Lugia",
+      "typo": "Psychic Flying",
+      "polvo": "20,000",
+      "Caramelo": "20",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/249_a1.png"
+    }
+  ],
+  "Ho-oh": [
+    {
+      "NoDex": "250",
+      "Nombre": "Ho-oh",
+      "typo": "Fire Flying",
+      "polvo": "20,000",
+      "Caramelo": "20",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/250_a1.png"
+    }
+  ],
+  "Ho-oh Apex Ho-Oh": [
+    {
+      "NoDex": "250",
+      "Nombre": "Ho-oh Apex Ho-Oh",
+      "typo": "Fire Flying",
+      "polvo": "20,000",
+      "Caramelo": "20",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/250_a1.png"
+    }
+  ],
+  "Treecko": [
+    {
+      "NoDex": "252",
+      "Nombre": "Treecko",
+      "typo": "Grass",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/252_a1.png"
+    }
+  ],
+  "Grovyle": [
+    {
+      "NoDex": "253",
+      "Nombre": "Grovyle",
+      "typo": "Grass",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/253_a1.png"
+    }
+  ],
+  "Sceptile": [
+    {
+      "NoDex": "254",
+      "Nombre": "Sceptile",
+      "typo": "Grass",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/254_a1.png"
+    }
+  ],
+  "Torchic": [
+    {
+      "NoDex": "255",
+      "Nombre": "Torchic",
+      "typo": "Fire",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/255_a1.png"
+    }
+  ],
+  "Combusken": [
+    {
+      "NoDex": "256",
+      "Nombre": "Combusken",
+      "typo": "Fire Fighting",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/256_a1.png"
+    }
+  ],
+  "Blaziken": [
+    {
+      "NoDex": "257",
+      "Nombre": "Blaziken",
+      "typo": "Fire Fighting",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/257_a1.png"
+    }
+  ],
+  "Mudkip": [
+    {
+      "NoDex": "258",
+      "Nombre": "Mudkip",
+      "typo": "Water",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/258_a1.png"
+    }
+  ],
+  "Marshtomp": [
+    {
+      "NoDex": "259",
+      "Nombre": "Marshtomp",
+      "typo": "Water Ground",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/259_a1.png"
+    }
+  ],
+  "Swampert": [
+    {
+      "NoDex": "260",
+      "Nombre": "Swampert",
+      "typo": "Water Ground",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/260_a1.png"
+    }
+  ],
+  "Poochyena": [
+    {
+      "NoDex": "261",
+      "Nombre": "Poochyena",
+      "typo": "Dark",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/261_a1.png"
+    }
+  ],
+  "Mightyena": [
+    {
+      "NoDex": "262",
+      "Nombre": "Mightyena",
+      "typo": "Dark",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/262_a1.png"
+    }
+  ],
+  "Zigzagoon": [
+    {
+      "NoDex": "263",
+      "Nombre": "Zigzagoon",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/263_a1.png"
+    }
+  ],
+  "Zigzagoon Galarian Zigzagoon": [
+    {
+      "NoDex": "263",
+      "Nombre": "Zigzagoon Galarian Zigzagoon",
+      "typo": "Dark Normal",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/263_a1.png"
+    }
+  ],
+  "Linoone": [
+    {
+      "NoDex": "264",
+      "Nombre": "Linoone",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/264_a1.png"
+    }
+  ],
+  "Linoone Galarian Linoone": [
+    {
+      "NoDex": "264",
+      "Nombre": "Linoone Galarian Linoone",
+      "typo": "Dark Normal",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/264_a1.png"
+    }
+  ],
+  "Seedot": [
+    {
+      "NoDex": "273",
+      "Nombre": "Seedot",
+      "typo": "Grass",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/273_a1.png"
+    }
+  ],
+  "Nuzleaf": [
+    {
+      "NoDex": "274",
+      "Nombre": "Nuzleaf",
+      "typo": "Grass Dark",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/274_a1.png"
+    }
+  ],
+  "Shiftry": [
+    {
+      "NoDex": "275",
+      "Nombre": "Shiftry",
+      "typo": "Grass Dark",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/275_a1.png"
+    }
+  ],
+  "Ralts": [
+    {
+      "NoDex": "280",
+      "Nombre": "Ralts",
+      "typo": "Psychic Fairy",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/280_a1.png"
+    }
+  ],
+  "Kirlia": [
+    {
+      "NoDex": "281",
+      "Nombre": "Kirlia",
+      "typo": "Psychic Fairy",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/281_a1.png"
+    }
+  ],
+  "Gardevoir": [
+    {
+      "NoDex": "282",
+      "Nombre": "Gardevoir",
+      "typo": "Psychic Fairy",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/282_a1.png"
+    }
+  ],
+  "Whismur": [
+    {
+      "NoDex": "293",
+      "Nombre": "Whismur",
+      "typo": "Normal",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/293_a1.png"
+    }
+  ],
+  "Loudred": [
+    {
+      "NoDex": "294",
+      "Nombre": "Loudred",
+      "typo": "Normal",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/294_a1.png"
+    }
+  ],
+  "Exploud": [
+    {
+      "NoDex": "295",
+      "Nombre": "Exploud",
+      "typo": "Normal",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/295_a1.png"
+    }
+  ],
+  "Makuhita": [
+    {
+      "NoDex": "296",
+      "Nombre": "Makuhita",
+      "typo": "Fighting",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/296_a1.png"
+    }
+  ],
+  "Hariyama": [
+    {
+      "NoDex": "297",
+      "Nombre": "Hariyama",
+      "typo": "Fighting",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/297_a1.png"
+    }
+  ],
+  "Nosepass": [
+    {
+      "NoDex": "299",
+      "Nombre": "Nosepass",
+      "typo": "Rock",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/299_a1.png"
+    }
+  ],
+  "Sableye": [
+    {
+      "NoDex": "302",
+      "Nombre": "Sableye",
+      "typo": "Dark Ghost",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/302_a1.png"
+    }
+  ],
+  "Mawile": [
+    {
+      "NoDex": "303",
+      "Nombre": "Mawile",
+      "typo": "Steel Fairy",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/303_a1.png"
+    }
+  ],
+  "Aron": [
+    {
+      "NoDex": "304",
+      "Nombre": "Aron",
+      "typo": "Steel Rock",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/304_a1.png"
+    }
+  ],
+  "Lairon": [
+    {
+      "NoDex": "305",
+      "Nombre": "Lairon",
+      "typo": "Steel Rock",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/305_a1.png"
+    }
+  ],
+  "Aggron": [
+    {
+      "NoDex": "306",
+      "Nombre": "Aggron",
+      "typo": "Steel Rock",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/306_a1.png"
+    }
+  ],
+  "Electrike": [
+    {
+      "NoDex": "309",
+      "Nombre": "Electrike",
+      "typo": "Electric",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/309_a1.png"
+    }
+  ],
+  "Manectric": [
+    {
+      "NoDex": "310",
+      "Nombre": "Manectric",
+      "typo": "Electric",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/310_a1.png"
+    }
+  ],
+  "Carvanha": [
+    {
+      "NoDex": "318",
+      "Nombre": "Carvanha",
+      "typo": "Water Dark",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/318_a1.png"
+    }
+  ],
+  "Sharpedo": [
+    {
+      "NoDex": "319",
+      "Nombre": "Sharpedo",
+      "typo": "Water Dark",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/319_a1.png"
+    }
+  ],
+  "Wailmer": [
+    {
+      "NoDex": "320",
+      "Nombre": "Wailmer",
+      "typo": "Water",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/320_a1.png"
+    }
+  ],
+  "Wailord": [
+    {
+      "NoDex": "321",
+      "Nombre": "Wailord",
+      "typo": "Water",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/321_a1.png"
+    }
+  ],
+  "Numel": [
+    {
+      "NoDex": "322",
+      "Nombre": "Numel",
+      "typo": "Fire Ground",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/322_a1.png"
+    }
+  ],
+  "Camerupt": [
+    {
+      "NoDex": "323",
+      "Nombre": "Camerupt",
+      "typo": "Fire Ground",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/323_a1.png"
+    }
+  ],
+  "Spoink": [
+    {
+      "NoDex": "325",
+      "Nombre": "Spoink",
+      "typo": "Psychic",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/325_a1.png"
+    }
+  ],
+  "Grumpig": [
+    {
+      "NoDex": "326",
+      "Nombre": "Grumpig",
+      "typo": "Psychic",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/326_a1.png"
+    }
+  ],
+  "Trapinch": [
+    {
+      "NoDex": "328",
+      "Nombre": "Trapinch",
+      "typo": "Ground",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/328_a1.png"
+    }
+  ],
+  "Vibrava": [
+    {
+      "NoDex": "329",
+      "Nombre": "Vibrava",
+      "typo": "Ground Dragon",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/329_a1.png"
+    }
+  ],
+  "Flygon": [
+    {
+      "NoDex": "330",
+      "Nombre": "Flygon",
+      "typo": "Ground Dragon",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/330_a1.png"
+    }
+  ],
+  "Cacnea": [
+    {
+      "NoDex": "331",
+      "Nombre": "Cacnea",
+      "typo": "Grass",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/331_a1.png"
+    }
+  ],
+  "Cacturne": [
+    {
+      "NoDex": "332",
+      "Nombre": "Cacturne",
+      "typo": "Grass Dark",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/332_a1.png"
+    }
+  ],
+  "Barboach": [
+    {
+      "NoDex": "339",
+      "Nombre": "Barboach",
+      "typo": "Water Ground",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/339_a1.png"
+    }
+  ],
+  "Whiscash": [
+    {
+      "NoDex": "340",
+      "Nombre": "Whiscash",
+      "typo": "Water Ground",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/340_a1.png"
+    }
+  ],
+  "Lileep": [
+    {
+      "NoDex": "345",
+      "Nombre": "Lileep",
+      "typo": "Rock Grass",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/345_a1.png"
+    }
+  ],
+  "Cradily": [
+    {
+      "NoDex": "346",
+      "Nombre": "Cradily",
+      "typo": "Rock Grass",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/346_a1.png"
+    }
+  ],
+  "Anorith": [
+    {
+      "NoDex": "347",
+      "Nombre": "Anorith",
+      "typo": "Rock Bug",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/347_a1.png"
+    }
+  ],
+  "Armaldo": [
+    {
+      "NoDex": "348",
+      "Nombre": "Armaldo",
+      "typo": "Rock Bug",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/348_a1.png"
+    }
+  ],
+  "Shuppet": [
+    {
+      "NoDex": "353",
+      "Nombre": "Shuppet",
+      "typo": "Ghost",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/353_a1.png"
+    }
+  ],
+  "Banette": [
+    {
+      "NoDex": "354",
+      "Nombre": "Banette",
+      "typo": "Ghost",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/354_a1.png"
+    }
+  ],
+  "Duskull": [
+    {
+      "NoDex": "355",
+      "Nombre": "Duskull",
+      "typo": "Ghost",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/355_a1.png"
+    }
+  ],
+  "Dusclops": [
+    {
+      "NoDex": "356",
+      "Nombre": "Dusclops",
+      "typo": "Ghost",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/356_a1.png"
+    }
+  ],
+  "Absol": [
+    {
+      "NoDex": "359",
+      "Nombre": "Absol",
+      "typo": "Dark",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/359_a1.png"
+    }
+  ],
+  "Spheal": [
+    {
+      "NoDex": "363",
+      "Nombre": "Spheal",
+      "typo": "Ice Water",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/363_a1.png"
+    }
+  ],
+  "Sealeo": [
+    {
+      "NoDex": "364",
+      "Nombre": "Sealeo",
+      "typo": "Ice Water",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/364_a1.png"
+    }
+  ],
+  "Walrein": [
+    {
+      "NoDex": "365",
+      "Nombre": "Walrein",
+      "typo": "Ice Water",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/365_a1.png"
+    }
+  ],
+  "Bagon": [
+    {
+      "NoDex": "371",
+      "Nombre": "Bagon",
+      "typo": "Dragon",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/371_a1.png"
+    }
+  ],
+  "Shelgon": [
+    {
+      "NoDex": "372",
+      "Nombre": "Shelgon",
+      "typo": "Dragon",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/372_a1.png"
+    }
+  ],
+  "Salamence": [
+    {
+      "NoDex": "373",
+      "Nombre": "Salamence",
+      "typo": "Dragon Flying",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/373_a1.png"
+    }
+  ],
+  "Beldum": [
+    {
+      "NoDex": "374",
+      "Nombre": "Beldum",
+      "typo": "Steel Psychic",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/374_a1.png"
+    }
+  ],
+  "Metang": [
+    {
+      "NoDex": "375",
+      "Nombre": "Metang",
+      "typo": "Steel Psychic",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/375_a1.png"
+    }
+  ],
+  "Metagross": [
+    {
+      "NoDex": "376",
+      "Nombre": "Metagross",
+      "typo": "Steel Psychic",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/376_a1.png"
+    }
+  ],
+  "Regirock": [
+    {
+      "NoDex": "377",
+      "Nombre": "Regirock",
+      "typo": "Rock",
+      "polvo": "20,000",
+      "Caramelo": "20",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/377_a1.png"
+    }
+  ],
+  "Regice": [
+    {
+      "NoDex": "378",
+      "Nombre": "Regice",
+      "typo": "Ice",
+      "polvo": "20,000",
+      "Caramelo": "20",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/378_a1.png"
+    }
+  ],
+  "Registeel": [
+    {
+      "NoDex": "379",
+      "Nombre": "Registeel",
+      "typo": "Steel",
+      "polvo": "20,000",
+      "Caramelo": "20",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/379_a1.png"
+    }
+  ],
+  "Latias": [
+    {
+      "NoDex": "380",
+      "Nombre": "Latias",
+      "typo": "Dragon Psychic",
+      "polvo": "20,000",
+      "Caramelo": "20",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/380_a1.png"
+    }
+  ],
+  "Latios": [
+    {
+      "NoDex": "381",
+      "Nombre": "Latios",
+      "typo": "Dragon Psychic",
+      "polvo": "20,000",
+      "Caramelo": "20",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/381_a1.png"
+    }
+  ],
+  "Turtwig": [
+    {
+      "NoDex": "387",
+      "Nombre": "Turtwig",
+      "typo": "Grass",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/387_a1.png"
+    }
+  ],
+  "Grotle": [
+    {
+      "NoDex": "388",
+      "Nombre": "Grotle",
+      "typo": "Grass",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/388_a1.png"
+    }
+  ],
+  "Torterra": [
+    {
+      "NoDex": "389",
+      "Nombre": "Torterra",
+      "typo": "Grass Ground",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/389_a1.png"
+    }
+  ],
+  "Chimchar": [
+    {
+      "NoDex": "390",
+      "Nombre": "Chimchar",
+      "typo": "Fire",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/390_a1.png"
+    }
+  ],
+  "Monferno": [
+    {
+      "NoDex": "391",
+      "Nombre": "Monferno",
+      "typo": "Fire Fighting",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/391_a1.png"
+    }
+  ],
+  "Infernape": [
+    {
+      "NoDex": "392",
+      "Nombre": "Infernape",
+      "typo": "Fire Fighting",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/392_a1.png"
+    }
+  ],
+  "Starly": [
+    {
+      "NoDex": "396",
+      "Nombre": "Starly",
+      "typo": "Normal Flying",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/396_a1.png"
+    }
+  ],
+  "Staravia": [
+    {
+      "NoDex": "397",
+      "Nombre": "Staravia",
+      "typo": "Normal Flying",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/397_a1.png"
+    }
+  ],
+  "Staraptor": [
+    {
+      "NoDex": "398",
+      "Nombre": "Staraptor",
+      "typo": "Normal Flying",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/398_a1.png"
+    }
+  ],
+  "Bidoof": [
+    {
+      "NoDex": "399",
+      "Nombre": "Bidoof",
+      "typo": "Normal",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/399_a1.png"
+    }
+  ],
+  "Bibarel": [
+    {
+      "NoDex": "400",
+      "Nombre": "Bibarel",
+      "typo": "Normal Water",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/400_a1.png"
+    }
+  ],
+  "Shinx": [
+    {
+      "NoDex": "403",
+      "Nombre": "Shinx",
+      "typo": "Electric",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/403_a1.png"
+    }
+  ],
+  "Luxio": [
+    {
+      "NoDex": "404",
+      "Nombre": "Luxio",
+      "typo": "Electric",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/404_a1.png"
+    }
+  ],
+  "Luxray": [
+    {
+      "NoDex": "405",
+      "Nombre": "Luxray",
+      "typo": "Electric",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/405_a1.png"
+    }
+  ],
+  "Cranidos": [
+    {
+      "NoDex": "408",
+      "Nombre": "Cranidos",
+      "typo": "Rock",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/408_a1.png"
+    }
+  ],
+  "Rampardos": [
+    {
+      "NoDex": "409",
+      "Nombre": "Rampardos",
+      "typo": "Rock",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/409_a1.png"
+    }
+  ],
+  "Shieldon": [
+    {
+      "NoDex": "410",
+      "Nombre": "Shieldon",
+      "typo": "Rock Steel",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/410_a1.png"
+    }
+  ],
+  "Bastiodon": [
+    {
+      "NoDex": "411",
+      "Nombre": "Bastiodon",
+      "typo": "Rock Steel",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/411_a1.png"
+    }
+  ],
+  "Ambipom": [
+    {
+      "NoDex": "424",
+      "Nombre": "Ambipom",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/424_a1.png"
+    }
+  ],
+  "Drifloon": [
+    {
+      "NoDex": "425",
+      "Nombre": "Drifloon",
+      "typo": "Ghost Flying",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/425_a1.png"
+    }
+  ],
+  "Drifblim": [
+    {
+      "NoDex": "426",
+      "Nombre": "Drifblim",
+      "typo": "Ghost Flying",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/426_a1.png"
+    }
+  ],
+  "Mismagius": [
+    {
+      "NoDex": "429",
+      "Nombre": "Mismagius",
+      "typo": "Ghost",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/429_a1.png"
+    }
+  ],
+  "Honchkrow": [
+    {
+      "NoDex": "430",
+      "Nombre": "Honchkrow",
+      "typo": "Dark Flying",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/430_a1.png"
+    }
+  ],
+  "Glameow": [
+    {
+      "NoDex": "431",
+      "Nombre": "Glameow",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/431_a1.png"
+    }
+  ],
+  "Purugly": [
+    {
+      "NoDex": "432",
+      "Nombre": "Purugly",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/432_a1.png"
+    }
+  ],
+  "Stunky": [
+    {
+      "NoDex": "434",
+      "Nombre": "Stunky",
+      "typo": "Poison Dark",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/434_a1.png"
+    }
+  ],
+  "Skuntank": [
+    {
+      "NoDex": "435",
+      "Nombre": "Skuntank",
+      "typo": "Poison Dark",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/435_a1.png"
+    }
+  ],
+  "Gible": [
+    {
+      "NoDex": "443",
+      "Nombre": "Gible",
+      "typo": "Dragon Ground",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/443_a1.png"
+    }
+  ],
+  "Gabite": [
+    {
+      "NoDex": "444",
+      "Nombre": "Gabite",
+      "typo": "Dragon Ground",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/444_a1.png"
+    }
+  ],
+  "Garchomp": [
+    {
+      "NoDex": "445",
+      "Nombre": "Garchomp",
+      "typo": "Dragon Ground",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/445_a1.png"
+    }
+  ],
+  "Hippopotas": [
+    {
+      "NoDex": "449",
+      "Nombre": "Hippopotas",
+      "typo": "Ground",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/449_a1.png"
+    }
+  ],
+  "Hippowdon": [
+    {
+      "NoDex": "450",
+      "Nombre": "Hippowdon",
+      "typo": "Ground",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/450_a1.png"
+    }
+  ],
+  "Skorupi": [
+    {
+      "NoDex": "451",
+      "Nombre": "Skorupi",
+      "typo": "Poison Bug",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/451_a1.png"
+    }
+  ],
+  "Drapion": [
+    {
+      "NoDex": "452",
+      "Nombre": "Drapion",
+      "typo": "Poison Dark",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/452_a1.png"
+    }
+  ],
+  "Snover": [
+    {
+      "NoDex": "459",
+      "Nombre": "Snover",
+      "typo": "Grass Ice",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/459_a1.png"
+    }
+  ],
+  "Abomasnow": [
+    {
+      "NoDex": "460",
+      "Nombre": "Abomasnow",
+      "typo": "Grass Ice",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/460_a1.png"
+    }
+  ],
+  "Weavile": [
+    {
+      "NoDex": "461",
+      "Nombre": "Weavile",
+      "typo": "Dark Ice",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/461_a1.png"
+    }
+  ],
+  "Magnezone": [
+    {
+      "NoDex": "462",
+      "Nombre": "Magnezone",
+      "typo": "Electric Steel",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/462_a1.png"
+    }
+  ],
+  "Rhyperior": [
+    {
+      "NoDex": "464",
+      "Nombre": "Rhyperior",
+      "typo": "Ground Rock",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/464_a1.png"
+    }
+  ],
+  "Tangrowth": [
+    {
+      "NoDex": "465",
+      "Nombre": "Tangrowth",
+      "typo": "Grass",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/465_a1.png"
+    }
+  ],
+  "Electivire": [
+    {
+      "NoDex": "466",
+      "Nombre": "Electivire",
+      "typo": "Electric",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/466_a1.png"
+    }
+  ],
+  "Magmortar": [
+    {
+      "NoDex": "467",
+      "Nombre": "Magmortar",
+      "typo": "Fire",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/467_a1.png"
+    }
+  ],
+  "Gliscor": [
+    {
+      "NoDex": "472",
+      "Nombre": "Gliscor",
+      "typo": "Ground Flying",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/472_a1.png"
+    }
+  ],
+  "Mamoswine": [
+    {
+      "NoDex": "473",
+      "Nombre": "Mamoswine",
+      "typo": "Ice Ground",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/473_a1.png"
+    }
+  ],
+  "Porygon-Z": [
+    {
+      "NoDex": "474",
+      "Nombre": "Porygon-Z",
+      "typo": "Normal",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/474_a1.png"
+    }
+  ],
+  "Gallade": [
+    {
+      "NoDex": "475",
+      "Nombre": "Gallade",
+      "typo": "Psychic Fighting",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/475_a1.png"
+    }
+  ],
+  "Probopass": [
+    {
+      "NoDex": "476",
+      "Nombre": "Probopass",
+      "typo": "Rock Steel",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/476_a1.png"
+    }
+  ],
+  "Dusknoir": [
+    {
+      "NoDex": "477",
+      "Nombre": "Dusknoir",
+      "typo": "Ghost",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/477_a1.png"
+    }
+  ],
+  "Regigigas": [
+    {
+      "NoDex": "486",
+      "Nombre": "Regigigas",
+      "typo": "Normal",
+      "polvo": "20,000",
+      "Caramelo": "20",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/486_a1.png"
+    }
+  ],
+  "Patrat": [
+    {
+      "NoDex": "504",
+      "Nombre": "Patrat",
+      "typo": "Normal",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/504_a1.png"
+    }
+  ],
+  "Watchog": [
+    {
+      "NoDex": "505",
+      "Nombre": "Watchog",
+      "typo": "Normal",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/505_a1.png"
+    }
+  ],
+  "Purrloin": [
+    {
+      "NoDex": "509",
+      "Nombre": "Purrloin",
+      "typo": "Dark",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/509_a1.png"
+    }
+  ],
+  "Liepard": [
+    {
+      "NoDex": "510",
+      "Nombre": "Liepard",
+      "typo": "Dark",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/510_a1.png"
+    }
+  ],
+  "Pidove": [
+    {
+      "NoDex": "519",
+      "Nombre": "Pidove",
+      "typo": "Normal Flying",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/519_a1.png"
+    }
+  ],
+  "Tranquill": [
+    {
+      "NoDex": "520",
+      "Nombre": "Tranquill",
+      "typo": "Normal Flying",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/520_a1.png"
+    }
+  ],
+  "Unfezant": [
+    {
+      "NoDex": "521",
+      "Nombre": "Unfezant",
+      "typo": "Normal Flying",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/521_a1.png"
+    }
+  ],
+  "Blitzle": [
+    {
+      "NoDex": "522",
+      "Nombre": "Blitzle",
+      "typo": "Electric",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/522_a1.png"
+    }
+  ],
+  "Zebstrika": [
+    {
+      "NoDex": "523",
+      "Nombre": "Zebstrika",
+      "typo": "Electric",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/523_a1.png"
+    }
+  ],
+  "Drilbur": [
+    {
+      "NoDex": "529",
+      "Nombre": "Drilbur",
+      "typo": "Ground",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/529_a1.png"
+    }
+  ],
+  "Excadrill": [
+    {
+      "NoDex": "530",
+      "Nombre": "Excadrill",
+      "typo": "Ground Steel",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/530_a1.png"
+    }
+  ],
+  "Throh": [
+    {
+      "NoDex": "538",
+      "Nombre": "Throh",
+      "typo": "Fighting",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/538_a1.png"
+    }
+  ],
+  "Sawk": [
+    {
+      "NoDex": "539",
+      "Nombre": "Sawk",
+      "typo": "Fighting",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/539_a1.png"
+    }
+  ],
+  "Darumaka Galarian Darumaka": [
+    {
+      "NoDex": "554",
+      "Nombre": "Darumaka Galarian Darumaka",
+      "typo": "Ice",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/554_a1.png"
+    }
+  ],
+  "Yamask": [
+    {
+      "NoDex": "562",
+      "Nombre": "Yamask",
+      "typo": "Ghost",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/562_a1.png"
+    }
+  ],
+  "Yamask Galarian Yamask": [
+    {
+      "NoDex": "562",
+      "Nombre": "Yamask Galarian Yamask",
+      "typo": "Ground Ghost",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/562_a1.png"
+    }
+  ],
+  "Cofagrigus": [
+    {
+      "NoDex": "563",
+      "Nombre": "Cofagrigus",
+      "typo": "Ghost",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/563_a1.png"
+    }
+  ],
+  "Ducklett": [
+    {
+      "NoDex": "580",
+      "Nombre": "Ducklett",
+      "typo": "Water Flying",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/580_a1.png"
+    }
+  ],
+  "Swanna": [
+    {
+      "NoDex": "581",
+      "Nombre": "Swanna",
+      "typo": "Water Flying",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/581_a1.png"
+    }
+  ],
+  "Foongus": [
+    {
+      "NoDex": "590",
+      "Nombre": "Foongus",
+      "typo": "Grass Poison",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/590_a1.png"
+    }
+  ],
+  "Amoonguss": [
+    {
+      "NoDex": "591",
+      "Nombre": "Amoonguss",
+      "typo": "Grass Poison",
+      "polvo": "1,000",
+      "Caramelo": "1",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/591_a1.png"
+    }
+  ],
+  "Joltik": [
+    {
+      "NoDex": "595",
+      "Nombre": "Joltik",
+      "typo": "Bug Electric",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/595_a1.png"
+    }
+  ],
+  "Galvantula": [
+    {
+      "NoDex": "596",
+      "Nombre": "Galvantula",
+      "typo": "Bug Electric",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/596_a1.png"
+    }
+  ],
+  "Litwick": [
+    {
+      "NoDex": "607",
+      "Nombre": "Litwick",
+      "typo": "Ghost Fire",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/607_a1.png"
+    }
+  ],
+  "Lampent": [
+    {
+      "NoDex": "608",
+      "Nombre": "Lampent",
+      "typo": "Ghost Fire",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/608_a1.png"
+    }
+  ],
+  "Chandelure": [
+    {
+      "NoDex": "609",
+      "Nombre": "Chandelure",
+      "typo": "Ghost Fire",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/609_a1.png"
+    }
+  ],
+  "Stunfisk Galarian Stunfisk": [
+    {
+      "NoDex": "618",
+      "Nombre": "Stunfisk Galarian Stunfisk",
+      "typo": "Ground Steel",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/618_a1.png"
+    }
+  ],
+  "Golett": [
+    {
+      "NoDex": "622",
+      "Nombre": "Golett",
+      "typo": "Ground Ghost",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/622_a1.png"
+    }
+  ],
+  "Golurk": [
+    {
+      "NoDex": "623",
+      "Nombre": "Golurk",
+      "typo": "Ground Ghost",
+      "polvo": "5,000",
+      "Caramelo": "5",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/623_a1.png"
+    }
+  ],
+  "Zygarde 50% Forme": [
+    {
+      "NoDex": "718",
+      "Nombre": "Zygarde 50% Forme",
+      "typo": "Dragon Ground",
+      "polvo": "100",
+      "Caramelo": "100",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/718_a1.png"
+    }
+  ],
+  "Zygarde 10% Forme": [
+    {
+      "NoDex": "718",
+      "Nombre": "Zygarde 10% Forme",
+      "typo": "Dragon Ground",
+      "polvo": "100",
+      "Caramelo": "100",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/718_a1.png"
+    }
+  ],
+  "Zygarde Complete Forme": [
+    {
+      "NoDex": "718",
+      "Nombre": "Zygarde Complete Forme",
+      "typo": "Dragon Ground",
+      "polvo": "100",
+      "Caramelo": "100",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/718_a1.png"
+    }
+  ],
+  "Obstagoon": [
+    {
+      "NoDex": "862",
+      "Nombre": "Obstagoon",
+      "typo": "Dark Normal",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/862_a1.png"
+    }
+  ],
+  "Cursola": [
+    {
+      "NoDex": "864",
+      "Nombre": "Cursola",
+      "typo": "Ghost",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/864_a1.png"
+    }
+  ],
+  "Sirfetch'd": [
+    {
+      "NoDex": "865",
+      "Nombre": "Sirfetch'd",
+      "typo": "Fighting",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/865_a1.png"
+    }
+  ],
+  "Mr. Rime": [
+    {
+      "NoDex": "866",
+      "Nombre": "Mr. Rime",
+      "typo": "Ice Psychic",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/866_a1.png"
+    }
+  ],
+  "Runerigus": [
+    {
+      "NoDex": "867",
+      "Nombre": "Runerigus",
+      "typo": "Ground Ghost",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/867_a1.png"
+    }
+  ],
+  "Ursaluna": [
+    {
+      "NoDex": "901",
+      "Nombre": "Ursaluna",
+      "typo": "Ground Normal",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/901_a1.png"
+    }
+  ],
+  "Sneasler": [
+    {
+      "NoDex": "903",
+      "Nombre": "Sneasler",
+      "typo": "Fighting Poison",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/903_a1.png"
+    }
+  ],
+  "Clodsire": [
+    {
+      "NoDex": "980",
+      "Nombre": "Clodsire",
+      "typo": "Poison Ground",
+      "polvo": "3,000",
+      "Caramelo": "3",
+      "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/980_a1.png"
+    }
+  ]
+}
