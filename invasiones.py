@@ -39,9 +39,9 @@ if response.status_code == 200:
                 row_data = {
                     "Typo": data[0],
                     "texto": data[1],
-                    "Slot1": data[2],
-                    "Slot2": data[3],
-                    "Slot3": data[4],
+                    "Slot1": set(data[2].split('\n')),  # Convertir la cadena en un conjunto
+                    "Slot2": set(data[3].split('\n')),  # Convertir la cadena en un conjunto
+                    "Slot3": set(data[4].split('\n')),  # Convertir la cadena en un conjunto
                     "traduccion": ""  # Puedes inicializarlo con una cadena vacía
                 }
 
