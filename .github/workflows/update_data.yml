@@ -30,19 +30,29 @@ jobs:
 
         - name: Run Python Script
           run: python jefes.py
-    
+        
+        - name: Run Python Script
+          run: python data.py
+          
         - name: Move JSON File to Working Directory
           run: mv temp/invasiones.json ./
         
         - name: Move JSON File to Working Directory
           run: mv temp/jefes.json ./
+
+        - name: Move JSON File to Working Directory
+          run: mv temp/oscurosdata.json ./
          
         - name: Modify JSON File
           run: echo  >> invasiones.json
         
         - name: Modify JSON File
           run: echo  >> jefes.json
-    
+          
+
+        - name: Modify JSON File
+          run: echo  >> oscurosdata.json
+
         - name: Commit JSON Changes
           run: |
             git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -50,6 +60,7 @@ jobs:
             git switch --orphan data
             git add invasiones.json
             git add jefes.json
+            git add oscurosdata.json
             git commit -m "Datos actualizados 🤖🍺"
     
         - name: Remove Temp Folder
