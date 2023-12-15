@@ -19,10 +19,10 @@ response = requests.get(url)
 # Verificar si la solicitud fue exitosa (código de estado 200)
 if response.status_code == 200:
     # Analizar el contenido HTML de la página web
-    soup = BeautifulSoup(response.text, 'html.parser')
+    soup = BeautifulSoup(response.text, "html.parser")
 
     # Encontrar la tabla con la clase "data-table sticky-header"
-    table = soup.find('table', class_='data-table sticky-header')
+    table = soup.find("table", class_="data-table sticky-header")
 
     # Verificar si se encontró la tabla
     if table:
@@ -30,19 +30,34 @@ if response.status_code == 200:
         all_data_dict = {}
 
         # Iterar sobre las filas de la tabla
-        for row in table.find_all('tr'):
+        for row in table.find_all("tr"):
             # Obtener los datos de cada celda en la fila
-            cells = row.find_all('td')
+            cells = row.find_all("td")
             if cells:
                 data = [cell.text.strip() for cell in cells]
+                # Verificar si la palabra "Alolan" está presente en el nombre
+                is_alolan = "Alolan" in data[1]
+
+                # Construir la URL de la imagen con o sin "_f68" según la presencia de "Alolan"
+                img_suffix = "_f68" if is_alolan else ""
+                img_url = (
+                    "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/"
+                    + str(int(data[0]))
+                    + img_suffix
+                    + "_a1"
+                    + ".png"
+                )
+
                 # Crear un diccionario con los datos de la fila
                 row_data = {
-                    "NoDex": str(int(data[0])),  # Convierte a entero y luego a cadena para eliminar ceros
+                    "NoDex": str(
+                        int(data[0])
+                    ),  # Convierte a entero y luego a cadena para eliminar ceros
                     "Nombre": data[1],
                     "typo": data[2],
                     "polvo": data[3],
                     "Caramelo": data[4],
-                    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/" + str(int(data[0])) + "_a1" +".png"  # Añade la extensión .png al NoDex
+                    "img": img_url,  # Añade la extensión .png al NoDex
                 }
 
                 # Obtener o inicializar la lista para este tipo
