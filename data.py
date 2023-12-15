@@ -42,7 +42,7 @@ if response.status_code == 200:
                     "typo": data[2],
                     "polvo": data[3],
                     "Caramelo": data[4],
-                    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/" + str(int(data[0])) + "_a1" +".png"  # Añade la extensión .png al NoDex
+                    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/" + str(int(data[0])) + "_a1" +".png"  # Añade la extensión .png al NoDex
                 }
 
                 # Obtener o inicializar la lista para este tipo
