@@ -41,7 +41,7 @@ if response.status_code == 200:
                 # Construir la URL de la imagen con o sin "_f68" según la presencia de "Alolan"
                 img_suffix = "_f46" if is_alolan else ""
                 img_url = (
-                    "https://github.com/GaelVM/DBImages/blob/main/PokemonGo/Pokemon/Ico/"
+                    "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/"
                     + str(int(data[0]))
                     + img_suffix
                     + ".png"
