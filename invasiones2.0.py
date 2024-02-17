@@ -134,6 +134,8 @@ frase_list = [
 # Convertir la lista de tuplas en un diccionario
 frase = dict(frase_list)
 
+
+
 # Hacer la solicitud a la API
 url = "https://rocket.malte.im/api/characters?hours=24"
 response = requests.get(url)
@@ -156,6 +158,21 @@ if response.status_code == 200:
                 character["character"]["frase"] = frase[character_value]
         else:
             character["character"]["frase"] = "Frase no definida"
+        
+        # Verificar si el personaje tiene una clave 'team'
+        if "team" in character:
+            team_pokemon_values = [team_member["pokemon"]["value"] for team_member in character["team"]]
+            # Comprobar si el valor del pokemon en 'rewards' coincide con alguno en 'team'
+            for team_member in character["team"]:
+                if team_member["form"]["value"] == 0:
+                    team_member["img"] = team_member["pokemon"]["value"]
+                else:
+                    team_member["img"] = f"{team_member['pokemon']['value']}_f{team_member['form']['value']}"
+                team_member["capturable"] = "si" if any(reward["pokemon"]["value"] == team_member["pokemon"]["value"] for reward in character["rewards"]) else "no"
+        
+        # Eliminar la clave "rewards" si existe
+        if "rewards" in character:
+            del character["rewards"]
 
     # Crear un nuevo diccionario con la estructura deseada
     new_json = {
