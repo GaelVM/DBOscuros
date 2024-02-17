@@ -34,6 +34,9 @@ jobs:
         - name: Run Python Script
           run: python data.py
           
+        - name: Run Python Script
+          run: python invasiones2.0.py
+
         - name: Move JSON File to Working Directory
           run: mv temp/invasiones.json ./
         
@@ -42,6 +45,9 @@ jobs:
 
         - name: Move JSON File to Working Directory
           run: mv temp/oscurosdata.json ./
+        
+        - name: Move JSON File to Working Directory
+          run: mv temp/invasiones2.0.json ./
          
         - name: Modify JSON File
           run: echo  >> invasiones.json
@@ -49,9 +55,11 @@ jobs:
         - name: Modify JSON File
           run: echo  >> jefes.json
           
-
         - name: Modify JSON File
           run: echo  >> oscurosdata.json
+
+        - name: Modify JSON File
+          run: echo  >> invasiones2.0.json
 
         - name: Commit JSON Changes
           run: |
@@ -61,6 +69,7 @@ jobs:
             git add invasiones.json
             git add jefes.json
             git add oscurosdata.json
+            git add invasiones2.0.json
             git commit -m "Datos actualizados 🤖🍺"
     
         - name: Remove Temp Folder
