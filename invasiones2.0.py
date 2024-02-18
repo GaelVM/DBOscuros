@@ -135,7 +135,6 @@ frase_list = [
 frase = dict(frase_list)
 
 
-
 # Hacer la solicitud a la API
 url = "https://rocket.malte.im/api/characters?hours=24"
 response = requests.get(url)
@@ -169,6 +168,7 @@ if response.status_code == 200:
                 else:
                     team_member["img"] = f"{team_member['pokemon']['value']}_f{team_member['form']['value']}"
                 team_member["capturable"] = "si" if any(reward["pokemon"]["value"] == team_member["pokemon"]["value"] for reward in character["rewards"]) else "no"
+                team_member["shiny"] = "si" if any(reward["pokemon"]["value"] == team_member["pokemon"]["value"] and reward["shinies"] != 0 for reward in character["rewards"]) else "no"
         
         # Eliminar la clave "rewards" si existe
         if "rewards" in character:
