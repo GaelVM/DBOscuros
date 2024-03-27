@@ -131,9 +131,9 @@ frase_list = [
     ])
 ]
 
+
 # Convertir la lista de tuplas en un diccionario
 frase = dict(frase_list)
-
 
 # Hacer la solicitud a la API
 url = "https://rocket.malte.im/api/characters?hours=24"
@@ -142,34 +142,32 @@ response = requests.get(url)
 # Verificar si la solicitud fue exitosa (código de estado 200)
 if response.status_code == 200:
     data = response.json()  # Convertir la respuesta a JSON
-    # Recorrer la lista de personajes y agregar el tipo y la frase correspondiente
+    
+    # Recorrer la lista de personajes y realizar modificaciones necesarias
     for character in data["characters"]:
         character_value = character["character"]["value"]
-        if character_value in typo:
-            character["character"]["typo"] = typo[character_value]
-        else:
-            character["character"]["typo"] = "Desconocido"
         
-        if character_value in frase:
-            if isinstance(frase[character_value], list):
-                character["character"]["frase"] = "\n".join(frase[character_value])
+        # Modificar la lógica para ajustar la forma del Pokémon si contiene "_NORMAL"
+        for team_member in character["team"]:
+            if "_NORMAL" in team_member["form"]["name"]:
+                team_member["form"]["value"] = 0
+
+            # Generar la clave "img" según la forma del Pokémon
+            if team_member["form"]["value"] == 0:
+                team_member["img"] = team_member["pokemon"]["value"]
             else:
-                character["character"]["frase"] = frase[character_value]
-        else:
-            character["character"]["frase"] = "Frase no definida"
-        
-        # Verificar si el personaje tiene una clave 'team'
-        if "team" in character:
-            team_pokemon_values = [team_member["pokemon"]["value"] for team_member in character["team"]]
-            # Comprobar si el valor del pokemon en 'rewards' coincide con alguno en 'team'
-            for team_member in character["team"]:
-                if team_member["form"]["value"] == 0:
-                    team_member["img"] = team_member["pokemon"]["value"]
-                else:
-                    team_member["img"] = f"{team_member['pokemon']['value']}_f{team_member['form']['value']}"
-                team_member["capturable"] = "si" if any(reward["pokemon"]["value"] == team_member["pokemon"]["value"] for reward in character["rewards"]) else "no"
-                team_member["shiny"] = "si" if any(reward["pokemon"]["value"] == team_member["pokemon"]["value"] and reward["shinies"] != 0 for reward in character["rewards"]) else "no"
-        
+                team_member["img"] = f"{team_member['pokemon']['value']}_f{team_member['form']['value']}"
+            
+            # Resto del código para la generación de "capturable" y "shiny"...
+            team_member["capturable"] = "si" if any(reward["pokemon"]["value"] == team_member["pokemon"]["value"] for reward in character["rewards"]) else "no"
+            team_member["shiny"] = "si" if any(reward["pokemon"]["value"] == team_member["pokemon"]["value"] and reward["shinies"] != 0 for reward in character["rewards"]) else "no"
+
+        # Resto del código para la generación de "typo", "frase", eliminar "rewards"...
+        character["character"]["typo"] = typo.get(character_value, "Desconocido")
+        character["character"]["frase"] = frase.get(character_value, "Frase no definida")
+        if isinstance(character["character"]["frase"], list):
+            character["character"]["frase"] = "\n".join(character["character"]["frase"])
+
         # Eliminar la clave "rewards" si existe
         if "rewards" in character:
             del character["rewards"]
@@ -180,6 +178,8 @@ if response.status_code == 200:
         "since": data["since"],
         "characters": data["characters"]
     }
+    
+  
     # Guardar el nuevo JSON en un archivo en la carpeta temporal
     with open(json_file_path, "w") as json_file:
         json.dump(new_json, json_file, indent=4)
