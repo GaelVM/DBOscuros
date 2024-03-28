@@ -1,0 +1,3136 @@
+{
+    "total": 803197,
+    "since": 1711558800,
+    "characters": [
+        {
+            "character": {
+                "value": 4,
+                "name": "CHARACTER_GRUNT_MALE",
+                "typo": "Sin tipo",
+                "frase": "Ganar es para los ganadores.\nNo te molestes, ya he ganado.\n\u00a1Prep\u00e1rate para la derrota!"
+            },
+            "team": [
+                {
+                    "pokemon": {
+                        "value": 252,
+                        "name": "TREECKO"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 0,
+                    "total": 5055,
+                    "img": 252,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 255,
+                        "name": "TORCHIC"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "TORCHIC_NORMAL"
+                    },
+                    "slot": 0,
+                    "total": 4343,
+                    "img": 255,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 258,
+                        "name": "MUDKIP"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "MUDKIP_NORMAL"
+                    },
+                    "slot": 0,
+                    "total": 4785,
+                    "img": 258,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 253,
+                        "name": "GROVYLE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 4764,
+                    "img": 253,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 256,
+                        "name": "COMBUSKEN"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "COMBUSKEN_NORMAL"
+                    },
+                    "slot": 1,
+                    "total": 4615,
+                    "img": 256,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 259,
+                        "name": "MARSHTOMP"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "MARSHTOMP_NORMAL"
+                    },
+                    "slot": 1,
+                    "total": 4804,
+                    "img": 259,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 254,
+                        "name": "SCEPTILE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 4692,
+                    "img": 254,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 257,
+                        "name": "BLAZIKEN"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 5046,
+                    "img": 257,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 260,
+                        "name": "SWAMPERT"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 4445,
+                    "img": 260,
+                    "capturable": "no",
+                    "shiny": "no"
+                }
+            ]
+        },
+        {
+            "character": {
+                "value": 5,
+                "name": "CHARACTER_GRUNT_FEMALE",
+                "typo": "Sin tipo",
+                "frase": "Ganar es para los ganadores.\nNo te molestes, ya he ganado.\n\u00a1Prep\u00e1rate para la derrota!"
+            },
+            "team": [
+                {
+                    "pokemon": {
+                        "value": 143,
+                        "name": "SNORLAX"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 0,
+                    "total": 9681,
+                    "img": 143,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 62,
+                        "name": "POLIWRATH"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 4817,
+                    "img": 62,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 143,
+                        "name": "SNORLAX"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 2914,
+                    "img": 143,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 282,
+                        "name": "GARDEVOIR"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 1950,
+                    "img": 282,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 130,
+                        "name": "GYARADOS"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 3158,
+                    "img": 130,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 143,
+                        "name": "SNORLAX"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 3273,
+                    "img": 143,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 149,
+                        "name": "DRAGONITE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 3250,
+                    "img": 149,
+                    "capturable": "no",
+                    "shiny": "no"
+                }
+            ]
+        },
+        {
+            "character": {
+                "value": 7,
+                "name": "CHARACTER_BUG_GRUNT_MALE",
+                "typo": "Bicho",
+                "frase": "\u00a1Vamos, mi poderoso Pok\u00e9mon de tipo Bicho!"
+            },
+            "team": [
+                {
+                    "pokemon": {
+                        "value": 123,
+                        "name": "SCYTHER"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "SCYTHER_NORMAL"
+                    },
+                    "slot": 0,
+                    "total": 7569,
+                    "img": 123,
+                    "capturable": "si",
+                    "shiny": "si"
+                },
+                {
+                    "pokemon": {
+                        "value": 213,
+                        "name": "SHUCKLE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "SHUCKLE_NORMAL"
+                    },
+                    "slot": 0,
+                    "total": 15081,
+                    "img": 213,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 557,
+                        "name": "DWEBBLE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 0,
+                    "total": 15187,
+                    "img": 557,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 13,
+                        "name": "WEEDLE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 19573,
+                    "img": 13,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 213,
+                        "name": "SHUCKLE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "SHUCKLE_NORMAL"
+                    },
+                    "slot": 1,
+                    "total": 7165,
+                    "img": 213,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 451,
+                        "name": "SKORUPI"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "SKORUPI_NORMAL"
+                    },
+                    "slot": 1,
+                    "total": 11099,
+                    "img": 451,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 15,
+                        "name": "BEEDRILL"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 13484,
+                    "img": 15,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 205,
+                        "name": "FORRETRESS"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 11358,
+                    "img": 205,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 212,
+                        "name": "SCIZOR"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 12995,
+                    "img": 212,
+                    "capturable": "no",
+                    "shiny": "no"
+                }
+            ]
+        },
+        {
+            "character": {
+                "value": 10,
+                "name": "CHARACTER_DARK_GRUNT_FEMALE",
+                "typo": "Siniestro",
+                "frase": "Ya s\u00e9 que es una frase manida, pero... Donde quiera que hay luz, tambi\u00e9n hay sombras..."
+            },
+            "team": [
+                {
+                    "pokemon": {
+                        "value": 19,
+                        "name": "RATTATA"
+                    },
+                    "form": {
+                        "value": 46,
+                        "name": "RATTATA_ALOLA"
+                    },
+                    "slot": 0,
+                    "total": 15047,
+                    "img": "19_f46",
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 228,
+                        "name": "HOUNDOUR"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "HOUNDOUR_NORMAL"
+                    },
+                    "slot": 0,
+                    "total": 10956,
+                    "img": 228,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 434,
+                        "name": "STUNKY"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "STUNKY_NORMAL"
+                    },
+                    "slot": 0,
+                    "total": 11341,
+                    "img": 434,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 20,
+                        "name": "RATICATE"
+                    },
+                    "form": {
+                        "value": 48,
+                        "name": "RATICATE_ALOLA"
+                    },
+                    "slot": 1,
+                    "total": 18458,
+                    "img": "20_f48",
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 89,
+                        "name": "MUK"
+                    },
+                    "form": {
+                        "value": 76,
+                        "name": "MUK_ALOLA"
+                    },
+                    "slot": 1,
+                    "total": 18886,
+                    "img": "89_f76",
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 89,
+                        "name": "MUK"
+                    },
+                    "form": {
+                        "value": 76,
+                        "name": "MUK_ALOLA"
+                    },
+                    "slot": 2,
+                    "total": 18557,
+                    "img": "89_f76",
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 435,
+                        "name": "SKUNTANK"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "SKUNTANK_NORMAL"
+                    },
+                    "slot": 2,
+                    "total": 18787,
+                    "img": 435,
+                    "capturable": "no",
+                    "shiny": "no"
+                }
+            ]
+        },
+        {
+            "character": {
+                "value": 12,
+                "name": "CHARACTER_DRAGON_GRUNT_FEMALE",
+                "typo": "Drag\u00f3n",
+                "frase": "\u00a1GRRR! \u00bfQu\u00e9 te pareci\u00f3 eso?"
+            },
+            "team": [
+                {
+                    "pokemon": {
+                        "value": 147,
+                        "name": "DRATINI"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "DRATINI_NORMAL"
+                    },
+                    "slot": 0,
+                    "total": 4651,
+                    "img": 147,
+                    "capturable": "si",
+                    "shiny": "si"
+                },
+                {
+                    "pokemon": {
+                        "value": 371,
+                        "name": "BAGON"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "BAGON_NORMAL"
+                    },
+                    "slot": 0,
+                    "total": 571,
+                    "img": 371,
+                    "capturable": "si",
+                    "shiny": "si"
+                },
+                {
+                    "pokemon": {
+                        "value": 443,
+                        "name": "GIBLE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 0,
+                    "total": 4621,
+                    "img": 443,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 103,
+                        "name": "EXEGGUTOR"
+                    },
+                    "form": {
+                        "value": 78,
+                        "name": "EXEGGUTOR_ALOLA"
+                    },
+                    "slot": 1,
+                    "total": 3194,
+                    "img": "103_f78",
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 148,
+                        "name": "DRAGONAIR"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 3224,
+                    "img": 148,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 444,
+                        "name": "GABITE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "GABITE_NORMAL"
+                    },
+                    "slot": 1,
+                    "total": 3425,
+                    "img": 444,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 149,
+                        "name": "DRAGONITE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 5981,
+                    "img": 149,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 373,
+                        "name": "SALAMENCE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "SALAMENCE_NORMAL"
+                    },
+                    "slot": 2,
+                    "total": 2496,
+                    "img": 373,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 445,
+                        "name": "GARCHOMP"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "GARCHOMP_NORMAL"
+                    },
+                    "slot": 2,
+                    "total": 1366,
+                    "img": 445,
+                    "capturable": "no",
+                    "shiny": "no"
+                }
+            ]
+        },
+        {
+            "character": {
+                "value": 14,
+                "name": "CHARACTER_FAIRY_GRUNT_FEMALE",
+                "typo": "Hada",
+                "frase": "\u00a1Mira a mi Pok\u00e9mon tan mono!"
+            },
+            "team": [
+                {
+                    "pokemon": {
+                        "value": 37,
+                        "name": "VULPIX"
+                    },
+                    "form": {
+                        "value": 56,
+                        "name": "VULPIX_ALOLA"
+                    },
+                    "slot": 0,
+                    "total": 7390,
+                    "img": "37_f56",
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 280,
+                        "name": "RALTS"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 0,
+                    "total": 7751,
+                    "img": 280,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 303,
+                        "name": "MAWILE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 0,
+                    "total": 3853,
+                    "img": 303,
+                    "capturable": "si",
+                    "shiny": "si"
+                },
+                {
+                    "pokemon": {
+                        "value": 209,
+                        "name": "SNUBBULL"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 8312,
+                    "img": 209,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 210,
+                        "name": "GRANBULL"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 1878,
+                    "img": 210,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 281,
+                        "name": "KIRLIA"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 8804,
+                    "img": 281,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 38,
+                        "name": "NINETALES"
+                    },
+                    "form": {
+                        "value": 58,
+                        "name": "NINETALES_ALOLA"
+                    },
+                    "slot": 2,
+                    "total": 5605,
+                    "img": "38_f58",
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 210,
+                        "name": "GRANBULL"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 6459,
+                    "img": 210,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 282,
+                        "name": "GARDEVOIR"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "GARDEVOIR_NORMAL"
+                    },
+                    "slot": 2,
+                    "total": 6930,
+                    "img": 282,
+                    "capturable": "no",
+                    "shiny": "no"
+                }
+            ]
+        },
+        {
+            "character": {
+                "value": 16,
+                "name": "CHARACTER_FIGHTING_GRUNT_FEMALE",
+                "typo": "Lucha",
+                "frase": "Estos m\u00fasculos no son solo para impresionar."
+            },
+            "team": [
+                {
+                    "pokemon": {
+                        "value": 66,
+                        "name": "MACHOP"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "MACHOP_NORMAL"
+                    },
+                    "slot": 0,
+                    "total": 17315,
+                    "img": 66,
+                    "capturable": "si",
+                    "shiny": "si"
+                },
+                {
+                    "pokemon": {
+                        "value": 215,
+                        "name": "SNEASEL"
+                    },
+                    "form": {
+                        "value": 2794,
+                        "name": "SNEASEL_HISUIAN"
+                    },
+                    "slot": 0,
+                    "total": 8336,
+                    "img": "215_f2794",
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 296,
+                        "name": "MAKUHITA"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "MAKUHITA_NORMAL"
+                    },
+                    "slot": 0,
+                    "total": 16921,
+                    "img": 296,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 106,
+                        "name": "HITMONLEE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 13378,
+                    "img": 106,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 107,
+                        "name": "HITMONCHAN"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 12550,
+                    "img": 107,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 237,
+                        "name": "HITMONTOP"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 16644,
+                    "img": 237,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 68,
+                        "name": "MACHAMP"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "MACHAMP_NORMAL"
+                    },
+                    "slot": 2,
+                    "total": 16848,
+                    "img": 68,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 392,
+                        "name": "INFERNAPE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "INFERNAPE_NORMAL"
+                    },
+                    "slot": 2,
+                    "total": 17075,
+                    "img": 392,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 454,
+                        "name": "TOXICROAK"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 8649,
+                    "img": 454,
+                    "capturable": "no",
+                    "shiny": "no"
+                }
+            ]
+        },
+        {
+            "character": {
+                "value": 18,
+                "name": "CHARACTER_FIRE_GRUNT_FEMALE",
+                "typo": "Fuego",
+                "frase": "\u00bfSabes lo caliente que puede llegar a ser el aliento de fuego de los Pok\u00e9mon?"
+            },
+            "team": [
+                {
+                    "pokemon": {
+                        "value": 390,
+                        "name": "CHIMCHAR"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "CHIMCHAR_NORMAL"
+                    },
+                    "slot": 0,
+                    "total": 23841,
+                    "img": 390,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 554,
+                        "name": "DARUMAKA"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "DARUMAKA_NORMAL"
+                    },
+                    "slot": 0,
+                    "total": 24659,
+                    "img": 554,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 229,
+                        "name": "HOUNDOOM"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "HOUNDOOM_NORMAL"
+                    },
+                    "slot": 1,
+                    "total": 28780,
+                    "img": 229,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 391,
+                        "name": "MONFERNO"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "MONFERNO_NORMAL"
+                    },
+                    "slot": 1,
+                    "total": 19720,
+                    "img": 391,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 229,
+                        "name": "HOUNDOOM"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "HOUNDOOM_NORMAL"
+                    },
+                    "slot": 2,
+                    "total": 16778,
+                    "img": 229,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 392,
+                        "name": "INFERNAPE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "INFERNAPE_NORMAL"
+                    },
+                    "slot": 2,
+                    "total": 14541,
+                    "img": 392,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 555,
+                        "name": "DARMANITAN"
+                    },
+                    "form": {
+                        "value": 138,
+                        "name": "DARMANITAN_STANDARD"
+                    },
+                    "slot": 2,
+                    "total": 17181,
+                    "img": "555_f138",
+                    "capturable": "no",
+                    "shiny": "no"
+                }
+            ]
+        },
+        {
+            "character": {
+                "value": 20,
+                "name": "CHARACTER_FLYING_GRUNT_FEMALE",
+                "typo": "Volador",
+                "frase": "\u00a1Mis Pok\u00e9mon p\u00e1jaro quieren combatir contigo!"
+            },
+            "team": [
+                {
+                    "pokemon": {
+                        "value": 16,
+                        "name": "PIDGEY"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 0,
+                    "total": 28722,
+                    "img": 16,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 396,
+                        "name": "STARLY"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "STARLY_NORMAL"
+                    },
+                    "slot": 0,
+                    "total": 19293,
+                    "img": 396,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 207,
+                        "name": "GLIGAR"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "GLIGAR_NORMAL"
+                    },
+                    "slot": 1,
+                    "total": 23425,
+                    "img": 207,
+                    "capturable": "si",
+                    "shiny": "si"
+                },
+                {
+                    "pokemon": {
+                        "value": 397,
+                        "name": "STARAVIA"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 24590,
+                    "img": 397,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 18,
+                        "name": "PIDGEOT"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 14132,
+                    "img": 18,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 149,
+                        "name": "DRAGONITE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 24327,
+                    "img": 149,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 227,
+                        "name": "SKARMORY"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "SKARMORY_NORMAL"
+                    },
+                    "slot": 2,
+                    "total": 9556,
+                    "img": 227,
+                    "capturable": "no",
+                    "shiny": "no"
+                }
+            ]
+        },
+        {
+            "character": {
+                "value": 23,
+                "name": "CHARACTER_GRASS_GRUNT_MALE",
+                "typo": "Planta",
+                "frase": "\u00a1No nos vaciles!"
+            },
+            "team": [
+                {
+                    "pokemon": {
+                        "value": 387,
+                        "name": "TURTWIG"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "TURTWIG_NORMAL"
+                    },
+                    "slot": 0,
+                    "total": 21985,
+                    "img": 387,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 459,
+                        "name": "SNOVER"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "SNOVER_NORMAL"
+                    },
+                    "slot": 0,
+                    "total": 20611,
+                    "img": 459,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 388,
+                        "name": "GROTLE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "GROTLE_NORMAL"
+                    },
+                    "slot": 1,
+                    "total": 17220,
+                    "img": 388,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 598,
+                        "name": "FERROTHORN"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 25376,
+                    "img": 598,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 154,
+                        "name": "MEGANIUM"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "MEGANIUM_NORMAL"
+                    },
+                    "slot": 2,
+                    "total": 12529,
+                    "img": 154,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 332,
+                        "name": "CACTURNE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 15601,
+                    "img": 332,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 389,
+                        "name": "TORTERRA"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "TORTERRA_NORMAL"
+                    },
+                    "slot": 2,
+                    "total": 14466,
+                    "img": 389,
+                    "capturable": "no",
+                    "shiny": "no"
+                }
+            ]
+        },
+        {
+            "character": {
+                "value": 25,
+                "name": "CHARACTER_GROUND_GRUNT_MALE",
+                "typo": "Tierra",
+                "frase": "\u00a1Har\u00e9 que te comas el polvo!"
+            },
+            "team": [
+                {
+                    "pokemon": {
+                        "value": 50,
+                        "name": "DIGLETT"
+                    },
+                    "form": {
+                        "value": 60,
+                        "name": "DIGLETT_ALOLA"
+                    },
+                    "slot": 0,
+                    "total": 14308,
+                    "img": "50_f60",
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 194,
+                        "name": "WOOPER"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 0,
+                    "total": 19477,
+                    "img": 194,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 529,
+                        "name": "DRILBUR"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 0,
+                    "total": 14590,
+                    "img": 529,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 111,
+                        "name": "RHYHORN"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "RHYHORN_NORMAL"
+                    },
+                    "slot": 1,
+                    "total": 48375,
+                    "img": 111,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 195,
+                        "name": "QUAGSIRE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "QUAGSIRE_NORMAL"
+                    },
+                    "slot": 2,
+                    "total": 14093,
+                    "img": 195,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 340,
+                        "name": "WHISCASH"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 19871,
+                    "img": 340,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 389,
+                        "name": "TORTERRA"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "TORTERRA_NORMAL"
+                    },
+                    "slot": 2,
+                    "total": 14411,
+                    "img": 389,
+                    "capturable": "no",
+                    "shiny": "no"
+                }
+            ]
+        },
+        {
+            "character": {
+                "value": 26,
+                "name": "CHARACTER_ICE_GRUNT_FEMALE",
+                "typo": "Hielo",
+                "frase": "El fr\u00edo puede paralizarte, \u00bfno lo sabes?"
+            },
+            "team": [
+                {
+                    "pokemon": {
+                        "value": 220,
+                        "name": "SWINUB"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 0,
+                    "total": 23059,
+                    "img": 220,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 361,
+                        "name": "SNORUNT"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 0,
+                    "total": 15416,
+                    "img": 361,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 38,
+                        "name": "NINETALES"
+                    },
+                    "form": {
+                        "value": 58,
+                        "name": "NINETALES_ALOLA"
+                    },
+                    "slot": 1,
+                    "total": 12142,
+                    "img": "38_f58",
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 362,
+                        "name": "GLALIE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 12825,
+                    "img": 362,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 478,
+                        "name": "FROSLASS"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 13508,
+                    "img": 478,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 362,
+                        "name": "GLALIE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 13205,
+                    "img": 362,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 460,
+                        "name": "ABOMASNOW"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 13289,
+                    "img": 460,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 478,
+                        "name": "FROSLASS"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 11981,
+                    "img": 478,
+                    "capturable": "no",
+                    "shiny": "no"
+                }
+            ]
+        },
+        {
+            "character": {
+                "value": 29,
+                "name": "CHARACTER_METAL_GRUNT_MALE",
+                "typo": "Acero",
+                "frase": "\u00a1No eres rival para mi voluntad de hierro!"
+            },
+            "team": [
+                {
+                    "pokemon": {
+                        "value": 27,
+                        "name": "SANDSHREW"
+                    },
+                    "form": {
+                        "value": 52,
+                        "name": "SANDSHREW_ALOLA"
+                    },
+                    "slot": 0,
+                    "total": 8171,
+                    "img": "27_f52",
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 227,
+                        "name": "SKARMORY"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "SKARMORY_NORMAL"
+                    },
+                    "slot": 0,
+                    "total": 11624,
+                    "img": 227,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 597,
+                        "name": "FERROSEED"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 0,
+                    "total": 8496,
+                    "img": 597,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 227,
+                        "name": "SKARMORY"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "SKARMORY_NORMAL"
+                    },
+                    "slot": 1,
+                    "total": 15542,
+                    "img": 227,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 305,
+                        "name": "LAIRON"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 6540,
+                    "img": 305,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 375,
+                        "name": "METANG"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 6209,
+                    "img": 375,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 28,
+                        "name": "SANDSLASH"
+                    },
+                    "form": {
+                        "value": 54,
+                        "name": "SANDSLASH_ALOLA"
+                    },
+                    "slot": 2,
+                    "total": 9813,
+                    "img": "28_f54",
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 212,
+                        "name": "SCIZOR"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 9313,
+                    "img": 212,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 395,
+                        "name": "EMPOLEON"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 9165,
+                    "img": 395,
+                    "capturable": "no",
+                    "shiny": "no"
+                }
+            ]
+        },
+        {
+            "character": {
+                "value": 31,
+                "name": "CHARACTER_NORMAL_GRUNT_MALE",
+                "typo": "Normal",
+                "frase": "Normal no significa d\u00e9bil."
+            },
+            "team": [
+                {
+                    "pokemon": {
+                        "value": 216,
+                        "name": "TEDDIURSA"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "TEDDIURSA_NORMAL"
+                    },
+                    "slot": 0,
+                    "total": 14563,
+                    "img": 216,
+                    "capturable": "si",
+                    "shiny": "si"
+                },
+                {
+                    "pokemon": {
+                        "value": 234,
+                        "name": "STANTLER"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "STANTLER_NORMAL"
+                    },
+                    "slot": 0,
+                    "total": 14632,
+                    "img": 234,
+                    "capturable": "si",
+                    "shiny": "si"
+                },
+                {
+                    "pokemon": {
+                        "value": 431,
+                        "name": "GLAMEOW"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 0,
+                    "total": 18587,
+                    "img": 431,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 19,
+                        "name": "RATTATA"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 17029,
+                    "img": 19,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 52,
+                        "name": "MEOWTH"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "MEOWTH_NORMAL"
+                    },
+                    "slot": 1,
+                    "total": 16428,
+                    "img": 52,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 432,
+                        "name": "PURUGLY"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 14325,
+                    "img": 432,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 217,
+                        "name": "URSARING"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 19184,
+                    "img": 217,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 234,
+                        "name": "STANTLER"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "STANTLER_NORMAL"
+                    },
+                    "slot": 2,
+                    "total": 19538,
+                    "img": 234,
+                    "capturable": "si",
+                    "shiny": "si"
+                },
+                {
+                    "pokemon": {
+                        "value": 400,
+                        "name": "BIBAREL"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 9060,
+                    "img": 400,
+                    "capturable": "no",
+                    "shiny": "no"
+                }
+            ]
+        },
+        {
+            "character": {
+                "value": 32,
+                "name": "CHARACTER_POISON_GRUNT_FEMALE",
+                "typo": "Veneno",
+                "frase": "\u00a1En posici\u00f3n y listo para atacar!"
+            },
+            "team": [
+                {
+                    "pokemon": {
+                        "value": 215,
+                        "name": "SNEASEL"
+                    },
+                    "form": {
+                        "value": 2794,
+                        "name": "SNEASEL_HISUIAN"
+                    },
+                    "slot": 0,
+                    "total": 18234,
+                    "img": "215_f2794",
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 590,
+                        "name": "FOONGUS"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 0,
+                    "total": 18800,
+                    "img": 590,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 30,
+                        "name": "NIDORINA"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 18151,
+                    "img": 30,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 33,
+                        "name": "NIDORINO"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 18883,
+                    "img": 33,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 110,
+                        "name": "WEEZING"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 10895,
+                    "img": 110,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 454,
+                        "name": "TOXICROAK"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 14895,
+                    "img": 454,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 591,
+                        "name": "AMOONGUSS"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 11244,
+                    "img": 591,
+                    "capturable": "no",
+                    "shiny": "no"
+                }
+            ]
+        },
+        {
+            "character": {
+                "value": 35,
+                "name": "CHARACTER_PSYCHIC_GRUNT_MALE",
+                "typo": "Ps\u00edquico",
+                "frase": "\u00bfTe asustan los ps\u00edquicos que usan un poder invisible?"
+            },
+            "team": [
+                {
+                    "pokemon": {
+                        "value": 574,
+                        "name": "GOTHITA"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 0,
+                    "total": 23842,
+                    "img": 574,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 577,
+                        "name": "SOLOSIS"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 0,
+                    "total": 24250,
+                    "img": 577,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 202,
+                        "name": "WOBBUFFET"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "WOBBUFFET_NORMAL"
+                    },
+                    "slot": 1,
+                    "total": 14157,
+                    "img": 202,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 280,
+                        "name": "RALTS"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "RALTS_NORMAL"
+                    },
+                    "slot": 1,
+                    "total": 19497,
+                    "img": 280,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 575,
+                        "name": "GOTHORITA"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 14438,
+                    "img": 575,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 376,
+                        "name": "METAGROSS"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "METAGROSS_NORMAL"
+                    },
+                    "slot": 2,
+                    "total": 11923,
+                    "img": 376,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 475,
+                        "name": "GALLADE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "GALLADE_NORMAL"
+                    },
+                    "slot": 2,
+                    "total": 10808,
+                    "img": 475,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 579,
+                        "name": "REUNICLUS"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 25361,
+                    "img": 579,
+                    "capturable": "no",
+                    "shiny": "no"
+                }
+            ]
+        },
+        {
+            "character": {
+                "value": 37,
+                "name": "CHARACTER_ROCK_GRUNT_MALE",
+                "typo": "Roca",
+                "frase": "\u00a1Soy fuerte como una roca!"
+            },
+            "team": [
+                {
+                    "pokemon": {
+                        "value": 95,
+                        "name": "ONIX"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "ONIX_NORMAL"
+                    },
+                    "slot": 0,
+                    "total": 12236,
+                    "img": 95,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 408,
+                        "name": "CRANIDOS"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 0,
+                    "total": 12682,
+                    "img": 408,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 410,
+                        "name": "SHIELDON"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 0,
+                    "total": 13267,
+                    "img": 410,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 75,
+                        "name": "GRAVELER"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 11215,
+                    "img": 75,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 345,
+                        "name": "LILEEP"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 13358,
+                    "img": 345,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 347,
+                        "name": "ANORITH"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 13612,
+                    "img": 347,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 76,
+                        "name": "GOLEM"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 11331,
+                    "img": 76,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 409,
+                        "name": "RAMPARDOS"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 13479,
+                    "img": 409,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 411,
+                        "name": "BASTIODON"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 13375,
+                    "img": 411,
+                    "capturable": "no",
+                    "shiny": "no"
+                }
+            ]
+        },
+        {
+            "character": {
+                "value": 38,
+                "name": "CHARACTER_WATER_GRUNT_FEMALE",
+                "typo": "Agua",
+                "frase": "\u00a1Estas aguas son traicioneras!"
+            },
+            "team": [
+                {
+                    "pokemon": {
+                        "value": 158,
+                        "name": "TOTODILE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "TOTODILE_NORMAL"
+                    },
+                    "slot": 0,
+                    "total": 21836,
+                    "img": 158,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 393,
+                        "name": "PIPLUP"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 0,
+                    "total": 21517,
+                    "img": 393,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 342,
+                        "name": "CRAWDAUNT"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 26367,
+                    "img": 342,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 394,
+                        "name": "PRINPLUP"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 16986,
+                    "img": 394,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 321,
+                        "name": "WAILORD"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 14974,
+                    "img": 321,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 340,
+                        "name": "WHISCASH"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 15063,
+                    "img": 340,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 395,
+                        "name": "EMPOLEON"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 13316,
+                    "img": 395,
+                    "capturable": "no",
+                    "shiny": "no"
+                }
+            ]
+        },
+        {
+            "character": {
+                "value": 39,
+                "name": "CHARACTER_WATER_GRUNT_MALE",
+                "typo": "Agua",
+                "frase": "\u00a1Estas aguas son traicioneras!"
+            },
+            "team": [
+                {
+                    "pokemon": {
+                        "value": 129,
+                        "name": "MAGIKARP"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 0,
+                    "total": 4914,
+                    "img": 129,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 129,
+                        "name": "MAGIKARP"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 4914,
+                    "img": 129,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 129,
+                        "name": "MAGIKARP"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 4396,
+                    "img": 129,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 130,
+                        "name": "GYARADOS"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 518,
+                    "img": 130,
+                    "capturable": "no",
+                    "shiny": "no"
+                }
+            ]
+        },
+        {
+            "character": {
+                "value": 41,
+                "name": "CHARACTER_EXECUTIVE_CLIFF",
+                "typo": "Cliff",
+                "frase": "Mi fuerza proviene de mi lealtad al Team GO Rocket.\nHar\u00e9 cualquier cosa por el Team GO Rocket.\nLe debo la vida al jefe. Har\u00eda cualquier cosa por \u00e9l.\nEl Team GO Rocket me salv\u00f3. \u00a1Es hora de devolver el favor!\nA\u00f1ade mi nombre a tu lista de debilidades."
+            },
+            "team": [
+                {
+                    "pokemon": {
+                        "value": 66,
+                        "name": "MACHOP"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "MACHOP_NORMAL"
+                    },
+                    "slot": 0,
+                    "total": 23058,
+                    "img": 66,
+                    "capturable": "si",
+                    "shiny": "si"
+                },
+                {
+                    "pokemon": {
+                        "value": 142,
+                        "name": "AERODACTYL"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "AERODACTYL_NORMAL"
+                    },
+                    "slot": 1,
+                    "total": 8313,
+                    "img": 142,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 230,
+                        "name": "KINGDRA"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "KINGDRA_NORMAL"
+                    },
+                    "slot": 1,
+                    "total": 5897,
+                    "img": 230,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 475,
+                        "name": "GALLADE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 8848,
+                    "img": 475,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 169,
+                        "name": "CROBAT"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "CROBAT_NORMAL"
+                    },
+                    "slot": 2,
+                    "total": 1946,
+                    "img": 169,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 248,
+                        "name": "TYRANITAR"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 14847,
+                    "img": 248,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 346,
+                        "name": "CRADILY"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "CRADILY_NORMAL"
+                    },
+                    "slot": 2,
+                    "total": 6265,
+                    "img": 346,
+                    "capturable": "no",
+                    "shiny": "no"
+                }
+            ]
+        },
+        {
+            "character": {
+                "value": 42,
+                "name": "CHARACTER_EXECUTIVE_ARLO",
+                "typo": "Arlo",
+                "frase": "Es hora de que aprendas cu\u00e1l es tu lugar en el mundo.\nYo nunca pierdo.\nPrep\u00e1rate para un buen escarmiento.\nLa arrogancia conduce al fracaso.\nTu derrota viene volando."
+            },
+            "team": [
+                {
+                    "pokemon": {
+                        "value": 331,
+                        "name": "CACNEA"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "CACNEA_NORMAL"
+                    },
+                    "slot": 0,
+                    "total": 21522,
+                    "img": 331,
+                    "capturable": "si",
+                    "shiny": "si"
+                },
+                {
+                    "pokemon": {
+                        "value": 6,
+                        "name": "CHARIZARD"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "CHARIZARD_NORMAL"
+                    },
+                    "slot": 1,
+                    "total": 7621,
+                    "img": 6,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 97,
+                        "name": "HYPNO"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "HYPNO_NORMAL"
+                    },
+                    "slot": 1,
+                    "total": 7703,
+                    "img": 97,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 623,
+                        "name": "GOLURK"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 6198,
+                    "img": 623,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 149,
+                        "name": "DRAGONITE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 4411,
+                    "img": 149,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 212,
+                        "name": "SCIZOR"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 14673,
+                    "img": 212,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 373,
+                        "name": "SALAMENCE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "SALAMENCE_NORMAL"
+                    },
+                    "slot": 2,
+                    "total": 2438,
+                    "img": 373,
+                    "capturable": "no",
+                    "shiny": "no"
+                }
+            ]
+        },
+        {
+            "character": {
+                "value": 43,
+                "name": "CHARACTER_EXECUTIVE_SIERRA",
+                "typo": "Sierra",
+                "frase": "Te envidio, \u00a1tienes la oportunidad de combatir conmigo!\nEste ser\u00e1 un combate que estoy segura que nunca olvidar\u00e1s.\nYa lo sabes, pero no tienes ninguna posibilidad.\nNo puedes igualar mi destreza, amorcito.\n\u00a1Espero que te guste el sabor del fracaso!"
+            },
+            "team": [
+                {
+                    "pokemon": {
+                        "value": 328,
+                        "name": "TRAPINCH"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "TRAPINCH_NORMAL"
+                    },
+                    "slot": 0,
+                    "total": 20106,
+                    "img": 328,
+                    "capturable": "si",
+                    "shiny": "si"
+                },
+                {
+                    "pokemon": {
+                        "value": 302,
+                        "name": "SABLEYE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "SABLEYE_NORMAL"
+                    },
+                    "slot": 1,
+                    "total": 5318,
+                    "img": 302,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 350,
+                        "name": "MILOTIC"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 7832,
+                    "img": 350,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 430,
+                        "name": "HONCHKROW"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "HONCHKROW_NORMAL"
+                    },
+                    "slot": 1,
+                    "total": 6956,
+                    "img": 430,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 65,
+                        "name": "ALAKAZAM"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "ALAKAZAM_NORMAL"
+                    },
+                    "slot": 2,
+                    "total": 2048,
+                    "img": 65,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 71,
+                        "name": "VICTREEBEL"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "VICTREEBEL_NORMAL"
+                    },
+                    "slot": 2,
+                    "total": 5568,
+                    "img": 71,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 229,
+                        "name": "HOUNDOOM"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "HOUNDOOM_NORMAL"
+                    },
+                    "slot": 2,
+                    "total": 12490,
+                    "img": 229,
+                    "capturable": "no",
+                    "shiny": "no"
+                }
+            ]
+        },
+        {
+            "character": {
+                "value": 46,
+                "name": "CHARACTER_DECOY_GRUNT_FEMALE",
+                "typo": "Se\u00f1uelo",
+                "frase": "Te enga\u00f1\u00e9, papanatas.\nQu\u00e9, \u00bfpensabas que encontrar al jefe iba a ser tan f\u00e1cil?\n\u00a1No me puedo creer que hayas ca\u00eddo en la trampa!\n\u00a1Te voy a destruir en el nombre del jefe!\n\u00a1Nunca llegar\u00e1s hasta \u00e9l!\nMe gusta ver tu decepci\u00f3n.\nQuieres llegar hasta el jefe, \u00bfeh? \u00a1Tendr\u00e1s que derrotarme!\n\u00a1Har\u00e9 cualquier cosa para proteger al jefe!\n\u00a1Te han enga\u00f1ado, canalla!\n\u00a1Pi\u00e9rdete! Nunca lo encontrar\u00e1s."
+            },
+            "team": [
+                {
+                    "pokemon": {
+                        "value": 69,
+                        "name": "BELLSPROUT"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 0,
+                    "total": 19097,
+                    "img": 69,
+                    "capturable": "si",
+                    "shiny": "si"
+                },
+                {
+                    "pokemon": {
+                        "value": 20,
+                        "name": "RATICATE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 9814,
+                    "img": 20,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 70,
+                        "name": "WEEPINBELL"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 9283,
+                    "img": 70,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 20,
+                        "name": "RATICATE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 13953,
+                    "img": 20,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 143,
+                        "name": "SNORLAX"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 5144,
+                    "img": 143,
+                    "capturable": "no",
+                    "shiny": "no"
+                }
+            ]
+        },
+        {
+            "character": {
+                "value": 48,
+                "name": "CHARACTER_GHOST_GRUNT_MALE",
+                "typo": "Fantasma",
+                "frase": "Ja, ja, ja..."
+            },
+            "team": [
+                {
+                    "pokemon": {
+                        "value": 200,
+                        "name": "MISDREAVUS"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "MISDREAVUS_NORMAL"
+                    },
+                    "slot": 0,
+                    "total": 10974,
+                    "img": 200,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 425,
+                        "name": "DRIFLOON"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 0,
+                    "total": 15002,
+                    "img": 425,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 622,
+                        "name": "GOLETT"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 0,
+                    "total": 11821,
+                    "img": 622,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 354,
+                        "name": "BANETTE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 15160,
+                    "img": 354,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 356,
+                        "name": "DUSCLOPS"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 16673,
+                    "img": 356,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 622,
+                        "name": "GOLETT"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1,
+                    "total": 5964,
+                    "img": 622,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 94,
+                        "name": "GENGAR"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "GENGAR_NORMAL"
+                    },
+                    "slot": 2,
+                    "total": 15331,
+                    "img": 94,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 105,
+                        "name": "MAROWAK"
+                    },
+                    "form": {
+                        "value": 80,
+                        "name": "MAROWAK_ALOLA"
+                    },
+                    "slot": 2,
+                    "total": 3522,
+                    "img": "105_f80",
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 478,
+                        "name": "FROSLASS"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 18944,
+                    "img": 478,
+                    "capturable": "no",
+                    "shiny": "no"
+                }
+            ]
+        },
+        {
+            "character": {
+                "value": 49,
+                "name": "CHARACTER_ELECTRIC_GRUNT_FEMALE",
+                "typo": "El\u00e9ctrico",
+                "frase": "\u00a1Prep\u00e1rate para alucinar!"
+            },
+            "team": [
+                {
+                    "pokemon": {
+                        "value": 179,
+                        "name": "MAREEP"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 0,
+                    "total": 15014,
+                    "img": 179,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 522,
+                        "name": "BLITZLE"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 0,
+                    "total": 7981,
+                    "img": 522,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 595,
+                        "name": "JOLTIK"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 0,
+                    "total": 14556,
+                    "img": 595,
+                    "capturable": "si",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 74,
+                        "name": "GEODUDE"
+                    },
+                    "form": {
+                        "value": 68,
+                        "name": "GEODUDE_ALOLA"
+                    },
+                    "slot": 1,
+                    "total": 11190,
+                    "img": "74_f68",
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 100,
+                        "name": "VOLTORB"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "VOLTORB_NORMAL"
+                    },
+                    "slot": 1,
+                    "total": 14842,
+                    "img": 100,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 125,
+                        "name": "ELECTABUZZ"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "ELECTABUZZ_NORMAL"
+                    },
+                    "slot": 1,
+                    "total": 11519,
+                    "img": 125,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 181,
+                        "name": "AMPHAROS"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 10969,
+                    "img": 181,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 405,
+                        "name": "LUXRAY"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 13251,
+                    "img": 405,
+                    "capturable": "no",
+                    "shiny": "no"
+                },
+                {
+                    "pokemon": {
+                        "value": 596,
+                        "name": "GALVANTULA"
+                    },
+                    "form": {
+                        "value": 0,
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2,
+                    "total": 13331,
+                    "img": 596,
+                    "capturable": "no",
+                    "shiny": "no"
+                }
+            ]
+        }
+    ]
+}
