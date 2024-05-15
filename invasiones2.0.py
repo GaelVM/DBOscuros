@@ -136,7 +136,7 @@ frase_list = [
 frase = dict(frase_list)
 
 # Hacer la solicitud a la API
-url = "https://rocket.malte.im/api/characters?hours=24"
+url = "https://rocket.malte.im/api/characters?hours=720"
 response = requests.get(url)
 
 # Verificar si la solicitud fue exitosa (código de estado 200)
