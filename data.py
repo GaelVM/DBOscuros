@@ -33,7 +33,7 @@ if response.status_code == 200:
             columns = row.find_all('td')
             
             if len(columns) == 6:
-                type_imgs = columns[3].find_all("img")
+                
                 
                 # Obtener el valor de Stats y traducir si es necesario
                 stats_value = columns[5].text.strip()
