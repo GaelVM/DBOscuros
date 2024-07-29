@@ -1,0 +1,2018 @@
+[
+  {
+    "No.": "#0001",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/001.png",
+    "Name": "Bulbasaur",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0002",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/002.png",
+    "Name": "Ivysaur",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0003",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/003.png",
+    "Name": "Venusaur",
+    "Stats": "Al evolucionar  Ivysaur"
+  },
+  {
+    "No.": "#0004",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/004.png",
+    "Name": "Charmander",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0005",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/005.png",
+    "Name": "Charmeleon",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0006",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/006.png",
+    "Name": "Charizard",
+    "Stats": "Al evolucionar  Charmeleon"
+  },
+  {
+    "No.": "#0007",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/007.png",
+    "Name": "Squirtle",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0008",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/008.png",
+    "Name": "Wartortle",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0009",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/009.png",
+    "Name": "Blastoise",
+    "Stats": "Al evolucionar  Wartortle"
+  },
+  {
+    "No.": "#0013",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/013.png",
+    "Name": "Weedle",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0014",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/014.png",
+    "Name": "Kakuna",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0015",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/015.png",
+    "Name": "Beedrill",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0016",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/016.png",
+    "Name": "Pidgey",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0017",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/017.png",
+    "Name": "Pidgeotto",
+    "Stats": "Al evolucionar  Pidgey"
+  },
+  {
+    "No.": "#0018",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/018.png",
+    "Name": "Pidgeot",
+    "Stats": "Al evolucionar  Pidgeotto"
+  },
+  {
+    "No.": "#0019",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/019.png",
+    "Name": "Rattata",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0020",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/020.png",
+    "Name": "Raticate",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0023",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/023.png",
+    "Name": "Ekans",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0024",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/024.png",
+    "Name": "Arbok",
+    "Stats": "Al evolucionar  Ekans"
+  },
+  {
+    "No.": "#0027",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/027.png",
+    "Name": "Sandshrew",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0028",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/028.png",
+    "Name": "Sandslash",
+    "Stats": "Al evolucionar  Sandshrew"
+  },
+  {
+    "No.": "#0029",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/029.png",
+    "Name": "Nidoran♀",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0030",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/030.png",
+    "Name": "Nidorina",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0031",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/031.png",
+    "Name": "Nidoqueen",
+    "Stats": "Al evolucionar  Nidorina"
+  },
+  {
+    "No.": "#0032",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/032.png",
+    "Name": "Nidoran♂",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0033",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/033.png",
+    "Name": "Nidorino",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0034",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/034.png",
+    "Name": "Nidoking",
+    "Stats": "Al evolucionar  Nidorino"
+  },
+  {
+    "No.": "#0037",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/037.png",
+    "Name": "Vulpix",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0038",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/038.png",
+    "Name": "Ninetales",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0041",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/041.png",
+    "Name": "Zubat",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0042",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/042.png",
+    "Name": "Golbat",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0043",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/043.png",
+    "Name": "Oddish",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0044",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/044.png",
+    "Name": "Gloom",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0045",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/045.png",
+    "Name": "Vileplume",
+    "Stats": "Al evolucionar  Gloom"
+  },
+  {
+    "No.": "#0048",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/048.png",
+    "Name": "Venonat",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0049",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/049.png",
+    "Name": "Venomoth",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0050",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/050.png",
+    "Name": "Diglett",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0051",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/051.png",
+    "Name": "Dugtrio",
+    "Stats": "Evolución"
+  },
+  {
+    "No.": "#0052",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/052.png",
+    "Name": "Meowth",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0053",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/053.png",
+    "Name": "Persian",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0054",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/054.png",
+    "Name": "Psyduck",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0055",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/055.png",
+    "Name": "Golduck",
+    "Stats": "Al evolucionar  Psyduck"
+  },
+  {
+    "No.": "#0058",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/058.png",
+    "Name": "Growlithe",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0059",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/059.png",
+    "Name": "Arcanine",
+    "Stats": "Al evolucionar  Growlithe"
+  },
+  {
+    "No.": "#0060",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/060.png",
+    "Name": "Poliwag",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0061",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/061.png",
+    "Name": "Poliwhirl",
+    "Stats": "Al evolucionar  Poliwag"
+  },
+  {
+    "No.": "#0062",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/062.png",
+    "Name": "Poliwrath",
+    "Stats": "Al evolucionar  Poliwhirl"
+  },
+  {
+    "No.": "#0063",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/063.png",
+    "Name": "Abra",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0064",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/064.png",
+    "Name": "Kadabra",
+    "Stats": "Al evolucionar  Abra"
+  },
+  {
+    "No.": "#0065",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/065.png",
+    "Name": "Alakazam",
+    "Stats": "Al evolucionar  Kadabra"
+  },
+  {
+    "No.": "#0066",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/066.png",
+    "Name": "Machop",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0067",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/067.png",
+    "Name": "Machoke",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0068",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/068.png",
+    "Name": "Machamp",
+    "Stats": "Al evolucionar  Machoke"
+  },
+  {
+    "No.": "#0069",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/069.png",
+    "Name": "Bellsprout",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0070",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/070.png",
+    "Name": "Weepinbell",
+    "Stats": "Al evolucionar  Bellsprout"
+  },
+  {
+    "No.": "#0071",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/071.png",
+    "Name": "Victreebel",
+    "Stats": "Al evolucionar  Weepinbell"
+  },
+  {
+    "No.": "#0072",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/072.png",
+    "Name": "Tentacool",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0073",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/073.png",
+    "Name": "Tentacruel",
+    "Stats": "Al evolucionar  Tentacool"
+  },
+  {
+    "No.": "#0074",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/074.png",
+    "Name": "Geodude",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0075",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/075.png",
+    "Name": "Graveler",
+    "Stats": "Al evolucionar  Geodude"
+  },
+  {
+    "No.": "#0076",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/076.png",
+    "Name": "Golem",
+    "Stats": "Al evolucionar  Graveler"
+  },
+  {
+    "No.": "#0079",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/079.png",
+    "Name": "Slowpoke",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0080",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/080.png",
+    "Name": "Slowbro",
+    "Stats": "Evolución"
+  },
+  {
+    "No.": "#0081",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/081.png",
+    "Name": "Magnemite",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0082",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/082.png",
+    "Name": "Magneton",
+    "Stats": "Al evolucionar  Magnemite"
+  },
+  {
+    "No.": "#0088",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/088.png",
+    "Name": "Grimer",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0089",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/089.png",
+    "Name": "Muk",
+    "Stats": "Al evolucionar  Grimer"
+  },
+  {
+    "No.": "#0090",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/090.png",
+    "Name": "Shellder",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0091",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/091.png",
+    "Name": "Cloyster",
+    "Stats": "Evolución"
+  },
+  {
+    "No.": "#0092",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/092.png",
+    "Name": "Gastly",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0093",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/093.png",
+    "Name": "Haunter",
+    "Stats": "Al evolucionar  Gastly"
+  },
+  {
+    "No.": "#0094",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/094.png",
+    "Name": "Gengar",
+    "Stats": "Al evolucionar  Haunter"
+  },
+  {
+    "No.": "#0095",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/095.png",
+    "Name": "Onix",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0096",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/096.png",
+    "Name": "Drowzee",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0097",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/097.png",
+    "Name": "Hypno",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0100",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/100.png",
+    "Name": "Voltorb",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0101",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/101.png",
+    "Name": "Electrode",
+    "Stats": "Al evolucionar  Voltorb"
+  },
+  {
+    "No.": "#0102",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/102.png",
+    "Name": "Exeggcute",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0103",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/103.png",
+    "Name": "Exeggutor",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0104",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/104.png",
+    "Name": "Cubone",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0105",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/105.png",
+    "Name": "Marowak",
+    "Stats": "Al evolucionar  Cubone"
+  },
+  {
+    "No.": "#0106",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/106.png",
+    "Name": "Hitmonlee",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0107",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/107.png",
+    "Name": "Hitmonchan",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0109",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/109.png",
+    "Name": "Koffing",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0110",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/110.png",
+    "Name": "Weezing",
+    "Stats": "Al evolucionar  Koffing"
+  },
+  {
+    "No.": "#0111",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/111.png",
+    "Name": "Rhyhorn",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0112",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/112.png",
+    "Name": "Rhydon",
+    "Stats": "Al evolucionar  Rhyhorn"
+  },
+  {
+    "No.": "#0114",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/114.png",
+    "Name": "Tangela",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0116",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/116.png",
+    "Name": "Horsea",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0117",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/117.png",
+    "Name": "Seadra",
+    "Stats": "Al evolucionar  Horsea"
+  },
+  {
+    "No.": "#0123",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/123.png",
+    "Name": "Scyther",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0125",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/125.png",
+    "Name": "Electabuzz",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0126",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/126.png",
+    "Name": "Magmar",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0127",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/127.png",
+    "Name": "Pinsir",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0129",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/129.png",
+    "Name": "Magikarp",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0130",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/130.png",
+    "Name": "Gyarados",
+    "Stats": "Al evolucionar  Magikarp"
+  },
+  {
+    "No.": "#0131",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/131.png",
+    "Name": "Lapras",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0137",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/137.png",
+    "Name": "Porygon",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0138",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/138.png",
+    "Name": "Omanyte",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0139",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/139.png",
+    "Name": "Omastar",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0142",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/142.png",
+    "Name": "Aerodactyl",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0143",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/143.png",
+    "Name": "Snorlax",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0144",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/144.png",
+    "Name": "Articuno",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0145",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/145.png",
+    "Name": "Zapdos",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0146",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/146.png",
+    "Name": "Moltres",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0147",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/147.png",
+    "Name": "Dratini",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0148",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/148.png",
+    "Name": "Dragonair",
+    "Stats": "Al evolucionar  Dratini"
+  },
+  {
+    "No.": "#0149",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/149.png",
+    "Name": "Dragonite",
+    "Stats": "Al evolucionar  Dragonair"
+  },
+  {
+    "No.": "#0150",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/150.png",
+    "Name": "Mewtwo",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0152",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/152.png",
+    "Name": "Chikorita",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0153",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/153.png",
+    "Name": "Bayleef",
+    "Stats": "Al evolucionar  Chikorita"
+  },
+  {
+    "No.": "#0154",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/154.png",
+    "Name": "Meganium",
+    "Stats": "Al evolucionar  Bayleef"
+  },
+  {
+    "No.": "#0155",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/155.png",
+    "Name": "Cyndaquil",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0156",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/156.png",
+    "Name": "Quilava",
+    "Stats": "Al evolucionar  Cyndaquil"
+  },
+  {
+    "No.": "#0157",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/157.png",
+    "Name": "Typhlosion",
+    "Stats": "Al evolucionar  Quilava"
+  },
+  {
+    "No.": "#0158",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/158.png",
+    "Name": "Totodile",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0159",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/159.png",
+    "Name": "Croconaw",
+    "Stats": "Al evolucionar  Totodile"
+  },
+  {
+    "No.": "#0160",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/160.png",
+    "Name": "Feraligatr",
+    "Stats": "Al evolucionar  Croconaw"
+  },
+  {
+    "No.": "#0165",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/165.png",
+    "Name": "Ledyba",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0166",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/166.png",
+    "Name": "Ledian",
+    "Stats": "Al evolucionar  Ledyba"
+  },
+  {
+    "No.": "#0169",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/169.png",
+    "Name": "Crobat",
+    "Stats": "Al evolucionar  Golbat"
+  },
+  {
+    "No.": "#0177",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/177.png",
+    "Name": "Natu",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0178",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/178.png",
+    "Name": "Xatu",
+    "Stats": "Al evolucionar  Natu"
+  },
+  {
+    "No.": "#0179",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/179.png",
+    "Name": "Mareep",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0180",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/180.png",
+    "Name": "Flaaffy",
+    "Stats": "Al evolucionar  Mareep"
+  },
+  {
+    "No.": "#0181",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/181.png",
+    "Name": "Ampharos",
+    "Stats": "Al evolucionar  Flaaffy"
+  },
+  {
+    "No.": "#0182",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/182.png",
+    "Name": "Bellossom",
+    "Stats": "Al evolucionar  Gloom"
+  },
+  {
+    "No.": "#0185",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/185.png",
+    "Name": "Sudowoodo",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0186",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/186.png",
+    "Name": "Politoed",
+    "Stats": "Al evolucionar  Poliwhirl"
+  },
+  {
+    "No.": "#0187",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/187.png",
+    "Name": "Hoppip",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0188",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/188.png",
+    "Name": "Skiploom",
+    "Stats": "Evolución"
+  },
+  {
+    "No.": "#0189",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/189.png",
+    "Name": "Jumpluff",
+    "Stats": "Evolución"
+  },
+  {
+    "No.": "#0190",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/190.png",
+    "Name": "Aipom",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0194",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/194.png",
+    "Name": "Wooper",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0195",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/195.png",
+    "Name": "Quagsire",
+    "Stats": "Al evolucionar  Wooper"
+  },
+  {
+    "No.": "#0198",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/198.png",
+    "Name": "Murkrow",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0199",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/199.png",
+    "Name": "Slowking",
+    "Stats": "Evolución"
+  },
+  {
+    "No.": "#0200",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/200.png",
+    "Name": "Misdreavus",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0202",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/202.png",
+    "Name": "Wobbuffet",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0203",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/203.png",
+    "Name": "Girafarig",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0204",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/204.png",
+    "Name": "Pineco",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0205",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/205.png",
+    "Name": "Forretress",
+    "Stats": "Al evolucionar  Pineco"
+  },
+  {
+    "No.": "#0207",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/207.png",
+    "Name": "Gligar",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0208",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/208.png",
+    "Name": "Steelix",
+    "Stats": "Al evolucionar  Onix"
+  },
+  {
+    "No.": "#0209",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/209.png",
+    "Name": "Snubbull",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0210",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/210.png",
+    "Name": "Granbull",
+    "Stats": "Al evolucionar  Snubbull"
+  },
+  {
+    "No.": "#0212",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/212.png",
+    "Name": "Scizor",
+    "Stats": "Al evolucionar  Scyther"
+  },
+  {
+    "No.": "#0213",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/213.png",
+    "Name": "Shuckle",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0215",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/215.png",
+    "Name": "Sneasel",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0216",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/216.png",
+    "Name": "Teddiursa",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0217",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/217.png",
+    "Name": "Ursaring",
+    "Stats": "Al evolucionar  Teddiursa"
+  },
+  {
+    "No.": "#0220",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/220.png",
+    "Name": "Swinub",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0221",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/221.png",
+    "Name": "Piloswine",
+    "Stats": "Evolve Swinub"
+  },
+  {
+    "No.": "#0225",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/225.png",
+    "Name": "Delibird",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0227",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/227.png",
+    "Name": "Skarmory",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0228",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/228.png",
+    "Name": "Houndour",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0229",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/229.png",
+    "Name": "Houndoom",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0230",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/230.png",
+    "Name": "Kingdra",
+    "Stats": "Al evolucionar  Seadra"
+  },
+  {
+    "No.": "#0231",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/231.png",
+    "Name": "Phanpy",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0232",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/232.png",
+    "Name": "Donphan",
+    "Stats": "Al evolucionar  Phanpy"
+  },
+  {
+    "No.": "#0233",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/233.png",
+    "Name": "Porygon2",
+    "Stats": "Al evolucionar  Porygon"
+  },
+  {
+    "No.": "#0234",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/234.png",
+    "Name": "Stantler",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0237",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/237.png",
+    "Name": "Hitmontop",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0243",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/243.png",
+    "Name": "Raikou",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0244",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/244.png",
+    "Name": "Entei",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0245",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/245.png",
+    "Name": "Suicune",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0246",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/246.png",
+    "Name": "Larvitar",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0247",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/247.png",
+    "Name": "Pupitar",
+    "Stats": "Al evolucionar  Larvitar"
+  },
+  {
+    "No.": "#0248",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/248.png",
+    "Name": "Tyranitar",
+    "Stats": "Al evolucionar  Pupitar"
+  },
+  {
+    "No.": "#0249",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/249.png",
+    "Name": "Lugia",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0250",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/250.png",
+    "Name": "Ho-Oh",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0252",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/252.png",
+    "Name": "Treecko",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0253",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/253.png",
+    "Name": "Grovyle",
+    "Stats": "Al evolucionar  Treecko"
+  },
+  {
+    "No.": "#0254",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/254.png",
+    "Name": "Sceptile",
+    "Stats": "Al evolucionar  Grovyle"
+  },
+  {
+    "No.": "#0255",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/255.png",
+    "Name": "Torchic",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0256",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/256.png",
+    "Name": "Combusken",
+    "Stats": "Al evolucionar  Torchic"
+  },
+  {
+    "No.": "#0257",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/257.png",
+    "Name": "Blaziken",
+    "Stats": "Al evolucionar  Combusken"
+  },
+  {
+    "No.": "#0258",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/258.png",
+    "Name": "Mudkip",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0259",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/259.png",
+    "Name": "Marshtomp",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0260",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/260.png",
+    "Name": "Swampert",
+    "Stats": "Al evolucionar  Marshtomp"
+  },
+  {
+    "No.": "#0261",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/261.png",
+    "Name": "Poochyena",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0262",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/262.png",
+    "Name": "Mightyena",
+    "Stats": "Al evolucionar  Poochyena"
+  },
+  {
+    "No.": "#0273",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/273.png",
+    "Name": "Seedot",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0274",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/274.png",
+    "Name": "Nuzleaf",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0275",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/275.png",
+    "Name": "Shiftry",
+    "Stats": "Al evolucionar  Nuzleaf"
+  },
+  {
+    "No.": "#0280",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/280.png",
+    "Name": "Ralts",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0281",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/281.png",
+    "Name": "Kirlia",
+    "Stats": "Al evolucionar  Ralts"
+  },
+  {
+    "No.": "#0282",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/282.png",
+    "Name": "Gardevoir",
+    "Stats": "Al evolucionar  Kirlia"
+  },
+  {
+    "No.": "#0293",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/293.png",
+    "Name": "Whismur",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0294",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/294.png",
+    "Name": "Loudred",
+    "Stats": "Al evolucionar  Whismur"
+  },
+  {
+    "No.": "#0295",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/295.png",
+    "Name": "Exploud",
+    "Stats": "Al evolucionar  Loudred"
+  },
+  {
+    "No.": "#0296",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/296.png",
+    "Name": "Makuhita",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0297",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/297.png",
+    "Name": "Hariyama",
+    "Stats": "Al evolucionar  Makuhita"
+  },
+  {
+    "No.": "#0299",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/299.png",
+    "Name": "Nosepass",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0302",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/302.png",
+    "Name": "Sableye",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0303",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/303.png",
+    "Name": "Mawile",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0304",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/304.png",
+    "Name": "Aron",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0305",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/305.png",
+    "Name": "Lairon",
+    "Stats": "Evolve Aron"
+  },
+  {
+    "No.": "#0306",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/306.png",
+    "Name": "Aggron",
+    "Stats": "Evolve Lairon"
+  },
+  {
+    "No.": "#0309",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/309.png",
+    "Name": "Electrike",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0310",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/310.png",
+    "Name": "Manectric",
+    "Stats": "Al evolucionar  Electrike"
+  },
+  {
+    "No.": "#0318",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/318.png",
+    "Name": "Carvanha",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0319",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/319.png",
+    "Name": "Sharpedo",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0320",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/320.png",
+    "Name": "Wailmer",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0321",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/321.png",
+    "Name": "Wailord",
+    "Stats": "Al evolucionar  Wailmer"
+  },
+  {
+    "No.": "#0322",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/322.png",
+    "Name": "Numel",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0323",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/323.png",
+    "Name": "Camerupt",
+    "Stats": "Al evolucionar  Numel"
+  },
+  {
+    "No.": "#0325",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/325.png",
+    "Name": "Spoink",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0326",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/326.png",
+    "Name": "Grumpig",
+    "Stats": "Al evolucionar  Spoink"
+  },
+  {
+    "No.": "#0328",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/328.png",
+    "Name": "Trapinch",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0329",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/329.png",
+    "Name": "Vibrava",
+    "Stats": "Al evolucionar  Trapinch"
+  },
+  {
+    "No.": "#0330",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/330.png",
+    "Name": "Flygon",
+    "Stats": "Al evolucionar  Vibrava"
+  },
+  {
+    "No.": "#0331",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/331.png",
+    "Name": "Cacnea",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0332",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/332.png",
+    "Name": "Cacturne",
+    "Stats": "Al evolucionar  Cacnea"
+  },
+  {
+    "No.": "#0339",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/339.png",
+    "Name": "Barboach",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0340",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/340.png",
+    "Name": "Whiscash",
+    "Stats": "Al evolucionar  Barboach"
+  },
+  {
+    "No.": "#0341",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/341.png",
+    "Name": "Corphish",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0342",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/342.png",
+    "Name": "Crawdaunt",
+    "Stats": "Al evolucionar  Corphish"
+  },
+  {
+    "No.": "#0345",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/345.png",
+    "Name": "Lileep",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0346",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/346.png",
+    "Name": "Cradily",
+    "Stats": "Al evolucionar  Lileep"
+  },
+  {
+    "No.": "#0347",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/347.png",
+    "Name": "Anorith",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0348",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/348.png",
+    "Name": "Armaldo",
+    "Stats": "Al evolucionar  Anorith"
+  },
+  {
+    "No.": "#0353",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/353.png",
+    "Name": "Shuppet",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0354",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/354.png",
+    "Name": "Banette",
+    "Stats": "Al evolucionar  Shuppet"
+  },
+  {
+    "No.": "#0355",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/355.png",
+    "Name": "Duskull",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0356",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/356.png",
+    "Name": "Dusclops",
+    "Stats": "Al evolucionar  Duskull"
+  },
+  {
+    "No.": "#0359",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/359.png",
+    "Name": "Absol",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0361",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/361.png",
+    "Name": "Snorunt",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0362",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/362.png",
+    "Name": "Glalie",
+    "Stats": "Al evolucionar  Snorunt"
+  },
+  {
+    "No.": "#0363",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/363.png",
+    "Name": "Spheal",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0364",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/364.png",
+    "Name": "Sealeo",
+    "Stats": "Al evolucionar  Spheal"
+  },
+  {
+    "No.": "#0365",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/365.png",
+    "Name": "Walrein",
+    "Stats": "Al evolucionar  Sealeo"
+  },
+  {
+    "No.": "#0371",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/371.png",
+    "Name": "Bagon",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0372",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/372.png",
+    "Name": "Shelgon",
+    "Stats": "Al evolucionar  Bagon"
+  },
+  {
+    "No.": "#0373",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/373.png",
+    "Name": "Salamence",
+    "Stats": "Al evolucionar  Shelgon"
+  },
+  {
+    "No.": "#0374",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/374.png",
+    "Name": "Beldum",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0375",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/375.png",
+    "Name": "Metang",
+    "Stats": "Al evolucionar  Beldum"
+  },
+  {
+    "No.": "#0376",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/376.png",
+    "Name": "Metagross",
+    "Stats": "Al evolucionar  Metang"
+  },
+  {
+    "No.": "#0377",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/377.png",
+    "Name": "Regirock",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0378",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/378.png",
+    "Name": "Regice",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0379",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/379.png",
+    "Name": "Registeel",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0380",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/380.png",
+    "Name": "Latias",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0381",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/381.png",
+    "Name": "Latios",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0382",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/382.png",
+    "Name": "Kyogre",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0383",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/383.png",
+    "Name": "Groudon",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0387",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/387.png",
+    "Name": "Turtwig",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0388",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/388.png",
+    "Name": "Grotle",
+    "Stats": "Al evolucionar  Turtwig"
+  },
+  {
+    "No.": "#0389",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/389.png",
+    "Name": "Torterra",
+    "Stats": "Al evolucionar  Grotle"
+  },
+  {
+    "No.": "#0390",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/390.png",
+    "Name": "Chimchar",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0391",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/391.png",
+    "Name": "Monferno",
+    "Stats": "Al evolucionar  Chimchar"
+  },
+  {
+    "No.": "#0392",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/392.png",
+    "Name": "Infernape",
+    "Stats": "Al evolucionar  Monferno"
+  },
+  {
+    "No.": "#0393",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/393.png",
+    "Name": "Piplup",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0394",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/394.png",
+    "Name": "Prinplup",
+    "Stats": "Al evolucionar  Piplup"
+  },
+  {
+    "No.": "#0395",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/395.png",
+    "Name": "Empoleon",
+    "Stats": "Al evolucionar  Prinplup"
+  },
+  {
+    "No.": "#0396",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/396.png",
+    "Name": "Starly",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0397",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/397.png",
+    "Name": "Staravia",
+    "Stats": "Al evolucionar  Starly"
+  },
+  {
+    "No.": "#0398",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/398.png",
+    "Name": "Staraptor",
+    "Stats": "Al evolucionar  Staravia"
+  },
+  {
+    "No.": "#0399",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/399.png",
+    "Name": "Bidoof",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0400",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/400.png",
+    "Name": "Bibarel",
+    "Stats": "Al evolucionar  Bidoof"
+  },
+  {
+    "No.": "#0403",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/403.png",
+    "Name": "Shinx",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0404",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/404.png",
+    "Name": "Luxio",
+    "Stats": "Al evolucionar  Shinx"
+  },
+  {
+    "No.": "#0405",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/405.png",
+    "Name": "Luxray",
+    "Stats": "Al evolucionar  Luxio"
+  },
+  {
+    "No.": "#0408",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/408.png",
+    "Name": "Cranidos",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0409",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/409.png",
+    "Name": "Rampardos",
+    "Stats": "Al evolucionar  Cranidos"
+  },
+  {
+    "No.": "#0410",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/410.png",
+    "Name": "Shieldon",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0411",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/411.png",
+    "Name": "Bastiodon",
+    "Stats": "Al evolucionar  Shieldon"
+  },
+  {
+    "No.": "#0424",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/424.png",
+    "Name": "Ambipom",
+    "Stats": "Al evolucionar  Aipom"
+  },
+  {
+    "No.": "#0425",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/425.png",
+    "Name": "Drifloon",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0426",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/426.png",
+    "Name": "Drifblim",
+    "Stats": "Al evolucionar  Drifloon"
+  },
+  {
+    "No.": "#0429",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/429.png",
+    "Name": "Mismagius",
+    "Stats": "Al evolucionar  Misdreavus"
+  },
+  {
+    "No.": "#0430",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/430.png",
+    "Name": "Honchkrow",
+    "Stats": "Al evolucionar  Murkrow"
+  },
+  {
+    "No.": "#0431",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/431.png",
+    "Name": "Glameow",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0432",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/432.png",
+    "Name": "Purugly",
+    "Stats": "Al evolucionar  Glameow"
+  },
+  {
+    "No.": "#0434",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/434.png",
+    "Name": "Stunky",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0435",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/435.png",
+    "Name": "Skuntank",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0443",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/443.png",
+    "Name": "Gible",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0444",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/444.png",
+    "Name": "Gabite",
+    "Stats": "Al evolucionar  Gible"
+  },
+  {
+    "No.": "#0445",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/445.png",
+    "Name": "Garchomp",
+    "Stats": "Al evolucionar  Gabite"
+  },
+  {
+    "No.": "#0449",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/449.png",
+    "Name": "Hippopotas",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0450",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/450.png",
+    "Name": "Hippowdon",
+    "Stats": "Al evolucionar  Hippopotas"
+  },
+  {
+    "No.": "#0451",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/451.png",
+    "Name": "Skorupi",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0452",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/452.png",
+    "Name": "Drapion",
+    "Stats": "Al evolucionar  Skorupi"
+  },
+  {
+    "No.": "#0453",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/453.png",
+    "Name": "Croagunk",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0454",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/454.png",
+    "Name": "Toxicroak",
+    "Stats": "Al evolucionar  Croagunk"
+  },
+  {
+    "No.": "#0459",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/459.png",
+    "Name": "Snover",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0460",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/460.png",
+    "Name": "Abomasnow",
+    "Stats": "Al evolucionar  Snover"
+  },
+  {
+    "No.": "#0461",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/461.png",
+    "Name": "Weavile",
+    "Stats": "Al evolucionar  Sneasel"
+  },
+  {
+    "No.": "#0462",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/462.png",
+    "Name": "Magnezone",
+    "Stats": "Al evolucionar  Magneton"
+  },
+  {
+    "No.": "#0464",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/464.png",
+    "Name": "Rhyperior",
+    "Stats": "Al evolucionar  Rhydon"
+  },
+  {
+    "No.": "#0465",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/465.png",
+    "Name": "Tangrowth",
+    "Stats": "Al evolucionar  Tangela"
+  },
+  {
+    "No.": "#0466",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/466.png",
+    "Name": "Electivire",
+    "Stats": "Al evolucionar  Electabuzz"
+  },
+  {
+    "No.": "#0467",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/467.png",
+    "Name": "Magmortar",
+    "Stats": "Al evolucionar  Magmar"
+  },
+  {
+    "No.": "#0472",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/472.png",
+    "Name": "Gliscor",
+    "Stats": "Al evolucionar  Gligar"
+  },
+  {
+    "No.": "#0473",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/473.png",
+    "Name": "Mamoswine",
+    "Stats": "Evolve Piloswine"
+  },
+  {
+    "No.": "#0474",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/474.png",
+    "Name": "Porygon-Z",
+    "Stats": "Al evolucionar  Porygon2"
+  },
+  {
+    "No.": "#0475",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/475.png",
+    "Name": "Gallade",
+    "Stats": "Al evolucionar  Kirlia"
+  },
+  {
+    "No.": "#0476",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/476.png",
+    "Name": "Probopass",
+    "Stats": "Al evolucionar  Nosepass"
+  },
+  {
+    "No.": "#0477",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/477.png",
+    "Name": "Dusknoir",
+    "Stats": "Al evolucionar  Dusclops"
+  },
+  {
+    "No.": "#0478",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/478.png",
+    "Name": "Froslass",
+    "Stats": "Al evolucionar  Snorunt"
+  },
+  {
+    "No.": "#0486",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/486.png",
+    "Name": "Regigigas",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0504",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/504.png",
+    "Name": "Patrat",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0505",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/505.png",
+    "Name": "Watchog",
+    "Stats": "Evolución"
+  },
+  {
+    "No.": "#0509",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/509.png",
+    "Name": "Purrloin",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0510",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/510.png",
+    "Name": "Liepard",
+    "Stats": "Al evolucionar  Purrloin"
+  },
+  {
+    "No.": "#0519",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/519.png",
+    "Name": "Pidove",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0520",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/520.png",
+    "Name": "Tranquill",
+    "Stats": "Al evolucionar  Pidove"
+  },
+  {
+    "No.": "#0521",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/521.png",
+    "Name": "Unfezant",
+    "Stats": "Al evolucionar  Tranquil"
+  },
+  {
+    "No.": "#0522",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/522.png",
+    "Name": "Blitzle",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0523",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/523.png",
+    "Name": "Zebstrika",
+    "Stats": "Al evolucionar  Blitzle"
+  },
+  {
+    "No.": "#0529",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/529.png",
+    "Name": "Drilbur",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0530",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/530.png",
+    "Name": "Excadrill",
+    "Stats": "Al evolucionar  Drilbur"
+  },
+  {
+    "No.": "#0538",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/538.png",
+    "Name": "Throh",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0539",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/539.png",
+    "Name": "Sawk",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0554",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/554.png",
+    "Name": "Darumaka",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0555",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/555.png",
+    "Name": "Darmanitan",
+    "Stats": "Al evolucionar  Darumaka"
+  },
+  {
+    "No.": "#0557",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/557.png",
+    "Name": "Dwebble",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0558",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/558.png",
+    "Name": "Crustle",
+    "Stats": "Al evolucionar  Dwebble"
+  },
+  {
+    "No.": "#0574",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/574.png",
+    "Name": "Gothita",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0575",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/575.png",
+    "Name": "Gothorita",
+    "Stats": "Al evolucionar  Gothita"
+  },
+  {
+    "No.": "#0576",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/576.png",
+    "Name": "Gothitelle",
+    "Stats": "Al evolucionar  Gothorita"
+  },
+  {
+    "No.": "#0577",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/577.png",
+    "Name": "Solosis",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0578",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/578.png",
+    "Name": "Duosion",
+    "Stats": "Al evolucionar  Solosis"
+  },
+  {
+    "No.": "#0579",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/579.png",
+    "Name": "Reuniclus",
+    "Stats": "Al evolucionar  Duosion"
+  },
+  {
+    "No.": "#0580",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/580.png",
+    "Name": "Ducklett",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0581",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/581.png",
+    "Name": "Swanna",
+    "Stats": "Evolución"
+  },
+  {
+    "No.": "#0590",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/590.png",
+    "Name": "Foongus",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0591",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/591.png",
+    "Name": "Amoonguss",
+    "Stats": "Evolución"
+  },
+  {
+    "No.": "#0595",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/595.png",
+    "Name": "Joltik",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0596",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/596.png",
+    "Name": "Galvantula",
+    "Stats": "Al evolucionar  Ferroseed"
+  },
+  {
+    "No.": "#0607",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/607.png",
+    "Name": "Litwick",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0608",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/608.png",
+    "Name": "Lampent",
+    "Stats": "Al evolucionar  Litwick"
+  },
+  {
+    "No.": "#0609",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/609.png",
+    "Name": "Chandelure",
+    "Stats": "Al evolucionar  Lampent"
+  },
+  {
+    "No.": "#0622",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/622.png",
+    "Name": "Golett",
+    "Stats": "Disponible cuando se encuentra"
+  },
+  {
+    "No.": "#0623",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/623.png",
+    "Name": "Golurk",
+    "Stats": "Al evolucionar  Golett"
+  },
+  {
+    "No.": "#0901",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/901.png",
+    "Name": "Ursaluna",
+    "Stats": "Al evolucionar  Ursaring"
+  },
+  {
+    "No.": "#0903",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/903.png",
+    "Name": "Sneasler",
+    "Stats": "Al evolucionar  Hisuian Sneasel"
+  }
+]

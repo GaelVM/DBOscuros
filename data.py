@@ -10,72 +10,60 @@ temp_folder = "temp"
 if not os.path.exists(temp_folder):
     os.makedirs(temp_folder)
 
-# URL de la página web
-url = "https://pokemondb.net/go/shadow#shadow-grunts"
-
-# Realizar la solicitud HTTP
+url = "https://www.serebii.net/pokemongo/shadowpokemon.shtml"
 response = requests.get(url)
 
-# Verificar si la solicitud fue exitosa (código de estado 200)
+# Diccionario de traducción
+translation_dict = {
+    "Available when encountered": "Disponible cuando se encuentra",
+    "Evolve Shadow": "Al evolucionar ",
+    "Evolution": "Evolución"
+}
+
 if response.status_code == 200:
-    # Analizar el contenido HTML de la página web
-    soup = BeautifulSoup(response.text, "html.parser")
+    soup = BeautifulSoup(response.text, 'html.parser')
+    tables = soup.find_all('table', class_='tab')  # Buscar todas las tablas con la clase 'tab'
+    
+    if len(tables) > 1:
+        table = tables[1]  # Seleccionar la segunda tabla
 
-    # Encontrar la tabla con la clase "data-table sticky-header"
-    table = soup.find("table", class_="data-table sticky-header")
+        data = []
 
-    # Verificar si se encontró la tabla
-    if table:
-        # Diccionario para almacenar los datos de la tabla
-        all_data_dict = {}
+        for row in table.find_all('tr')[1:]:  # Ignorar la primera fila que contiene los encabezados
+            columns = row.find_all('td')
+            
+            if len(columns) == 6:
+                type_imgs = columns[3].find_all("img")
+                
+                # Obtener el valor de Stats y traducir si es necesario
+                stats_value = columns[5].text.strip()
+                translated_stats = stats_value
 
-        # Iterar sobre las filas de la tabla
-        for row in table.find_all("tr"):
-            # Obtener los datos de cada celda en la fila
-            cells = row.find_all("td")
-            if cells:
-                data = [cell.text.strip() for cell in cells]
-                # Verificar si la palabra "Alolan" está presente en el nombre
-                is_alolan = "Alolan" in data[1]
+                for key in translation_dict:
+                    if key in stats_value:
+                        translated_stats = stats_value.replace(key, translation_dict[key])
+                        break
 
-                # Construir la URL de la imagen con o sin "_f68" según la presencia de "Alolan"
-                img_suffix = "_al" if is_alolan else ""
-                img_url = (
-                    "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/"
-                    + str(int(data[0]))
-                    + img_suffix
-                    + ".png"
-                )
-
-                # Crear un diccionario con los datos de la fila
-                row_data = {
-                    "NoDex": str(
-                        int(data[0])
-                    ),  # Convierte a entero y luego a cadena para eliminar ceros
-                    "Nombre": data[1],
-                    "typo": data[2],
-                    "polvo": data[3],
-                    "Caramelo": data[4],
-                    "img": img_url,  # Añade la extensión .png al NoDex
+                entry = {
+                    "No.": columns[0].text.strip(),
+                    "Pic": "https://www.serebii.net" + columns[1].find('img')['src'].strip() if columns[1].find('img') else "",
+                    "Name": columns[3].find('a').text.strip(),
+                    "Stats": translated_stats
                 }
-
-                # Obtener o inicializar la lista para este tipo
-                type_list = all_data_dict.get(data[1], [])
-                type_list.append(row_data)
-                # Actualizar el diccionario con la lista actualizada
-                all_data_dict[data[1]] = type_list
+                data.append(entry)
+            else:
+                print(f"Advertencia: Fila incompleta con {len(columns)} columnas, se omite.")
 
         # Define la ruta completa del archivo JSON en la carpeta temporal
         json_file_path = os.path.join(temp_folder, "oscurosdata.json")
 
         # Guardar el diccionario en un archivo JSON en la carpeta temporal
         with open(json_file_path, "w", encoding="utf-8") as json_file:
-            json.dump(all_data_dict, json_file, ensure_ascii=False, indent=2)
+            json.dump(data, json_file, ensure_ascii=False, indent=2)
 
         print(f"Datos guardados en {json_file_path}")
-
     else:
-        print("No se encontró la tabla en la página.")
+        print("No se encontró la segunda tabla.")
 
 else:
     print(f"Error al obtener la página. Código de estado: {response.status_code}")
