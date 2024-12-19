@@ -1,0 +1,983 @@
+{
+  "Normal": [
+    {
+      "Typo": "Normal",
+      "texto": "Normal does not mean weak.",
+      "Slot1": [
+        {
+          "nombre": "Stantler",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/234.png"
+        },
+        {
+          "nombre": "Bidoof",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/399.png"
+        },
+        {
+          "nombre": "Glameow",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/431.png"
+        }
+      ],
+      "Slot2": [
+        {
+          "nombre": "Rattata",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/19.png"
+        },
+        {
+          "nombre": "Meowth",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/52.png"
+        },
+        {
+          "nombre": "Purugly",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/432.png"
+        }
+      ],
+      "Slot3": [
+        {
+          "nombre": "Ursaring",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/217.png"
+        },
+        {
+          "nombre": "Stantler",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/234.png"
+        },
+        {
+          "nombre": "Exploud",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/295.png"
+        }
+      ],
+      "traduccion": "Normal no significa débil."
+    }
+  ],
+  "Fire": [
+    {
+      "Typo": "Fire",
+      "texto": "Do you know how hot Pokémon fire breath can get?",
+      "Slot1": [
+        {
+          "nombre": "Vulpix",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/37.png"
+        },
+        {
+          "nombre": "Torchic",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/255.png"
+        },
+        {
+          "nombre": "Darumaka",
+          "img": ""
+        }
+      ],
+      "Slot2": [
+        {
+          "nombre": "Ninetales",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/38.png"
+        },
+        {
+          "nombre": "Combusken",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/256.png"
+        },
+        {
+          "nombre": "Houndoom",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/229.png"
+        }
+      ],
+      "Slot3": [
+        {
+          "nombre": "Typhlosion",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/157.png"
+        },
+        {
+          "nombre": "Houndoom",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/229.png"
+        },
+        {
+          "nombre": "Darmanitan Standard Mode",
+          "img": ""
+        }
+      ],
+      "traduccion": "¿Sabes lo caliente que puede llegar a ser el aliento de fuego de Pokémon?"
+    }
+  ],
+  "Water": [
+    {
+      "Typo": "Water",
+      "texto": "These waters are treacherous!",
+      "Slot1": [
+        {
+          "nombre": "Shellder",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/90.png"
+        },
+        {
+          "nombre": "Mudkip",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/258.png"
+        },
+        {
+          "nombre": "Barboach",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/339.png"
+        }
+      ],
+      "Slot2": [
+        {
+          "nombre": "Cloyster",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/91.png"
+        },
+        {
+          "nombre": "Marshtomp",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/259.png"
+        },
+        {
+          "nombre": "Crawdaunt",
+          "img": ""
+        }
+      ],
+      "Slot3": [
+        {
+          "nombre": "Feraligatr",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/160.png"
+        },
+        {
+          "nombre": "Whiscash",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/340.png"
+        },
+        {
+          "nombre": "Carracosta",
+          "img": ""
+        }
+      ],
+      "traduccion": "Estas aguas son traicioneras."
+    },
+    {
+      "Typo": "Water",
+      "texto": "These waters are treacherous!",
+      "Slot1": [
+        {
+          "nombre": "Magikarp",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/129.png"
+        }
+      ],
+      "Slot2": [
+        {
+          "nombre": "Magikarp",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/129.png"
+        }
+      ],
+      "Slot3": [
+        {
+          "nombre": "Magikarp",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/129.png"
+        },
+        {
+          "nombre": "Gyarados",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/130.png"
+        }
+      ],
+      "traduccion": "Estas aguas son traicioneras."
+    }
+  ],
+  "Electric": [
+    {
+      "Typo": "Electric",
+      "texto": "Get ready to be shocked!",
+      "Slot1": [
+        {
+          "nombre": "Magnemite",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/81.png"
+        },
+        {
+          "nombre": "Blitzle",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/522.png"
+        },
+        {
+          "nombre": "Joltik",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/595.png"
+        }
+      ],
+      "Slot2": [
+        {
+          "nombre": "Geodude Alolan Geodude",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/74_al.png"
+        },
+        {
+          "nombre": "Voltorb",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/100.png"
+        },
+        {
+          "nombre": "Electabuzz",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/125.png"
+        }
+      ],
+      "Slot3": [
+        {
+          "nombre": "Ampharos",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/181.png"
+        },
+        {
+          "nombre": "Luxray",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/405.png"
+        },
+        {
+          "nombre": "Galvantula",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/596.png"
+        }
+      ],
+      "traduccion": "¡Prepárate para sorprenderte!"
+    }
+  ],
+  "Grass": [
+    {
+      "Typo": "Grass",
+      "texto": "Don't tangle with us!",
+      "Slot1": [
+        {
+          "nombre": "Hoppip",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/187.png"
+        },
+        {
+          "nombre": "Treecko",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/252.png"
+        },
+        {
+          "nombre": "Snover",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/459.png"
+        }
+      ],
+      "Slot2": [
+        {
+          "nombre": "Grovyle",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/253.png"
+        },
+        {
+          "nombre": "Lileep",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/345.png"
+        },
+        {
+          "nombre": "Ferrothorn",
+          "img": ""
+        }
+      ],
+      "Slot3": [
+        {
+          "nombre": "Vileplume",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/45.png"
+        },
+        {
+          "nombre": "Meganium",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/154.png"
+        },
+        {
+          "nombre": "Cacturne",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/332.png"
+        }
+      ],
+      "traduccion": "¡No te metas con nosotros!"
+    }
+  ],
+  "Ice": [
+    {
+      "Typo": "Ice",
+      "texto": "You're gonna be frozen in your tracks.",
+      "Slot1": [
+        {
+          "nombre": "Sandshrew Alolan Sandshrew",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/27_al.png"
+        },
+        {
+          "nombre": "Sneasel",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/215.png"
+        },
+        {
+          "nombre": "Snorunt",
+          "img": ""
+        }
+      ],
+      "Slot2": [
+        {
+          "nombre": "Ninetales Alolan Ninetales",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/38_al.png"
+        },
+        {
+          "nombre": "Glalie",
+          "img": ""
+        },
+        {
+          "nombre": "Froslass",
+          "img": ""
+        }
+      ],
+      "Slot3": [
+        {
+          "nombre": "Glalie",
+          "img": ""
+        },
+        {
+          "nombre": "Abomasnow",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/460.png"
+        },
+        {
+          "nombre": "Froslass",
+          "img": ""
+        }
+      ],
+      "traduccion": "Te quedarás congelado en seco."
+    }
+  ],
+  "Fighting": [
+    {
+      "Typo": "Fighting",
+      "texto": "This buff physique isn't just for show!",
+      "Slot1": [
+        {
+          "nombre": "Machop",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/66.png"
+        },
+        {
+          "nombre": "Mankey",
+          "img": ""
+        },
+        {
+          "nombre": "Timburr",
+          "img": ""
+        }
+      ],
+      "Slot2": [
+        {
+          "nombre": "Hitmonlee",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/106.png"
+        },
+        {
+          "nombre": "Hitmonchan",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/107.png"
+        },
+        {
+          "nombre": "Gurdurr",
+          "img": ""
+        }
+      ],
+      "Slot3": [
+        {
+          "nombre": "Infernape",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/392.png"
+        },
+        {
+          "nombre": "Toxicroak",
+          "img": ""
+        },
+        {
+          "nombre": "Conkeldurr",
+          "img": ""
+        }
+      ],
+      "traduccion": "¡Este físico musculoso no es sólo para lucirse!"
+    }
+  ],
+  "Poison": [
+    {
+      "Typo": "Poison",
+      "texto": "Coiled and ready to strike!",
+      "Slot1": [
+        {
+          "nombre": "Koffing",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/109.png"
+        },
+        {
+          "nombre": "Sneasel Hisuian Sneasel",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/215.png"
+        },
+        {
+          "nombre": "Croagunk",
+          "img": ""
+        }
+      ],
+      "Slot2": [
+        {
+          "nombre": "Nidorina",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/30.png"
+        },
+        {
+          "nombre": "Nidorino",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/33.png"
+        }
+      ],
+      "Slot3": [
+        {
+          "nombre": "Weezing",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/110.png"
+        },
+        {
+          "nombre": "Toxicroak",
+          "img": ""
+        },
+        {
+          "nombre": "Amoonguss",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/591.png"
+        }
+      ],
+      "traduccion": "¡Enrollado y listo para atacar!"
+    }
+  ],
+  "Ground": [
+    {
+      "Typo": "Ground",
+      "texto": "You'll be defeated into the ground!",
+      "Slot1": [
+        {
+          "nombre": "Rhyhorn",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/111.png"
+        },
+        {
+          "nombre": "Wooper",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/194.png"
+        },
+        {
+          "nombre": "Drilbur",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/529.png"
+        }
+      ],
+      "Slot2": [
+        {
+          "nombre": "Rhyhorn",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/111.png"
+        },
+        {
+          "nombre": "Drilbur",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/529.png"
+        },
+        {
+          "nombre": "Vibrava",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/329.png"
+        }
+      ],
+      "Slot3": [
+        {
+          "nombre": "Flygon",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/330.png"
+        },
+        {
+          "nombre": "Whiscash",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/340.png"
+        },
+        {
+          "nombre": "Torterra",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/389.png"
+        }
+      ],
+      "traduccion": "¡Serás derrotado hasta el suelo!"
+    }
+  ],
+  "Flying": [
+    {
+      "Typo": "Flying",
+      "texto": "Battle against my Flying-type Pokémon!",
+      "Slot1": [
+        {
+          "nombre": "Pidgey",
+          "img": ""
+        },
+        {
+          "nombre": "Zubat",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/41.png"
+        },
+        {
+          "nombre": "Starly",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/396.png"
+        }
+      ],
+      "Slot2": [
+        {
+          "nombre": "Zubat",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/41.png"
+        },
+        {
+          "nombre": "Gligar",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/207.png"
+        },
+        {
+          "nombre": "Staravia",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/397.png"
+        }
+      ],
+      "Slot3": [
+        {
+          "nombre": "Pidgeot",
+          "img": ""
+        },
+        {
+          "nombre": "Dragonite",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/149.png"
+        },
+        {
+          "nombre": "Archeops",
+          "img": ""
+        }
+      ],
+      "traduccion": "¡Lucha contra mis Pokémon de tipo Volador!"
+    }
+  ],
+  "Psychic": [
+    {
+      "Typo": "Psychic",
+      "texto": "Are you scared of psychics that use unseen power?",
+      "Slot1": [
+        {
+          "nombre": "Gothita",
+          "img": ""
+        },
+        {
+          "nombre": "Solosis",
+          "img": ""
+        }
+      ],
+      "Slot2": [
+        {
+          "nombre": "Wobbuffet",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/202.png"
+        },
+        {
+          "nombre": "Duosion",
+          "img": ""
+        },
+        {
+          "nombre": "Gothorita",
+          "img": ""
+        }
+      ],
+      "Slot3": [
+        {
+          "nombre": "Metagross",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/376.png"
+        },
+        {
+          "nombre": "Gallade",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/475.png"
+        },
+        {
+          "nombre": "Reuniclus",
+          "img": ""
+        }
+      ],
+      "traduccion": "¿Tienes miedo de los psíquicos que usan poderes invisibles?"
+    }
+  ],
+  "Bug": [
+    {
+      "Typo": "Bug",
+      "texto": "Go, my super bug Pokémon!",
+      "Slot1": [
+        {
+          "nombre": "Caterpie",
+          "img": ""
+        },
+        {
+          "nombre": "Scyther",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/123.png"
+        },
+        {
+          "nombre": "Venipede",
+          "img": ""
+        }
+      ],
+      "Slot2": [
+        {
+          "nombre": "Anorith",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/347.png"
+        },
+        {
+          "nombre": "Karrablast",
+          "img": ""
+        },
+        {
+          "nombre": "Shelmet",
+          "img": ""
+        }
+      ],
+      "Slot3": [
+        {
+          "nombre": "Beedrill",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/15.png"
+        },
+        {
+          "nombre": "Forretress",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/205.png"
+        },
+        {
+          "nombre": "Scizor",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/212.png"
+        }
+      ],
+      "traduccion": "¡Vamos, mi Pokémon súper bicho!"
+    }
+  ],
+  "Rock": [
+    {
+      "Typo": "Rock",
+      "texto": "Let's rock and roll!",
+      "Slot1": [
+        {
+          "nombre": "Roggenrola",
+          "img": ""
+        },
+        {
+          "nombre": "Tirtouga",
+          "img": ""
+        },
+        {
+          "nombre": "Archen",
+          "img": ""
+        }
+      ],
+      "Slot2": [
+        {
+          "nombre": "Graveler",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/75.png"
+        },
+        {
+          "nombre": "Cranidos",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/408.png"
+        },
+        {
+          "nombre": "Shieldon",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/410.png"
+        }
+      ],
+      "Slot3": [
+        {
+          "nombre": "Golem",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/76.png"
+        },
+        {
+          "nombre": "Carracosta",
+          "img": ""
+        },
+        {
+          "nombre": "Archeops",
+          "img": ""
+        }
+      ],
+      "traduccion": "¡Vamos a rockanrolear!"
+    }
+  ],
+  "Ghost": [
+    {
+      "Typo": "Ghost",
+      "texto": "Ke...ke...ke...ke...ke...ke!",
+      "Slot1": [
+        {
+          "nombre": "Duskull",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/355.png"
+        },
+        {
+          "nombre": "Drifloon",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/425.png"
+        },
+        {
+          "nombre": "Golett",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/622.png"
+        }
+      ],
+      "Slot2": [
+        {
+          "nombre": "Sableye",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/302.png"
+        },
+        {
+          "nombre": "Dusclops",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/356.png"
+        },
+        {
+          "nombre": "Golett",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/622.png"
+        }
+      ],
+      "Slot3": [
+        {
+          "nombre": "Gengar",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/94.png"
+        },
+        {
+          "nombre": "Froslass",
+          "img": ""
+        },
+        {
+          "nombre": "Marowak Alolan Marowak",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/105_al.png"
+        }
+      ],
+      "traduccion": "Ke…ke…ke…ke…ke…ke!！"
+    }
+  ],
+  "Dragon": [
+    {
+      "Typo": "Dragon",
+      "texto": "ROAR! ...How'd that sound?",
+      "Slot1": [
+        {
+          "nombre": "Dratini",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/147.png"
+        },
+        {
+          "nombre": "Bagon",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/371.png"
+        },
+        {
+          "nombre": "Gible",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/443.png"
+        }
+      ],
+      "Slot2": [
+        {
+          "nombre": "Exeggutor Alolan Exeggutor",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/103_al.png"
+        },
+        {
+          "nombre": "Dragonair",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/148.png"
+        },
+        {
+          "nombre": "Gabite",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/444.png"
+        }
+      ],
+      "Slot3": [
+        {
+          "nombre": "Dragonite",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/149.png"
+        },
+        {
+          "nombre": "Salamence",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/373.png"
+        },
+        {
+          "nombre": "Garchomp",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/445.png"
+        }
+      ],
+      "traduccion": "¡RUGIDO! … ¿Qué te parece?"
+    }
+  ],
+  "Dark": [
+    {
+      "Typo": "Dark",
+      "texto": "Wherever there is light, there is also shadow.",
+      "Slot1": [
+        {
+          "nombre": "Rattata Alolan Rattata",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/19_al.png"
+        },
+        {
+          "nombre": "Cacnea",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/331.png"
+        },
+        {
+          "nombre": "Stunky",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/434.png"
+        }
+      ],
+      "Slot2": [
+        {
+          "nombre": "Raticate Alolan Raticate",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/20_al.png"
+        },
+        {
+          "nombre": "Muk Alolan Muk",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/89_al.png"
+        }
+      ],
+      "Slot3": [
+        {
+          "nombre": "Muk Alolan Muk",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/89_al.png"
+        },
+        {
+          "nombre": "Skuntank",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/435.png"
+        }
+      ],
+      "traduccion": "Donde hay luz, también hay sombra."
+    }
+  ],
+  "Steel": [
+    {
+      "Typo": "Steel",
+      "texto": "You're no match for my iron will!",
+      "Slot1": [
+        {
+          "nombre": "Sandshrew Alolan Sandshrew",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/27_al.png"
+        },
+        {
+          "nombre": "Diglett Alolan Diglett",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/50_al.png"
+        },
+        {
+          "nombre": "Ferroseed",
+          "img": ""
+        }
+      ],
+      "Slot2": [
+        {
+          "nombre": "Skarmory",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/227.png"
+        },
+        {
+          "nombre": "Lairon",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/305.png"
+        },
+        {
+          "nombre": "Metang",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/375.png"
+        }
+      ],
+      "Slot3": [
+        {
+          "nombre": "Sandslash Alolan Sandslash",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/28_al.png"
+        },
+        {
+          "nombre": "Scizor",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/212.png"
+        },
+        {
+          "nombre": "Empoleon",
+          "img": ""
+        }
+      ],
+      "traduccion": "¡No eres rival para mi voluntad de hierro!！"
+    }
+  ],
+  "Fairy": [
+    {
+      "Typo": "Fairy",
+      "texto": "Check out my cute Pokémon!",
+      "Slot1": [
+        {
+          "nombre": "Vulpix Alolan Vulpix",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/37_al.png"
+        },
+        {
+          "nombre": "Snubbull",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/209.png"
+        },
+        {
+          "nombre": "Mawile",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/303.png"
+        }
+      ],
+      "Slot2": [
+        {
+          "nombre": "Snubbull",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/209.png"
+        },
+        {
+          "nombre": "Granbull",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/210.png"
+        },
+        {
+          "nombre": "Kirlia",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/281.png"
+        }
+      ],
+      "Slot3": [
+        {
+          "nombre": "Ninetales Alolan Ninetales",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/38_al.png"
+        },
+        {
+          "nombre": "Granbull",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/210.png"
+        },
+        {
+          "nombre": "Gardevoir",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/282.png"
+        }
+      ],
+      "traduccion": "¡Mira mi lindo Pokémon!！"
+    }
+  ],
+  "Misc": [
+    {
+      "Typo": "Misc",
+      "texto": "Don't bother—I've already won.\nGet ready to be defeated!\nWinning is for winners.",
+      "Slot1": [
+        {
+          "nombre": "Snorlax",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/143.png"
+        }
+      ],
+      "Slot2": [
+        {
+          "nombre": "Poliwrath",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/62.png"
+        },
+        {
+          "nombre": "Snorlax",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/143.png"
+        },
+        {
+          "nombre": "Gardevoir",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/282.png"
+        }
+      ],
+      "Slot3": [
+        {
+          "nombre": "Gyarados",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/130.png"
+        },
+        {
+          "nombre": "Snorlax",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/143.png"
+        },
+        {
+          "nombre": "Dragonite",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/149.png"
+        }
+      ],
+      "traduccion": "No te molestes, ya he ganado.;\n¡Prepárate para ser derrotado!\n¡Ganar es para los ganadores!"
+    },
+    {
+      "Typo": "Misc",
+      "texto": "Don't bother—I've already won.\nGet ready to be defeated!\nWinning is for winners.",
+      "Slot1": [
+        {
+          "nombre": "Chikorita",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/152.png"
+        },
+        {
+          "nombre": "Cyndaquil",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/155.png"
+        },
+        {
+          "nombre": "Totodile",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/158.png"
+        }
+      ],
+      "Slot2": [
+        {
+          "nombre": "Bayleef",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/153.png"
+        },
+        {
+          "nombre": "Quilava",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/156.png"
+        },
+        {
+          "nombre": "Croconaw",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/159.png"
+        }
+      ],
+      "Slot3": [
+        {
+          "nombre": "Meganium",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/154.png"
+        },
+        {
+          "nombre": "Typhlosion",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/157.png"
+        },
+        {
+          "nombre": "Feraligatr",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/160.png"
+        }
+      ],
+      "traduccion": "No te molestes, ya he ganado.;\n¡Prepárate para ser derrotado!\n¡Ganar es para los ganadores!"
+    }
+  ]
+}
