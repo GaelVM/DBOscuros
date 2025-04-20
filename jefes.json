@@ -1,0 +1,181 @@
+{
+  "Arlo": [
+    {
+      "Jefe": "Arlo",
+      "Slot1": [
+        {
+          "nombre": "Grimer Alolan Grimer",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/88_al.png"
+        }
+      ],
+      "Slot2": [
+        {
+          "nombre": "Dugtrio",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/51.png"
+        },
+        {
+          "nombre": "Gyarados",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/130.png"
+        },
+        {
+          "nombre": "Slowbro",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/80.png"
+        }
+      ],
+      "Slot3": [
+        {
+          "nombre": "Muk Alolan Muk",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/89_al.png"
+        },
+        {
+          "nombre": "Scizor",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/212.png"
+        },
+        {
+          "nombre": "Metagross",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/376.png"
+        }
+      ]
+    }
+  ],
+  "Cliff": [
+    {
+      "Jefe": "Cliff",
+      "Slot1": [
+        {
+          "nombre": "Cubone",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/104.png"
+        }
+      ],
+      "Slot2": [
+        {
+          "nombre": "Marowak",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/105.png"
+        },
+        {
+          "nombre": "Machoke",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/67.png"
+        },
+        {
+          "nombre": "Annihilape",
+          "img": ""
+        }
+      ],
+      "Slot3": [
+        {
+          "nombre": "Machamp",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/68.png"
+        },
+        {
+          "nombre": "Crobat",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/169.png"
+        },
+        {
+          "nombre": "Tyranitar",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/248.png"
+        }
+      ]
+    }
+  ],
+  "Sierra": [
+    {
+      "Jefe": "Sierra",
+      "Slot1": [
+        {
+          "nombre": "Skorupi",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/451.png"
+        }
+      ],
+      "Slot2": [
+        {
+          "nombre": "Ninetales",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/38.png"
+        },
+        {
+          "nombre": "Milotic",
+          "img": ""
+        },
+        {
+          "nombre": "Ferrothorn",
+          "img": ""
+        }
+      ],
+      "Slot3": [
+        {
+          "nombre": "Nidoqueen",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/31.png"
+        },
+        {
+          "nombre": "Houndoom",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/229.png"
+        },
+        {
+          "nombre": "Drapion",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/452.png"
+        }
+      ]
+    }
+  ],
+  "Decoy Grunt": [
+    {
+      "Jefe": "Decoy Grunt",
+      "Slot1": [
+        {
+          "nombre": "Bellsprout",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/69.png"
+        }
+      ],
+      "Slot2": [
+        {
+          "nombre": "Raticate",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/20.png"
+        },
+        {
+          "nombre": "Weepinbell",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/70.png"
+        }
+      ],
+      "Slot3": [
+        {
+          "nombre": "Raticate",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/20.png"
+        },
+        {
+          "nombre": "Snorlax",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/143.png"
+        }
+      ]
+    }
+  ],
+  "Giovanni": [
+    {
+      "Jefe": "Giovanni",
+      "Slot1": [
+        {
+          "nombre": "Persian",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/53.png"
+        }
+      ],
+      "Slot2": [
+        {
+          "nombre": "Nidoking",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/34.png"
+        },
+        {
+          "nombre": "Kingdra",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/230.png"
+        },
+        {
+          "nombre": "Rhyperior",
+          "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Ico/464.png"
+        }
+      ],
+      "Slot3": [
+        {
+          "nombre": "Palkia",
+          "img": ""
+        }
+      ]
+    }
+  ]
+}
